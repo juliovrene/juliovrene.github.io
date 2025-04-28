@@ -404,6 +404,23 @@ Description: Battery indicator, but cute
 Name: BatteryBuddy
 Author: Traurige & neilsardesai <hello@traurige.dev>
 
+Package: com.nathan.batterycli
+Architecture: iphoneos-arm
+Version: 1.0
+Section: System
+Maintainer: Nathan
+Installed-Size: 212
+Filename: ./debs/arm/BatteryCLI.1.0.arm.deb
+Size: 4920
+MD5sum: a2bfdc813ed9d320f2331ae43bc33d03
+SHA1: de6a5a9a3012ce172153fba4a574af191fc12815
+SHA256: 07f67e38babde031fa24c4bc38632ba7950c81dcd3a4053ad7c0870785191f1b
+SHA512: ad288d92bc2c2d65644b099b408500828d7672990831d67e369d5b22c707d51efbfb1a1ccd50518ac4fbc777e876a27727fed599af7a5e8506dfb506632d8f81
+Description: Simple cli tweak that reads battery percent and prints it out
+Tag: role::hacker
+Name: BatteryCLI
+Author: Nathan
+
 Package: dev.ploosh.batterypercent
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -1081,6 +1098,24 @@ Name: Enable known networks
 Author: zhaonan
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.enableknownnetworks/js.json
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+
+Package: dev.traurige.eneko
+Architecture: iphoneos-arm
+Version: 1.4.2
+Section: Tweaks
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 404
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.eneko
+Filename: ./debs/arm/Eneko.1.4.2.arm.deb
+Size: 28472
+MD5sum: fb17101390dc8ddc56579716b0eae2bf
+SHA1: 3de5ca9112817abffe9278f3f25b3d7cdccb5ef4
+SHA256: 8537e4a93d3a043dbce1481674727f164f279f7d09dfef0d9f4d1cd7ae8b9979
+SHA512: 7bcc38c11e44fd4550538d36782fc2adff2527c32c8e159025e4484572561f8893299f58db92ee697ed36beabfd4f70ce27d3eaa4b8505511c838925687256f6
+Description: Live wallpapers for iOS
+Name: Eneko
+Author: Traurige <hello@traurige.dev>
 
 Package: com.squidforce.exacttimeen
 Architecture: iphoneos-arm
@@ -3060,6 +3095,23 @@ Description: An awesome MobileSubstrate tweak!
 Name: PhotosPlus
 Author: nowesr1
 
+Package: com.nathan.pinghooker
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Nathan Senter
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm/PingHooker.1.1.arm.deb
+Size: 6124
+MD5sum: 68696f545d199931d28490d1d57d1490
+SHA1: f7549ae15e17bd392b61ebd256ed908494ca921d
+SHA256: 6c8d7779f884bf21afb312ee61a6830e613c42b5f821a576d81684e170cd97b7
+SHA512: 64b3487fd198888ff47adb89a40db463667a59317b0db3c29a146b90dd2a4decd7df6f8e9b7715476ecbe6a53aa8368a7766405b1cf19debf2dccb335298733c
+Description: Change the sound the phone plays when pinged by watch!
+Name: PingHooker
+Author: Nathan Senter
+
 Package: com.cydiageek.playmusiconrecord
 Architecture: iphoneos-arm
 Version: 1.0.4
@@ -3319,6 +3371,23 @@ Name: Respr1ng
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=respr1ngDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: mrdensor
+
+Package: com.nathan.respringcc
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Nathan
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport
+Filename: ./debs/arm/RespringCC.1.0.arm.deb
+Size: 5900
+MD5sum: ed2c541dea6e4d995c311cf246db8f77
+SHA1: 92035d26cfc37e144242ead3c5155ebd49f7aaac
+SHA256: ab3c6d5ee83b0eabe3cb76950211a877b9514edba2f5ea060fd378f745e1c1cb
+SHA512: ae1ff4cf2aa5d7e47bd4c8413fe6d29669d9fddf91e03dd7115419d3ba6d0df396cfb9ef8813563d3a8bf5fe9ebef5c6ad6f92d660708317c670d5e0a0069266
+Description: CC toggle to respring
+Name: RespringCC
+Author: Nathan
 
 Package: com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm
@@ -4055,6 +4124,23 @@ SileoDepiction: https://www.idevicehacked.com/depictions/com.smokin1337.togglow/
 Author: smokin1337 <smokin1337@gmail.com>
 Icon: https://www.idevicehacked.com/depictions/com.smokin1337.togglow/icon.png
 
+Package: com.nathan.trolllock
+Architecture: iphoneos-arm
+Version: 1.0.3
+Priority: optional
+Section: Tweaks
+Maintainer: Nathan
+Installed-Size: 428
+Depends: firmware (>> 12), mobilesubstrate
+Filename: ./debs/arm/TrollLock.1.0.3.arm.deb
+Size: 166228
+MD5sum: 24796f5344d3cd04495cd7e2558458e1
+SHA1: 3e02628b1c13a00fa557ec6b88d2b203202cb4a6
+SHA256: 502fc5e97632c8f497eb21a84d76522c8d0d14aa5163226dda88a24f0296e41c
+SHA512: 9c086517383cd9f6805fccae1253311f3415e53162e754a97195689012947762e463cea67dcdfe5ae8692f1b17cf8c3e6cf924a1f8415596beeb4ff8de7f3422
+Description: Tweak that turns the faceID glyph into a trollface
+Name: TrollLock
+
 Package: com.kdt.trollpad
 Architecture: iphoneos-arm
 Version: 1.3
@@ -4436,6 +4522,40 @@ Author: nowesr1
 Icon: https://raw.githubusercontent.com/nowesr1/WhatsApp-Location-Spoofer/refs/heads/main/Sileo/icon.png
 SileoDepiction: https://raw.githubusercontent.com/nowesr1/WhatsApp-Location-Spoofer/main/Sileo/depiction.json
 
+Package: com.nathan.wallpaperchanger
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Nathan
+Installed-Size: 144
+Filename: ./debs/arm/WallpaperChanger.1.1.arm.deb
+Size: 4216
+MD5sum: 069a863b1968b0f91950699df0658ede
+SHA1: b6bf627760604c636bdf9ebfca28606645592159
+SHA256: caa3724e3d3fc17d4d1447dd4406aeed31f65f5dbb74a7f51a0288ca87cb8e99
+SHA512: 47242b868a75f415ce976744e61cc53d55ff0be631fa23d2d964b2e8953a282e74d301b6c3f1572b0da395aa8a30a21744ad987b1d24d4cd94bb0f540e432447
+Description: Change wallpaper from command line
+Name: WallpaperChanger
+Author: Nathan
+
+Package: com.nathan.ytadsdisablebg
+Architecture: iphoneos-arm
+Version: 1.0.0
+Priority: optional
+Section: Tweaks
+Maintainer: Nathan
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/arm/YTAdsDisablebg.1.0.0.arm.deb
+Size: 4184
+MD5sum: 840d9c029567470da15f7c841034e2b2
+SHA1: b09863f01b20ecb03c797a77bb47dd78fd633df6
+SHA256: c5c40f7b21552ae79cfe9c8a57212f67bec2e073018c5aabc0efb3fa3540345a
+SHA512: bc3e76cfc7eb51e03dac8a2456c2944a7273fb69b110b534b2924e793f791d7633665e63d00c3da41362f857577c5fc47e318ae8bb7b48727514e7cb5c6155ca
+Description: A simple tweak to disable youtube ads, enable background playback, and bring back the old quality selector
+Name: YTAdsDisablebg
+Author: Nathan
+
 Package: com.miro.yellowpages2
 Architecture: iphoneos-arm
 Version: 1.1
@@ -4750,6 +4870,23 @@ Author: zhaonan
 SileoDepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fh/js.json
 Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_terminal.png
 
+Package: com.nathan.fr
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Nathan
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm/fr.1.0.arm.deb
+Size: 25204
+MD5sum: 16e6e4661846c17e91398a788113c623
+SHA1: c7721cc24c0b1c0cf6a8216cd0381877f020b521
+SHA256: e8ec9154529a2af53a18870e79a174aff3531b7f90fb0885dab49f6f6114c403
+SHA512: 9038578f08a3698e0a6880623c880cc5287348119bc9883e41e3cdd81c064ca9f147e79be31b5671216fe817924f9dcf99015463ba8ee0e1d37817ad326dfc99
+Description: fr
+Name: fr
+Author: Nathan
+
 Package: com.nan.ft
 Architecture: iphoneos-arm
 Version: 0.5.0
@@ -4994,6 +5131,24 @@ Description: Lower your Dynamic Island and make it disappear if you don't need i
 Name: mineland
 Author: 34306, DuyKhanhTran
 
+Package: com.nathan.ngrokios
+Architecture: iphoneos-arm
+Version: 1.0.0
+Priority: optional
+Section: Networking
+Maintainer: Nathan
+Installed-Size: 152
+Depends: firmware (>> 14)
+Filename: ./debs/arm/ngrok.1.0.0.arm.deb
+Size: 5354648
+MD5sum: 49d6cbb87c80fb354886c22e4aa8cf54
+SHA1: 4629efe064cd98c28b566bd81f582b974fb56d7b
+SHA256: 14770d5ff0c26aee8198b4bec25dee157ff4afdf219a6ff58afc4909b9e4a26b
+SHA512: e3a971b87dc2d0cb4ba2efbec49e6631605e415f2b4780bd429103a83beb194c9e1e15adac0c4559fdff765625b39bf56d7e469e3b00fed7b418d58aa649b49b
+Description: ngrok for iOS
+Name: ngrok
+Author: Nathan
+
 Package: daniel.old-lockscreen
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -5027,6 +5182,23 @@ Description: 将插件路径修补到 /var/jb/，这应该会解决 xinna 无法
 Name: patch path(beta)
 Author: zhaonan
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+
+Package: com.nathan.playcli
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Terminal Support
+Maintainer: Nathan
+Installed-Size: 428
+Depends: mobilesubstrate
+Filename: ./debs/arm/playcli.1.0.2.arm.deb
+Size: 10228
+MD5sum: d7cbbc2a261136fce66a9fcaeb853489
+SHA1: 2e5feaa5e081eaf604c3823f38475b70cae5daac
+SHA256: a08ff85cc1786a5ba18f1a280cc5255bd60a1ba32978503eb3487f173dbb5a52
+SHA512: 0419f06e20bc60016143a0dd9e58166879f311ff4a0a06870c86cb8aeb814805578d081121aaa25c565c938bebe128992f1f161564921014a350b59deb1c7037
+Description: Command-line tool to play audio files (playback is done by the SpringBoard though).
+Name: playcli
+Author: Nathan, original is ArtikusHG
 
 Package: com.no5up-kanji.relicloader
 Architecture: iphoneos-arm
@@ -5081,6 +5253,23 @@ Description: A CLI rootful to rootless patcher.
 Tag: role::hacker
 Name: rootless-patcher
 Author: Nightwind and staturnz
+
+Package: com.qwertyoruiop.serialsh
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: System
+Maintainer: qwertyoruiop
+Depends:
+Filename: ./debs/arm/serialsh.0.0.1.arm.deb
+Size: 5252
+MD5sum: fbda99f4604bdd7eb3d75595294f7847
+SHA1: 257108f89925bb02301dddcb3822d342adeeabf1
+SHA256: 41722d39d6433ab2c242c192829c19b46818dbfbec71bf1da945708cd4a390fc
+SHA512: 06847355f7f2e52df2693e29418469df73c9c91a9796a1a0efda0a6d000c570cf1a791cf402ee073a4c0e2fc21f0d271018be08a304f08e21660fa489a4b604f
+Description: safety net against bootloops
+Tag: role::hacker
+Name: serialsh
+Author: qwertyoruiop
 
 Package: com.nan.snap
 Architecture: iphoneos-arm
@@ -9701,6 +9890,23 @@ Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.hislerim
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.hislerim/depiction.json
 
+Package: com.nathan.homehider
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/HomeHider.1.1.arm64.deb
+Size: 2652
+MD5sum: 852c880fed7ece7b2862b06eb4ff4e61
+SHA1: 367a644108c52c628fe1cbc0308658aab8318195
+SHA256: 367d02b85d000b0a40f31ab5850ebb82e55534bf9eaff70042025bbf60ec71dc
+SHA512: 4dfc9a26a331e52ea8503b713241da384489c7408f909a6988012bbda09747e5a9fc3f56912399dac2a70163aa2001127ff93263535c41e5b22731fbbf44b891
+Description: Tweak to hide your homebar!
+Name: HomeHider
+Author: Nathan Senter
+
 Package: me.lightmann.iamlazy-cli
 Architecture: iphoneos-arm64
 Version: 2.6.0
@@ -11953,6 +12159,23 @@ Depiction: https://repo.packix.com/package/com.popsicletreehouse.photodock
 SileoDepiction: https://repo.packix.com/depictions/com.popsicletreehouse.photodock/depiction.json
 Icon: https://repo.packix.com/media/com.popsicletreehouse.photodock/icon.png
 
+Package: com.nathan.pinghooker
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: Nathan Senter
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/PingHooker.1.1.arm64.deb
+Size: 6192
+MD5sum: c8584fa4fde85cdf73e7e65b994b5e17
+SHA1: 094980da2825348707e41a07d5f272eb6b1c1e2a
+SHA256: cb1494fc89c9dd0471b4620a129300f66b712407e59244df47cbdd5338d1acb5
+SHA512: ef707d69f7a906e92427d5cb35d21e581778b89dd2bd0e2198e34c759fe0e4c21d307e36b58dc8a5f7fd716b54c41675a819a387cd7a6aa1bcf903fe91fce5be
+Description: Change the sound the phone plays when pinged by watch!
+Name: PingHooker
+Author: Nathan Senter
+
 Package: me.kritanta.pivot
 Architecture: iphoneos-arm64
 Version: 0.2.2
@@ -12774,6 +12997,23 @@ Name: Respring after reboot userspace
 Author: zhaonan
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.raru/js.json
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+
+Package: com.nathan.respringcc
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Nathan
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport
+Filename: ./debs/arm64/RespringCC.1.0.arm64.deb
+Size: 5936
+MD5sum: e9c0614aa0301bb2bedcb0cee04f6219
+SHA1: 7edb3433ce671343b7a0398940f0f7e809c5841d
+SHA256: 7df25f3f4ea5faeb40c6e3c209cd2ad35f7b72297fdd4839e979303e51626bed
+SHA512: f3606982aeed99e6d9101976a3d1858e330dd3c7e0e17f27377fc02912f79e798df564cf9b4fc83077b51db907cd6fa0a74fa621b269129e894c33cb5d46aad7
+Description: CC toggle to respring
+Name: RespringCC
+Author: Nathan
 
 Package: weeb.lillie.youtubedislikesreturn
 Architecture: iphoneos-arm64
@@ -14590,6 +14830,23 @@ Icon: https://repo.igerman.cc/assets/cc.igerman.trim/icon.png
 Tags: compatible_min::ios15.0, compatible_max::ios15.4.1
 Author: iGerman <igerman@igerman.cc>
 
+Package: com.nathan.trolllock
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Priority: optional
+Section: Tweaks
+Maintainer: Nathan
+Installed-Size: 428
+Depends: firmware (>=12.0), mobilesubstrate
+Filename: ./debs/arm64/TrollLock.1.0.3.arm64.deb
+Size: 166356
+MD5sum: d15cb493746669124d135ebd84cbd3d0
+SHA1: 458e2dc24d95bf0de889f6ea816b5481c4c92b83
+SHA256: dde23744616f21a7222010ebf27edf71d274d7ce5b90db6e6823ab6a9f71e8c8
+SHA512: 0612088e9b71e9f49470ebd8cf2a29b76aea77be0beddd4a756a845f207649c9f1a1dfc48bea399efbc0c64ddacccdf254f57bd7afaa7a6cdeade601f4542103
+Description: Tweak that turns the faceID glyph into a trollface
+Name: TrollLock
+
 Package: com.kdt.trollpad
 Architecture: iphoneos-arm64
 Version: 1.3
@@ -15504,6 +15761,24 @@ Description: IMPORTANT: Make sure to use Dopamine 1.1 or Xinam1ne if you are usi
 Name: Xinamine Patcher
 Author: NoW4U2Kid
 
+Package: com.nathan.ytadsdisablebg
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Priority: optional
+Section: Tweaks
+Maintainer: Nathan
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/arm64/YTAdsDisablebg.1.0.0.arm64.deb
+Size: 4236
+MD5sum: cff0e1f4acd029baa71d68ab1b5e904a
+SHA1: b45264671d24a7c5c2c3030c5123287c8848cf6f
+SHA256: c71f163da863d405de1cec11afbe7e915a583061aa19ca124b27b6008477b37b
+SHA512: 6382b69d7290759e3d1625f08f53615a1e4aa80fe74fcdbae89a5ac3193873a543382d0625c99dd58bcff00bfd03f899054fee459404d17a968d721273e9244a
+Description: A simple tweak to disable youtube ads, enable background playback, and bring back the old quality selector
+Name: YTAdsDisablebg
+Author: Nathan
+
 Package: com.ps.ytuhd
 Architecture: iphoneos-arm64
 Version: 1.6.1
@@ -15923,6 +16198,23 @@ Author: zhaonan
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.dpkg-fill/js_daemon.json
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 
+Package: com.nathan.fr
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Nathan
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/fr.1.0.arm64.deb
+Size: 25272
+MD5sum: 1226b50ad2f13a16c25f14e88a4c1408
+SHA1: 51ef50f430e11b92706bf56b2dda9bd3a39cf5bc
+SHA256: d9895cce871ac446b989298ae74c6489fd844c8b71c543a40bcebac8b04b5549
+SHA512: 6eda746c1b1026998b76f7df4bdf75b15c205cebc36e94afdd616e15386adc9c7dc3b43f9de8e3923914a7dababf955d2374aee96dad9d0a4b6204a17ae00204
+Description: fr
+Name: fr
+Author: Nathan
+
 Package: com.nan.ft
 Architecture: iphoneos-arm64
 Version: 0.5.1
@@ -15940,6 +16232,23 @@ Name: ft
 Author: zhaonan
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.ft/js.json
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
+
+Package: com.nathan.gridswitcher
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Nathan Senter
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/gridswitcher.1.0.1.arm64.deb
+Size: 2444
+MD5sum: bfe9196363c4cfed5e02b5b036bd1200
+SHA1: a001a2eac2d60f7d0344d82fa35c9189ffd4690e
+SHA256: b0d5983ef0baca711611d773bd0210a1fb7e3222dc4445586a81e7ff2d6a1541
+SHA512: 8aea3d8ff98c478c6278b3c605db42f6e1f3dcc7d77dfed5697c8a1057066f0c93951b58104f538c0438718134fd1ea8064d796fc8915e57b97237765a2e749f
+Description: An awesome MobileSubstrate tweak!
+Name: gridswitcher
+Author: Nathan Senter
 
 Package: com.exile90.icleanerpro
 Architecture: iphoneos-arm64
