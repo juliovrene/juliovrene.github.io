@@ -38913,6 +38913,47 @@ Name: BetterCCBrightness
 Author: level3tjg
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/betterccbrightness.png
 
+Package: xyz.cypwn.bigshotsnapper3plugin
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: CyPwn
+Installed-Size: 532
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware(>=14.0), com.opa334.ccsupport
+Filename: ./debs/arm64e/xyz.cypwn.bigshotsnapper3plugin_1.1_iphoneos-arm64e.deb
+Size: 21112
+MD5sum: 936ff2ade8adf96f3db7f5e7884f75f2
+SHA1: 5dfc15aea8dc24f3770a1727a7b905629fa7e980
+SHA256: 1e598d899338b4f4c964462df0fecc75f059565a723d2bd085319fd56bc2fb58
+SHA512: eaed049267f521b33e6bc2fbc29ab933fffed3a7984e0a62b9e7ab43e409506999ed2cc683374170f15eda6928b35479ab17012e51b7854a6279b71be56ee74b
+Description: BigShot CC module for iOS 14/15/16 and Snapper 3 plugin. Snapper 3 is NOT required to use this. It can be used as a standalone CC module.
+Depiction: https://repo.cypwn.xyz/depiction/1537
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1537
+Name: BigShot for Snapper 3 and CCSupport
+Author: Jonathan Winger-lang
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/bigshotsnapper3.png
+
+Package: xyz.cypwn.bookmarkicons
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: Tweaks
+Maintainer: CyPwn
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/xyz.cypwn.bookmarkicons_1.0-1_iphoneos-arm64e.deb
+Size: 17892
+MD5sum: e24914306e08a82ea11c47951b406c72
+SHA1: a4351baed1e8034709824d4c596a46a165ab3fc9
+SHA256: 3f1810ba2364d507b9cbbbaa932038fa5777888fbb42c7373a4d21cedf10e423
+SHA512: e6794d4e56c87098ac6d6d04cb5cbf51502dfc70ef37274324fde0ccf218bbc9bbb92e4c58efc6973d0d97b48a8524c19c900be741bae5c3e76de8ffa5211c90
+Description: Set custom icons for Safari bookmarks.
+Depiction: https://repo.cypwn.xyz/depiction/3138
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/3138
+Icon: https://repo.cypwn.xyz/packages/BookmarkIcons-Rootless/icon.png
+Name: BookmarkIcons
+Author: shiftcmdk
+
 Package: xyz.cypwn.ccvpn
 Architecture: iphoneos-arm64e
 Version: 1.1.1-2
