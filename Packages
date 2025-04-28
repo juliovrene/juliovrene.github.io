@@ -1,3 +1,21 @@
+Package: com.babylon-vip.adblockpro
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Tweaks
+Maintainer: Haidar_Phantom
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/arm/AdBlock.Pro.0.1.arm.deb
+Size: 43904
+MD5sum: a287a7492da1e0b46c01e298d5eeff1b
+SHA1: 89cc3dcbbe3567e6df10b4cffcba9273c874439b
+SHA256: 31a815cb94350006b09bb863e8c9e65a9c0f82a4d1e2ec34bf748f63de84aec7
+SHA512: 518dd26573f40aa09f1826a2b97f6cd031cf2495da274ee978981a4b3b1ea456dca4f180ff696cb76b9c71d2af77f96348336eb1c53c47e10d20328f36386b87
+Description: Enable Premium Subscription
+Name: AdBlock Pro
+Author: Haidar_Phantom
+Icon: https://i.imgur.com/91cYYdn.jpeg
+
 Package: com.dhinakg.addprofileinstallbutton
 Architecture: iphoneos-arm
 Version: 1.0.2
@@ -170,6 +188,25 @@ SHA512: ad8f0b3ae8cd0d2fad28458c086e1d789fbce53ab50bfc2fa09be04da05222035e885ee7
 Description: Rotate the album artwork!
 Name: ArtworkSpinner
 Author: Lessica
+
+Package: com.babylon-vip.athkar
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Tweaks
+Maintainer: Haidar_Phantom
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/arm/Athkar.|.أذكار.0.1.arm.deb
+Size: 44176
+MD5sum: 4dcbf827a732779ba097b20ed826ffc0
+SHA1: 221b4e4a4a5ec225a8b4abaa8ec1716be8401f17
+SHA256: ce9fa2de6086f21becd2a916e7d5d1b64ecb607f037b5b006d553cfc4c279170
+SHA512: 189fe41bba9ef98c319e32c348fbdd1d06ecdf3ff8b7e2e37d1f59beaaf99a204293c64968e1afe22a7c98a9f11230303c93c9089944a63716f514468e33318e
+Homepage:
+Description: Enable Premium Subscription
+Name: Athkar | أذكار
+Author: Haidar_Phantom
+Icon: https://i.imgur.com/1zWICJz.jpeg
 
 Package: com.shiftcmdk.autoalerts
 Architecture: iphoneos-arm
@@ -791,6 +828,27 @@ Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
 Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
+
+Package: com.opa334.crane
+Architecture: iphoneos-arm
+Version: 1.3.16-4
+Section: Tweaks
+Maintainer: opa334
+Installed-Size: 3432
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/arm/Crane.1.3.16-4.arm.deb
+Size: 648792
+MD5sum: 707d269af44d25b93668b3eacc1d77d9
+SHA1: 54c38fc7f0681d7fe734a03ee303cba7b9bfcccc
+SHA256: 0e84d81058cb9eff1537f52ef48f9d94feefb8b65f42ccebd58db16e695fb9d5
+SHA512: b59179e037a6d64a16af9917fc05dffe569cc9af32b85d5e777301801c4fb05642cf6a7d0f443815631c43f13883e5eafe92d1c2bff46220b7c2b4ed85a30c59
+Description: Multiple containers for your applications!
+Name: Crane
+Author: opa334
+Depiction: https://havoc.app/depiction/crane
+SileoDepiction: https://havoc.app/package/crane/depiction.json
+Icon: https://media.havoc.app/61ffad4e82c2e1d835f525ba
 
 Package: com.cydiageek.cthulhu
 Architecture: iphoneos-arm
@@ -3299,6 +3357,24 @@ Description: Free & Open Source Tweak for Reddit
 Name: Reddit No Ads
 Author: Hao Nguyen
 
+Package: com.fouadraheb.regram
+Architecture: iphoneos-arm
+Version: 1.0~b23
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 10956
+Depends: mobilesubstrate
+Filename: ./debs/arm/Regram.for.Instagram.1.0~b23.arm.deb
+Size: 3017064
+MD5sum: b69ad48778f4e077d6dce70462089fce
+SHA1: 4f27d50e0f857918258200906e10856c3e3012bb
+SHA256: c1d317d6c90049251c07114b3d5340e60ea6aa1f8b976e6b7800f99419c7a5dd
+SHA512: 3848a3a40a596832eb488b18e55499bda5c7e8ed5ebaa4f4ecd12ad2a20b4993238dc9e26bc2c0a4b6f4c2623dd850a34dad2c3fcd4edda749353c7f74092e98
+Description: The all-in-one tweak for Instagram
+Name: Regram for Instagram
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: https://i.imgur.com/tFs2XYN.jpeg
+
 Package: com.r0.relocatereborn
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -3920,6 +3996,25 @@ Description: Another Network Speed View!
 Name: SpeedView
 Author: Dell
 
+Package: com.f0u4d.stalky
+Architecture: iphoneos-arm
+Version: 4.1.37
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6760
+Depends: mobilesubstrate, com.f0u4d.watusitools
+Enhances: WhatsApp
+Filename: ./debs/arm/Stalky.4.1.37.arm.deb
+Size: 1577288
+MD5sum: 279c89e86542564d8819621f54fdc937
+SHA1: 266967dfd6b80f2661b6833eb620e90aeb9d03e9
+SHA256: 6dec2dd42e3cb70b02c309d32b7829b3455b7d52df0615e044719cbe3117c3ba
+SHA512: b1a399c2af0b7798f299658d94046c8ed9d24398905b6110125ab0a6d2fc1259a677c1312fd1a2e708b9171adc9351030e9d537a9677b6c287da39135034b0e6
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Name: Stalky
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: https://i.imgur.com/dCflnyf.jpeg
+
 Package: net.tateu.strongerfi12
 Architecture: iphoneos-arm
 Version: 1.0.0~beta5
@@ -4347,23 +4442,6 @@ Name: Velvet 2
 Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
 Depiction: https://chariz.com/get/velvet-2
 
-Package: codes.aurora.ve
-Architecture: iphoneos-arm
-Version: 2.0
-Section: Tweaks
-Maintainer: Alexandra Aurora Göttlicher
-Installed-Size: 708
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./debs/arm/Vē.2.0.arm.deb
-Size: 72312
-MD5sum: 473ff00ab4a0373682a4b9dc14317cad
-SHA1: 596c23635d5a263e8b15419fb79e644de55a0634
-SHA256: 5eeab1659a65d87169814eaf1c4e29ce1fd1074d96de13dbfeaa6c8d811f69ec
-SHA512: 885b44ea9e6246b85139ce3f23a0061a942b70df60d4a3a5be89383c2724df691bf5f82e39a07d777d62266cebf036c30c25e51b8acbc28da3c3709d85e2b79d
-Description: Natively integrated notification logger.
-Name: Vē
-Author: Alexandra Aurora Göttlicher, 74k1_
-
 Package: com.den.vibetok
 Architecture: iphoneos-arm
 Version: 1.2-11+debug
@@ -4484,6 +4562,23 @@ Description: Change the Volume Button vibrations, color the Volume HUD, and add 
 Name: VolVibes
 Author: Ethan Whited
 
+Package: codes.aurora.ve
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: Alexandra Aurora Göttlicher
+Installed-Size: 708
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/arm/Vē.2.0.arm.deb
+Size: 72312
+MD5sum: 473ff00ab4a0373682a4b9dc14317cad
+SHA1: 596c23635d5a263e8b15419fb79e644de55a0634
+SHA256: 5eeab1659a65d87169814eaf1c4e29ce1fd1074d96de13dbfeaa6c8d811f69ec
+SHA512: 885b44ea9e6246b85139ce3f23a0061a942b70df60d4a3a5be89383c2724df691bf5f82e39a07d777d62266cebf036c30c25e51b8acbc28da3c3709d85e2b79d
+Description: Natively integrated notification logger.
+Name: Vē
+Author: Alexandra Aurora Göttlicher, 74k1_
+
 Package: twitter.nowesr1.waignorecalls
 Architecture: iphoneos-arm
 Version: 1.1
@@ -4537,6 +4632,41 @@ SHA512: 47242b868a75f415ce976744e61cc53d55ff0be631fa23d2d964b2e8953a282e74d301b6
 Description: Change wallpaper from command line
 Name: WallpaperChanger
 Author: Nathan
+
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm
+Version: 1.2.60
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6424
+Depends: mobilesubstrate, com.f0u4d.watusitools
+Filename: ./debs/arm/Watusi.3.for.WhatsApp.1.2.60.arm.deb
+Size: 1914804
+MD5sum: f6dc145ec832807f18edfdbedec43abf
+SHA1: 577bea5e9705786f5384942d4583c8929ea45218
+SHA256: b83ff5c0498dffbb7cae65bbb3938094d88e940a89560c110ab6f2413403bcea
+SHA512: 72a2ca3e0ce8a41760c7940915bbdc70734493426ec67e65049d7ae79e7ea0df0d61d124596d696073928ea362f499e2289304b849aa6672e93ae3ca2bd0148c
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: https://i.imgur.com/uZB1iIP.jpeg
+
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm
+Version: 2.5.10
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 12.0)
+Filename: ./debs/arm/WatusiTools.2.5.10.arm.deb
+Size: 4613756
+MD5sum: 94c04e6616e3d7b3d2fc381368c6fbe0
+SHA1: 0d5551770116a60b9a9b4ea2da5ed20c823fbf74
+SHA256: c611e0a84cf2f48166d996e0f2a250c9b2ca21f336cf5b734ffc9401e57c6e2e
+SHA512: 310a02f05a9eead33db3a03f0accacbc03839af81b480ee8874d555754fad477bdf4e9fa54b87d58c3b9aafe5b0c29f47a6769ae904642872ff1ebd211f58a39
+Description: Library for Watusi, Regram and other tweaks
+Name: WatusiTools
+Icon: https://i.imgur.com/l9dqM3v.jpeg
+Author: Fouad Raheb <support@fouadraheb.com>
 
 Package: com.nathan.ytadsdisablebg
 Architecture: iphoneos-arm
@@ -5345,6 +5475,23 @@ Name: uYouImport
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyouimport
 Author: MiRO <tweaks_support@miro92.com>
 
+Package: dev.unlock.00
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: adry
+Depends: firmware (>= 13.0)
+Filename: ./debs/arm/unlock.apps.0.0.1.arm.deb
+Size: 8448
+MD5sum: bfff4819f3696e7161f120c06c40990e
+SHA1: 280424502aabbd057baf4581f3966ab509956c83
+SHA256: 4380c6ecd2a87d6adab36f6696c923904a01ec50211b9a1165a2df95696d3f06
+SHA512: 70cdcce34fb04894ea444c44f328e5bc1d041e0898c6b765c5197eb0a948866e792458b466b232fc4789cd14d6bec6521f0bba34755ab09b508a2264d229f1cf
+Description: unlock premium for most apps
+Name: unlock apps
+Author: adry
+Icon: https://i.imgur.com/m2Bn0u4.jpeg
+
 Package: com.34306.watchedd
 Architecture: iphoneos-arm
 Version: 1.2-1
@@ -5978,6 +6125,24 @@ Description: Undo, redo, select all, copy, cut and paste actions on bottom of ke
 Name: ActionBar Reborn
 Author: Netskao
 
+Package: com.babylon-vip.adblockpro
+Architecture: iphoneos-arm64
+Version: 0.1
+Section: Tweaks
+Maintainer: Haidar_Phantom
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/arm64/AdBlock.Pro.0.1.arm64.deb
+Size: 43144
+MD5sum: 4aed41e04a8a969b4c8575c31cb06db4
+SHA1: 93be8682447177cb0a18b7731796fa2b58bd82b3
+SHA256: 68b76b02b8c4ef1c4e1a7e8fb8604034ad192bf3b5690a0e5ea3d715c9a69819
+SHA512: f9afe4b9baea2018e3a5815d0647758c034dc2078ea24efca3e4d68b39b31ac5239121dea00a9018d3c18b80f142b5a6d2cc3d9e4603fa2b725de2558ebfacc8
+Description: Enable Premium Subscription
+Name: AdBlock Pro
+Author: Haidar_Phantom
+Icon: https://i.imgur.com/91cYYdn.jpeg
+
 Package: com.nan.aaaa
 Architecture: iphoneos-arm64
 Version: 0.2.0-1
@@ -6131,6 +6296,26 @@ Name: Allemand
 Author: Evelyn
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.allemand/js.json
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
+
+Package: com.mtac.alpine
+Architecture: iphoneos-arm64
+Version: 1.4
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 1112
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common
+Filename: ./debs/arm64/Alpine.1.4.arm64.deb
+Size: 601588
+MD5sum: c8908c15182536f90c1c9fb86b108445
+SHA1: 576a89c8c86afca44ec66105b8016e1f660a9afc
+SHA256: b30b2f2b98bb266b9725e2ef2b48242f3d2b51c058bc2b3d7aea8e66f5ab6f50
+SHA512: 5abb6b4f45314d04a1f73ea0ea6c15add8180754754e1cf1efbbfa0e06b73ba740a4f1b034f10f89f1ad2668dd7ffd11142255a756ee55004083e88a3c92c723
+Description: tvOS alerts for iOS
+Name: Alpine
+Author: MTAC
+Depiction: https://havoc.app/depiction/alpine
+SileoDepiction: https://havoc.app/package/alpine/depiction.json
+Icon: https://media.havoc.app/64ae21880d54f9113bc13a59
 
 Package: com.darwindev.alternative-springboardservices
 Architecture: iphoneos-arm64
@@ -6477,6 +6662,25 @@ Name: ArtworkSpinner 旋转的艺术
 Author: Lessica
 Icon: https://TrollStoreX.Github.io/sileodepiction/ArtworkSpinner/icon.png
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/ArtworkSpinner/js.json
+
+Package: com.babylon-vip.athkar
+Architecture: iphoneos-arm64
+Version: 0.1
+Section: Tweaks
+Maintainer: Haidar_Phantom
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/arm64/Athkar.|.أذكار.0.1.arm64.deb
+Size: 44172
+MD5sum: e8a9133e644245067cbeb434cd04e92f
+SHA1: eb6dfbdff7407e83736dad14518826719c0aa557
+SHA256: cf0bd79e68fbf2183d582dcbbb09922f9eb2e3439f8030379c528502bcd8a04a
+SHA512: ac3c8e9506a98693017599840d9e8fd9cec08918c177a0255d766663fb26b19a1c750825e6da4a2a408940da7a84852e2d2fff2257e13d6e2d23a48da45cfef3
+Homepage:
+Description: Enable Premium Subscription
+Name: Athkar | أذكار
+Author: Haidar_Phantom
+Icon: https://i.imgur.com/1zWICJz.jpeg
 
 Package: com.shiftcmdk.autoalerts
 Architecture: iphoneos-arm64
@@ -6878,6 +7082,25 @@ SHA512: ba75bf5ef431fd778b66865a28ed3af9ffcf0a0528f9ea119ac1366d38c3a799fc19edf5
 Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: BandarHelal
+
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm64
+Version: 4.3-6
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 23824
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/arm64/BHTwitter.4.3-6.arm64.deb
+Size: 7613340
+MD5sum: 7d6f22a5061af5dc450f206e1f52d336
+SHA1: a6f65bdc67a2a931e6a97b49b029a2866b5e02dc
+SHA256: 302b6081002d034fcd399f3e9ef1cfbbc453f398facabc2dddbfa41022f612e0
+SHA512: 95e12ae2dd15027d633d318a345350bed68d3b5740537c36ee8b5f04e39e2778e43489559a10e9d827006a544892b3a8076965731aec9a6a7ce3b8a310bb73f9
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Author: Bandar Alruwaili
+Icon: https://arm64.pro/a/BHTwitter/x.png
+Sileodepiction: https://arm64.pro/a/BHTwitter/a.json
 
 Package: com.cpdigitaldarkroom.barmoji
 Architecture: iphoneos-arm64
@@ -7427,6 +7650,27 @@ Name: CC18 iOS18 圆角控制中心
 Author: dvntm
 icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/CC18/js.json
+
+Package: com.0xkuj.ccadsbegone.rootless
+Architecture: iphoneos-arm64
+Version: 1.5
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 6096
+Depends: com.opa334.ccsupport, com.ps.letmeblock (>= 1.3.0)
+Conflicts: com.0xkuj.ccadsbegone
+Filename: ./debs/arm64/CCAdsBeGone.(rootless).1.5.arm64.deb
+Size: 952524
+MD5sum: 1b1f720bf0a1d2071cfb61fbc67dab2c
+SHA1: a8f9df345bea49512104233fbbfbfd4cbe840bb5
+SHA256: 059e8bb873aa62a2555e77b395937250477048db2f09def7a2c43e787794c66a
+SHA512: 2fc4b152ab01202bc4498cf5ec43f77444f39f05c4170a0b45d838a026ffff07013311bd1f419ef4f54034a27931e13eca6a62d4b2a4863ef43cef400287e157
+Description: CC Toggle to block ads on demand!
+Name: CCAdsBeGone (rootless)
+Author: 0xkuj
+Icon: https://cdn-static.yourepo.com/images/debs/com.yourepo.0xkuj.rootless1.png
+Depiction: https://0xkuj.yourepo.com/pack/rootless1
+SileoDepiction: https://0xkuj.yourepo.com/sileo/depiction/rootless1
 
 Package: com.fiore.ccborder
 Architecture: iphoneos-arm64
@@ -7985,6 +8229,27 @@ SHA512: 4ae21626aea38e710655a8994b693b47c69e0b93380411ee70235000968ae5ea9279aa21
 Description: A modern crash reporter for iOS
 Name: Cr4shed
 Author: Muirey03
+
+Package: com.opa334.crane
+Architecture: iphoneos-arm64
+Version: 1.3.16-4
+Section: Tweaks
+Maintainer: opa334
+Installed-Size: 3232
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/arm64/Crane.1.3.16-4.arm64.deb
+Size: 602256
+MD5sum: f32ed4ad9a2642bcf47372d979b10fc9
+SHA1: 051d3e6ff1a3ed03090ce7c2973f2dc81aa76669
+SHA256: 10fffcc9f6dead9b70eefcedd95312b34dc5c02705a834681d636b99f2649aa4
+SHA512: 0413385b48048edfd7193c5902bc341dc4b40621363d9d5ac8b9a04e2717d6c757ebbdbd52c0d569db27bc04e1a06913c4f940a3268d79e4bf46220f1da366d0
+Description: Multiple containers for your applications!
+Name: Crane
+Author: opa334
+Depiction: https://havoc.app/depiction/crane
+SileoDepiction: https://havoc.app/package/crane/depiction.json
+Icon: https://media.havoc.app/61ffad4e82c2e1d835f525ba
 
 Package: cm90.crossoveripc
 Architecture: iphoneos-arm64
@@ -9013,6 +9278,25 @@ Description: A tweak that kills forced updates from WhatsApp completely
 Name: FckZck
 Author: ifilipis
 
+Package: com.netskao.filzacrack
+Architecture: iphoneos-arm64
+Version: 1.1-8
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 88
+Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
+Filename: ./debs/arm64/Filza.Crack.1.1-8.arm64.deb
+Size: 4988
+MD5sum: 96489e2cf719293149dcfe08f956cc1e
+SHA1: 6b5684d31712b21544febf680f5d7a6f3ce39e8e
+SHA256: 7334b763d18d9e2e455acec4feeb44593ecada238e7fcc281bfef2ebf279d41d
+SHA512: d7c2c4c8ee16e30d6d859aa83df2d847da4eeb66e2ac853d1f3d283c545c77f7a45b112ad265c9e0e2abe7b3108350022de61adf2181bc300bd1e6838b04e7f1
+Homepage: https://tigisoftware.com/cydia/
+Description: Filza unlock full functionality, the main program please install in the official source
+Name: Filza Crack
+Author: Netskao
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.filzacrack.json
+
 Package: com.nan.allemand-filza-script
 Architecture: iphoneos-arm64
 Version: 0.1.0
@@ -9581,6 +9865,26 @@ SHA512: 94c5e19618bec7374a82546f8557b30a9cea75bc86eec581278e1e44ec72c3a9db165fdc
 Description: Shake your phone to unhinge your icons!
 Name: Gravitation
 Author: Kritanta && Hitori
+
+Package: com.mikifp.griddy
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Section: Tweaks
+Maintainer: mikifp
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/arm64/Griddy.1.0.5.arm64.deb
+Size: 19876
+MD5sum: 77103a6319c2b0b9ad8f82698d565165
+SHA1: 15f6c8e624d6b907ace02400e63b3be77fbb072c
+SHA256: 14939501fe62b1a5dfa10abc26b881c54244935fc852792d92d08f2e5e0bdc8b
+SHA512: df040eaf4b5d60f40b42b14675974c5eb672cfb3f461e53c9b09458228a7fc8dc6db4b4dfb1afa5474b19dfdbc3575c72dd81920fa21e6a5842f7328dc05419c
+Description: Layout your icons anywhere you want!
+Name: Griddy
+Author: mikifp
+Depiction: https://havoc.app/depiction/griddy
+SileoDepiction: https://havoc.app/package/griddy/depiction.json
+Icon: https://media.havoc.app/6718f4c922a19f8847897613
 
 Package: com.cydiageek.gyration
 Architecture: iphoneos-arm64
@@ -10741,6 +11045,26 @@ Description: Lower your notifications limit to any point you wish in your locksc
 Name: LowerNotifs
 Author: 0xkuj
 
+Package: com.mtac.lynxtwo
+Architecture: iphoneos-arm64
+Version: 2.5.4
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 2952
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/arm64/Lynx.2.2.5.4.arm64.deb
+Size: 677484
+MD5sum: 7d1ccf864f64ee56b640db8f3c465189
+SHA1: 7af2948f4fa3d741ccb1e1b23085257af4bd0b88
+SHA256: af8d8a6d113ba8804ad30a7959606d4fa8c1fe5a6fd36f65fb35781c7fcea57a
+SHA512: 01934bd151043d0d6400c67f103ee0810ca9858647ef88c23067ad5e52b7eec821de842e50902ebd2bf2c88e279307c3d402748c302464d99cbb5920006341e3
+Description: Ultimate iDevice Customization for iOS 14, 15 & 16
+Name: Lynx 2
+Author: MTAC
+Depiction: https://havoc.app/depiction/lynxtwo
+SileoDepiction: https://havoc.app/package/lynxtwo/depiction.json
+Icon: https://media.havoc.app/64a1d7f9351a82652447cb09
+
 Package: com.mtac.lynxtwo.localizations
 Architecture: iphoneos-arm64
 Version: 2.5
@@ -11595,6 +11919,26 @@ Description: Hide the notch on notched iPhones, iOS 11? - 13
     Created by Guillermo Moran, updated for iOS 13 by Egg aka CRKatri
 Name: NotchBeGone
 Author: Guillermo Moran
+
+Package: com.0xkuj.notificationsgroupcount
+Architecture: iphoneos-arm64
+Version: 1.0.7
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/NotificationsGroupCount.1.0.7.arm64.deb
+Size: 79952
+MD5sum: 76358d8edb5f29ff559388c3042c520a
+SHA1: 3e7d67d55f47991698e8af3e5a8321ffe4ee9157
+SHA256: e4598d5da76c84ebd24817554da433271ea794d4bffca0d5520a224cc444fb92
+SHA512: 1b4b2459287fcd1202089d2dd293487bc3766db191a3d476e1973b3e67b2504289c2253e2df67d6f31399b5fab5fa31fd08a13e354c5d85cfc4e1d6da3ee507b
+Description: Count those notifications inside Apple notifications grouping!
+Name: NotificationsGroupCount
+Author: 0xkuj
+Icon: https://cdn-static.yourepo.com/images/debs/com.yourepo.0xkuj.notificationsgroupcount.png
+Depiction: https://0xkuj.yourepo.com/pack/notificationsgroupcount
+SileoDepiction: https://0xkuj.yourepo.com/sileo/depiction/notificationsgroupcount
 
 Package: com.notificationsgroupcounts.zh-Hans
 Architecture: iphoneos-arm64
@@ -12905,6 +13249,24 @@ Depiction: https://cydia.ichitaso.com/depiction/regionchanger.html
 dev: ichitaso
 Icon: https://raw.githubusercontent.com/ichitaso/RegionChanger/main/Resources/AppIcon60x60%403x.png
 
+Package: com.fouadraheb.regram
+Architecture: iphoneos-arm64
+Version: 1.0~b23
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 10956
+Depends: mobilesubstrate
+Filename: ./debs/arm64/Regram.for.Instagram.1.0~b23.arm64.deb
+Size: 3025044
+MD5sum: 81c434e563141b3c8b9eed62214e3be7
+SHA1: 99739f516c5b8064a2bb5b16ad1845b8abaed2a0
+SHA256: 792bdcc9ffd1a48107847c3523e87e0d70d7f4cff0bf6f82318afef7d05fecf9
+SHA512: c212e0761ab74f634b321057cc3ae3824541dc82383d5c289a20d6a1ef23791be775ca4305506df5db26bff055b88f60bff1a95d8c0d5eba52d6c0f88ca42049
+Description: The all-in-one tweak for Instagram
+Name: Regram for Instagram
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: https://i.imgur.com/tFs2XYN.jpeg
+
 Package: com.ps.replaykitmax
 Architecture: iphoneos-arm64
 Version: 1.0.1
@@ -13224,6 +13586,26 @@ Description: Rosemary font for A-Font
 Name: Rosemary
 Author: kernelrw
 Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXFl2CV8QgcFS19nFqxmw9HUiEGHx-PNdQQ&s
+
+Package: com.icraze.rune
+Architecture: iphoneos-arm64
+Version: 1.3.1
+Section: Tweaks
+Maintainer: iCraze
+Installed-Size: 6644
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
+Filename: ./debs/arm64/Rune.1.3.1.arm64.deb
+Size: 1732868
+MD5sum: d84c623e7e77610279625e0c4a8e85b1
+SHA1: 6101a999747f16544d9bea164e752948d654c2c0
+SHA256: 36bccd271cd5bbd2c537aae98a32d592cb08e08133a3a85b49ef68186a9843b0
+SHA512: 9a83a96391f7307cf5c4295e08d1e13aa8322193e17b0044b1bc1b2def74219a9460999e1042321c1469e9fb7e8390aca032c82d86278e263ba441f1c9cfcbb3
+Description: Control at your fingertips
+Name: Rune
+Author: iCraze
+Depiction: https://havoc.app/depiction/rune
+SileoDepiction: https://havoc.app/package/rune/depiction.json
+Icon: https://media.havoc.app/65725389d4f97796e0c52850
 
 Package: com.socuul.scinsta
 Architecture: iphoneos-arm64
@@ -13870,6 +14252,26 @@ Author: 82Flex
 icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon.png
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/jj.json
 
+Package: com.uckermark.siriplus
+Architecture: iphoneos-arm64
+Version: 1.4
+Section: Tweaks
+Maintainer: Uckermark
+Installed-Size: 1480
+Depends: dev.theos.orion (>= 1.0.0), com.opa334.ccsupport, mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/arm64/SiriPlus.1.4.arm64.deb
+Size: 255828
+MD5sum: e8cc0fc7b13e32f363debf0a725955f6
+SHA1: 38c7021011e73e17582b10eaf8230974103f1b2d
+SHA256: 9f974303624b7d89f07d3d8b162022398ec65164ebb622db0f349be8b32f06c5
+SHA512: 846d3df35c7cc639beaac3de744ad69a565cdc489cae56d6928f5257301fd4932e15988bbe23cea5d55825ac954d9a72e058df34220af2aa2b7e71e66456de72
+Description: Replace Siri with ChatGPT/Gemini
+Name: SiriPlus
+Author: Uckermark
+Depiction: https://havoc.app/depiction/siriplus
+SileoDepiction: https://havoc.app/package/siriplus/depiction.json
+Icon: https://media.havoc.app/65e33489f1efdf19d02cf252
+
 Package: com.cydiageek.skinnysettings
 Architecture: iphoneos-arm64
 Version: 1.6.7
@@ -13932,6 +14334,27 @@ Name: SmallBoard 键盘下沉
 Author: iCraze
 icon: https://TrollStoreX.Github.io/sileodepiction/SmallBoard/icon.png
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/SmallBoard/js.json
+
+Package: com.idevicelover.smartbatteryios15
+Architecture: iphoneos-arm64
+Version: 1.6
+Section: Tweaks
+Maintainer: elias
+Installed-Size: 2412
+Depends: ws.hbang.common
+Conflicts: com.idevicelover.smartbattery2
+Filename: ./debs/arm64/SmartBattery.iOS.15.-.16.1.6.arm64.deb
+Size: 688156
+MD5sum: 3077aca88c7e964539cc33f9ebd7cbe2
+SHA1: a392d3f903eb3c63d74f73dd9db8480a5e978303
+SHA256: 6321dcb7581b8f145494c497608f50d4d1d44a19a347cff3b987e02346ee646b
+SHA512: 2dd5b0ec086ebba32ace79f20b956a4e396c40306b7576c92191a14dacd95612f8ab406d6c3db89288caea74fc34dcc96f40db18c9fb46821280912cafeed739
+Description: An awesome MobileSubstrate tweak!
+Name: SmartBattery iOS 15 - 16
+Author: elias
+Depiction: https://havoc.app/depiction/smartbatteryios
+SileoDepiction: https://havoc.app/package/smartbatteryios/depiction.json
+Icon: https://media.havoc.app/6380e31f7246bed7c12ae8e4
 
 Package: cum.0xilis.snooliebattery
 Architecture: iphoneos-arm64
@@ -14164,6 +14587,25 @@ SHA512: 8c306efebd257d893944ad10b4850e1714462a54162ce9c88d654320c0f65201c5fb2bf8
 Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
 Name: SpotCC
 Author: P2KDev <p2kdev@gmail.com>
+
+Package: com.f0u4d.stalky
+Architecture: iphoneos-arm64
+Version: 4.1.37
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6760
+Depends: mobilesubstrate, com.f0u4d.watusitools
+Enhances: WhatsApp
+Filename: ./debs/arm64/Stalky.4.1.37.arm64.deb
+Size: 1604200
+MD5sum: a56f7631e3346cc14d52676f3bae8838
+SHA1: 9547c3eea383c9ba5b5ea175c2ff13d35ed37698
+SHA256: 6544f184751814231945419fc527541994976facc01740a5204226f483a5e3b3
+SHA512: c3ac1d6f4c1edbe9bb22292056309ebe3d86ca276e5d0b42e59cff2a3d3ce7b902be9afdb98dbaecec37a5b58f400743fedaa0f7cc5148ecc64b16e1286a04a2
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Name: Stalky
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: https://i.imgur.com/dCflnyf.jpeg
 
 Package: com.0xkuj.staypros
 Architecture: iphoneos-arm64
@@ -14691,6 +15133,26 @@ Description: Show estimate time left on charging battery
 Name: Time Left
 Author: 34306
 
+Package: com.p2kdev.tinge
+Architecture: iphoneos-arm64
+Version: 1.2.2
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 436
+Depends: firmware (>= 15.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: ./debs/arm64/Tinge.1.2.2.arm64.deb
+Size: 40932
+MD5sum: 151e3d0bc4af75dd474adc6855fcbfb6
+SHA1: 648650d4007cb653e23706c7e0501f2033bf3ba7
+SHA256: dfb81ab3c105b55e8fc343ee6e468546bc7cd6f8de08609396c3a45837ee7829
+SHA512: 7805fa933d4c6ab166200f80963f0c4f4d553d32bae2373531959eff88782e43d6a7e31a88517c8aaedfbdedc0dd35ca67809b1c493c979fd4c3728ec67aea5c
+Description: Color your badges with Perfection!
+Name: Tinge
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://media.havoc.app/65d915afdc4f78f77542f9d4
+Depiction: https://havoc.app/depiction/tinge
+SileoDepiction: https://havoc.app/package/tinge/depiction.json
+
 Package: netskao.tinyccmodules-rootless
 Architecture: iphoneos-arm64
 Version: 1.1-1
@@ -14707,6 +15169,26 @@ SHA512: 213b25da9257c25bd0cb1c122ffea3c9bd169862369da6b9779d9493c98545b73e9a28f3
 Description: Tiny CCModules. TinyDisplayModule and TinyMediaAudioModule
 Name: TinyCCModules-Rootless
 Author: Netskao
+
+Package: com.82flex.touchvis
+Architecture: iphoneos-arm64
+Version: 3.8
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 3040
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/arm64/Touch-Viz.3.8.arm64.deb
+Size: 576500
+MD5sum: b7e9e9e2f4d3da14b39efad79a490dfe
+SHA1: 4cab7332e7dfca740ba27cf1ca21fe79c4fbc65d
+SHA256: a92b696b25cec97e341b86aee149c01f1cea0c0941c2b83c45b16ad311970f8f
+SHA512: 0421230320da8a2c44156172791695ddc29a6b25502020546a319ba8cde4496f222ee9bbb321afeadf74fb409ed9fd803ab292d4c215e3002cbd1e1d53f15a51
+Description: Display your touch interactions!
+Name: Touch-Viz
+Author: Lessica <82flex@gmail.com>
+Depiction: https://havoc.app/depiction/touchvis
+SileoDepiction: https://havoc.app/package/touchvis/depiction.json
+Icon: https://media.havoc.app/66b862c5328ec2048b895110
 
 Package: com.hitori.trakyarounded100
 Architecture: iphoneos-arm64
@@ -15261,23 +15743,6 @@ Name: Velvet 2
 Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
 Depiction: https://chariz.com/get/velvet-2
 
-Package: codes.aurora.ve
-Architecture: iphoneos-arm64
-Version: 2.0
-Section: Tweaks
-Maintainer: Alexandra Aurora Göttlicher
-Installed-Size: 740
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./debs/arm64/Vē.2.0.arm64.deb
-Size: 65068
-MD5sum: e579934c737526c5b9802dff885dfe6c
-SHA1: e6c9acff883225a41ad3280ab9c36ce00d4c077e
-SHA256: cad0c8c067df522c2efa08f3ab0cbd83117b8ec8f8819470a2146230a6b10971
-SHA512: 69ee8f0b2b4ab1592409db44b22333565e01fcda16a0d85404ee827f0d4222210e01cfdd372408acbcc03bdc78815386657618a7dedb98d977d6fcb7692d2160
-Description: Natively integrated notification logger.
-Name: Vē
-Author: Alexandra Aurora Göttlicher, 74k1_
-
 Package: com.den.vibetok
 Architecture: iphoneos-arm64
 Version: 1.2-11+debug
@@ -15506,6 +15971,23 @@ Description: Change the Volume Button vibrations, color the Volume HUD, and add 
 Name: VolVibes
 Author: Ethan Whited
 
+Package: codes.aurora.ve
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Tweaks
+Maintainer: Alexandra Aurora Göttlicher
+Installed-Size: 740
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/arm64/Vē.2.0.arm64.deb
+Size: 65068
+MD5sum: e579934c737526c5b9802dff885dfe6c
+SHA1: e6c9acff883225a41ad3280ab9c36ce00d4c077e
+SHA256: cad0c8c067df522c2efa08f3ab0cbd83117b8ec8f8819470a2146230a6b10971
+SHA512: 69ee8f0b2b4ab1592409db44b22333565e01fcda16a0d85404ee827f0d4222210e01cfdd372408acbcc03bdc78815386657618a7dedb98d977d6fcb7692d2160
+Description: Natively integrated notification logger.
+Name: Vē
+Author: Alexandra Aurora Göttlicher, 74k1_
+
 Package: twitter.nowesr1.waignorecalls
 Architecture: iphoneos-arm64
 Version: 1.0.1
@@ -15594,6 +16076,41 @@ Author: P2KDev <p2kdev@gmail.com>
 Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.waqt
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.waqt/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.waqt.json
+
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm64
+Version: 1.2.60
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6424
+Depends: mobilesubstrate, com.f0u4d.watusitools
+Filename: ./debs/arm64/Watusi.3.for.WhatsApp.1.2.60.arm64.deb
+Size: 1931684
+MD5sum: 982cc59725099e0eb7d0371103b16d50
+SHA1: 2674fe5e8798fba33aabd9e16a217fc07d2e563a
+SHA256: a69b290f9f6b309a7555797b2acf43fc16e065cb4bdcca05f697c67ad16f77ff
+SHA512: 53291601b348b0acf6e5d2e3dbb795c058b680013a8065bf476066811a818c6aa27e368c54474ab0d39c9271eef64499f78f8f2d904e1c8f43e633c5a3b9fa5e
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: https://i.imgur.com/uZB1iIP.jpeg
+
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64
+Version: 2.5.10
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 12.0)
+Filename: ./debs/arm64/WatusiTools.2.5.10.arm64.deb
+Size: 4635512
+MD5sum: 2b445987554ff391f59be3f93b21ed29
+SHA1: 73331e672f81f515c5b8720f60ea2fe9af17c304
+SHA256: de2a19c2be8564693d801c4efae7891d75db430b0f9e795f156a085b1389d258
+SHA512: d18ba71bc2ea53880017531f43629f1746ccaeefca88fa258c31f6e0be28221b5e8646d875ba4d37b50112e0a28b671b4bb2bf920a81fea3dae67875f482dfd7
+Description: Library for Watusi, Regram and other tweaks
+Name: WatusiTools
+Icon: https://i.imgur.com/l9dqM3v.jpeg
+Author: Fouad Raheb <support@fouadraheb.com>
 
 Package: com.netskao.wechatnotiavatars
 Architecture: iphoneos-arm64
@@ -17161,6 +17678,23 @@ Tag: purpose::extension, compatible_min::ios13
 Name: uYouImport
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyouimport
 Author: MiRO <tweaks_support@miro92.com>
+
+Package: dev.unlock.00
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: adry
+Depends: firmware (>= 15.0)
+Filename: ./debs/arm64/unlock.apps.0.0.1.arm64.deb
+Size: 8476
+MD5sum: fae390dbc2c23db3348082947e786983
+SHA1: c9db2d9e8b0dfe92c2611349e671caa179cff863
+SHA256: 1e970a488ea5d9aa581396d30bd5ab1b6c6b1dd9500fe20576c9fa0e9e85f0a6
+SHA512: afb26845c237c8e09077b546aa3a0b09193195222bd2b3f469ef85afab096c4febc0b1194076e4bb5f94097c1d256389dbf08a9787d8780805b699b84be48353
+Description: unlock premium for most apps
+Name: unlock apps
+Author: adry
+Icon: https://i.imgur.com/m2Bn0u4.jpeg
 
 Package: com.m1337.varclean
 Architecture: iphoneos-arm64
@@ -18772,6 +19306,25 @@ Author: Netskao
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/ActionBarReborn/js.json
 icon: https://TrollStoreX.Github.io/sileodepiction/ActionBarReborn/icon.png
 
+Package: com.babylon-vip.adblockpro
+Architecture: iphoneos-arm64e
+Version: 0.1
+Section: Tweaks
+Maintainer: Haidar_Phantom
+Installed-Size: 216
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/AdBlock.Pro.0.1.arm64e.deb
+Size: 43848
+MD5sum: 0199e9c1d87adcf13273792540fec635
+SHA1: 389bbd380b3aa20e85482ad41687bf97840986aa
+SHA256: f3d179262dbda31921458b3778d46e7bcecd61c157b409999c6ae08ed858ac33
+SHA512: 00f9b078c83a513db95f1f65c82af0040cc173ec5398433e8dbeebcfac8d9a42b37fd0150ec4f41fb8adace324b1893fee1a4399e147e54203b00df1d7c88c07
+Description: Enable Premium Subscription
+Name: AdBlock Pro
+Author: Haidar_Phantom
+Icon: https://i.imgur.com/91cYYdn.jpeg
+
 Package: com.nan.aaaa
 Architecture: iphoneos-arm64e
 Version: 0.2.0-1
@@ -19848,6 +20401,26 @@ Author: Lessica
 Icon: https://TrollStoreX.Github.io/sileodepiction/ArtworkSpinner/icon.png
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/ArtworkSpinner/js.json
 
+Package: com.babylon-vip.athkar
+Architecture: iphoneos-arm64e
+Version: 0.1
+Section: Tweaks
+Maintainer: Haidar_Phantom
+Installed-Size: 216
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/Athkar.|.أذكار.0.1.arm64e.deb
+Size: 45100
+MD5sum: 4a18f1a214c5e9d8beffdf7aa1b5fbd3
+SHA1: ece56f374824afad327e020ee8b1c8847fc4298d
+SHA256: 7bba959a6d2f761a2aed8a91d8fcb52b6e51c460783cb44bb06ac92f6c88f5f0
+SHA512: cb66137cdc0bb0650ee21e3dd2d534f6b41d214831771044ead9fe5ab12adbef922f78d1e9540ef9e1896bf11c743e87f71f053b63c702fadfca26ee1b89673c
+Homepage:
+Description: Enable Premium Subscription
+Name: Athkar | أذكار
+Author: Haidar_Phantom
+Icon: https://i.imgur.com/1zWICJz.jpeg
+
 Package: me.lau.atria
 Architecture: iphoneos-arm64e
 Version: 1.4.1
@@ -20294,6 +20867,26 @@ SHA512: 6b60a3cc059120d93173346343505ab1998e5c7d0398347fa324014e64b9a2ee5cf47c11
 Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: BandarHelal
+
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm64e
+Version: 4.3-6
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 23824
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/arm64e/BHTwitter.4.3-6.arm64e.deb
+Size: 7499444
+MD5sum: 425f501ff9bd08ef46396b119b764721
+SHA1: 63ed266e6e6e162fd20debdad9a10e79a2df8995
+SHA256: e742581927471f6419035bd856ed7ed5183c9ac5c0bec8a5f9a977c8674c9de3
+SHA512: 0c88a60ee522d303b4b532a7a19892fb8a0037214c55348e9c4de6b836ef3fcb1a6e24cb5cd6e5e1d96d226ce0a4e6d136694d7e9e31511eb2afcc42627bfc0b
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Author: Bandar Alruwaili
+Icon: https://arm64.pro/a/BHTwitter/x.png
+Sileodepiction: https://arm64.pro/a/BHTwitter/a.json
 
 Package: xyz.cypwn.btmanagerplus
 Architecture: iphoneos-arm64e
@@ -21123,6 +21716,28 @@ Name: CC18 iOS18 圆角控制中心
 Author: dvntm
 icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/CC18/js.json
+
+Package: com.0xkuj.ccadsbegone.rootless
+Architecture: iphoneos-arm64e
+Version: 1.5
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 6096
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.opa334.ccsupport, com.ps.letmeblock (>= 1.3.0)
+Conflicts: com.0xkuj.ccadsbegone
+Filename: ./debs/arm64e/CCAdsBeGone.(rootless).1.5.arm64e.deb
+Size: 1914168
+MD5sum: b00d249b3e0a8e3caa094c252cd9737e
+SHA1: c2ebad4a230fe33b410e8281717d1ea6d7c10db5
+SHA256: 175d70253be41345096fe4e5912df5ea2832a1852863afd358d5ea2c94e38684
+SHA512: 8513eef8cc79f72c4e193f8bbd5c54b3e128bbe1993eff40c3f2d3f5c4053c206411522519933c85c97df5b6e5855638adabe41fe3ba142e2c38f578a671bd75
+Description: CC Toggle to block ads on demand!
+Name: CCAdsBeGone (rootless)
+Author: 0xkuj
+Icon: https://cdn-static.yourepo.com/images/debs/com.yourepo.0xkuj.rootless1.png
+Depiction: https://0xkuj.yourepo.com/pack/rootless1
+SileoDepiction: https://0xkuj.yourepo.com/sileo/depiction/rootless1
 
 Package: com.kernelrw.ccautobrightness
 Architecture: iphoneos-arm64e
@@ -22470,6 +23085,28 @@ Depiction: https://repo.cypwn.xyz/depiction/1902
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1902
 Name: CrackTool5 Extras
 Author: Sudo
+
+Package: com.opa334.crane
+Architecture: iphoneos-arm64e
+Version: 1.3.16-4
+Section: Tweaks
+Maintainer: opa334
+Installed-Size: 3232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/arm64e/Crane.1.3.16-4.arm64e.deb
+Size: 608880
+MD5sum: a3d32cd220b9a0901b0814b39e45c855
+SHA1: 940c0209ff2bf8ec3aa2a015b34e9760bec6b711
+SHA256: 1c3d9b12f48e30c1244395bc7b9e27b77cd81e92575030919d282952eaeae05d
+SHA512: 5ff8752978401e72605f7571fe256f171b54ebdd787af1b6f8266150564c569475bd1cb69ea8aa02bc67cc26271aa4ebe0aed34bfdd44e44369fb0e637570997
+Description: Multiple containers for your applications!
+Name: Crane
+Author: opa334
+Depiction: https://havoc.app/depiction/crane
+SileoDepiction: https://havoc.app/package/crane/depiction.json
+Icon: https://media.havoc.app/61ffad4e82c2e1d835f525ba
 
 Package: com.opa334.cranelite
 Architecture: iphoneos-arm64e
@@ -24054,6 +24691,25 @@ SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1171
 Name: Filza Crack (rootless)
 Author: Lilliana
 
+Package: com.netskao.filzacrack
+Architecture: iphoneos-arm64e
+Version: 1.1-8
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 88
+Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
+Filename: ./debs/arm64e/Filza.Crack.1.1-8.arm64e.deb
+Size: 4960
+MD5sum: 0ad47a62eb277c2f38722f09f1677d06
+SHA1: d5e29efea38db3fd5563e368462f7ca12c0be4f3
+SHA256: 356b11402bda6cdbf1a04a745ff98b0f24bce955526d88babecf87e43ddc0b93
+SHA512: 2e4f506848b2777da0f5c6fbc908a32909a8baec0b940207188cb56fa08a2f2720c71d753ded3cebdea72e60a02b4081c8fdc2d3f28f549f12c66e7e5ace1209
+Homepage: https://tigisoftware.com/cydia/
+Description: Filza unlock full functionality, the main program please install in the official source
+Name: Filza Crack
+Author: Netskao
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.filzacrack.json
+
 Package: com.0xkuj.installdpkg
 Architecture: iphoneos-arm64e
 Version: 1.1
@@ -24538,6 +25194,27 @@ Name: ForwardNotifier
 Conflict: com.yourepo.greg0109.forwardnotifier8
 Author: Greg0109
 Icon: https://chariz.com/cdn/icon/forwardnotifier/icon@3x.png
+
+Package: xyz.cypwn.crackfouad
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Cracks
+Maintainer: CyPwn
+Installed-Size: 9880
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.blatant.regramcrack (= 1.2)
+Filename: ./debs/arm64e/Fouad.Crack.2.0.arm64e.deb
+Size: 1454072
+MD5sum: 0d5f3108d99cb186e3eb794d81d7375c
+SHA1: 731d57094685e3fe3bbde54f1a5618bd2896cfb2
+SHA256: 3efc3417eea73db3519c67a352840860b0af3cffffc8f94e671fedc8d59fdc87
+SHA512: d6297fdaf097148965769d56027fa424e8664988178cb6fa19be97663babacdc865b55d7f376889c7a4e867b69099a1d0f39a283ece12a846deb3b4dd6947fee
+Description: Cracked By Blatant | Compatible with up to following: WatusiTools: v2.5.10; ContactSync: v1.1.14; OnlineNotify: v3.4.13; Watusi 3: v1.2.60; Stalky: v4.1.37; Regram: B23.
+Depiction: https://repo.cypwn.xyz/depiction/3104
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/3104
+Icon: https://repo.cypwn.xyz/packages/FouadCrack/icon.png
+Name: Fouad Crack
+Author: blatant
 
 Package: com.foxfort.foxforttools
 Architecture: iphoneos-arm64e
@@ -27036,6 +27713,27 @@ SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1879
 Name: LowerInstall
 Author: julioverne
 
+Package: com.mtac.lynxtwo
+Architecture: iphoneos-arm64e
+Version: 2.5.4
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 2952
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/arm64e/Lynx.2.2.5.4.arm64e.deb
+Size: 703208
+MD5sum: 83816d5771222888d1706935543af634
+SHA1: 7fa05c6496f042bc145b612c673c4e4028e2f30d
+SHA256: ab394379179c45bf15d08f8b68bd575f22b9f8f12ee4fbe14267bc3caeb951f3
+SHA512: 40fef5a232b8a95d3df049f5020f1fe460c62b76bdee82adbdba5a50f22b9f479feec8a9c87f583736648b8ee319e7b9df9a981180c5166f19c92d4c34801d64
+Description: Ultimate iDevice Customization for iOS 14, 15 & 16
+Name: Lynx 2
+Author: MTAC
+Depiction: https://havoc.app/depiction/lynxtwo
+SileoDepiction: https://havoc.app/package/lynxtwo/depiction.json
+Icon: https://media.havoc.app/64a1d7f9351a82652447cb09
+
 Package: com.mtac.lynxtwo.localizations
 Architecture: iphoneos-arm64e
 Version: 2.5
@@ -28559,6 +29257,27 @@ SHA512: eee91fea27ff3f81ee3d236810b7963059810ef8df00f7c6d19c3494259d19503ea2d629
 Description: Spoof screen recording detection!
 Name: NotRecording
 Author: opa334
+
+Package: com.0xkuj.notificationsgroupcount
+Architecture: iphoneos-arm64e
+Version: 1.0.7
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 480
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64e/NotificationsGroupCount.1.0.7.arm64e.deb
+Size: 82296
+MD5sum: 624206db752e97c0687fa7bf8e726ab6
+SHA1: 3418307e118747f6f3c7a5c743fa7057fcf8fddf
+SHA256: fcbe0b1349c107a7db18359ff9d961c74006b0266ff6802e0736fe83d257a314
+SHA512: 1da65e3a6dc27761e76f7c4ca2cb9de9c7843eeb760e09cdce1e0be1164fa0e7de195ce6d1e6bbb11ea28397e019bdcee7d9a2614e1be665f66b618471c99d93
+Description: Count those notifications inside Apple notifications grouping!
+Name: NotificationsGroupCount
+Author: 0xkuj
+Icon: https://cdn-static.yourepo.com/images/debs/com.yourepo.0xkuj.notificationsgroupcount.png
+Depiction: https://0xkuj.yourepo.com/pack/notificationsgroupcount
+SileoDepiction: https://0xkuj.yourepo.com/sileo/depiction/notificationsgroupcount
 
 Package: com.notificationsgroupcounts.zh-Hans
 Architecture: iphoneos-arm64e
@@ -30488,6 +31207,25 @@ SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1800
 Name: RedditUndoScrollUp
 Author: Aleksi Lassila
 
+Package: com.fouadraheb.regram
+Architecture: iphoneos-arm64e
+Version: 1.0~b23
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 10956
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/Regram.for.Instagram.1.0~b23.arm64e.deb
+Size: 3016204
+MD5sum: 1d62c59c4a78b8dba0baf260124c19f2
+SHA1: c31b77c015cc17f235bc8775bac8c4a5674040bb
+SHA256: 2163c0c7cdf6044fbf30663bc131dbab3dfb4a9c154286087a4bd921218a8162
+SHA512: 84e2cb07f6f3cd8f30e70b5a4afea1f95a760bd4571c7a150967beb976e753e76b0bbf579b0b178aeb3153d864e7ce05dd455f20a718bcef9b9e9fb359219daa
+Description: The all-in-one tweak for Instagram
+Name: Regram for Instagram
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: https://i.imgur.com/tFs2XYN.jpeg
+
 Package: xyz.cypwn.reo
 Architecture: iphoneos-arm64e
 Version: 2.6.0
@@ -31065,6 +31803,27 @@ SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/3057
 Icon: https://repo.cypwn.xyz/packages/RoundedNotifi-Rootless/icon.png
 Name: RoundedNotifi
 Author: pkgFiles
+
+Package: com.icraze.rune
+Architecture: iphoneos-arm64e
+Version: 1.3.1
+Section: Tweaks
+Maintainer: iCraze
+Installed-Size: 6644
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
+Filename: ./debs/arm64e/Rune.1.3.1.arm64e.deb
+Size: 1737124
+MD5sum: c198f4db13e54b7e83926c4cf687380a
+SHA1: f7dc4dd956ba81112d9ec94c3711b198be27dd54
+SHA256: 8d4a067e2b6afcba91d6fe711b19acf8079a919a6f5550ad4b0b45273e1d9510
+SHA512: 2aab85ea69b2c7d4483c835d0bc5831c338bf4d211a5d1dc7f5405b53ed5a5c50486a10b6ff997b285410273b5c3325fc73319a73a8af1df3f7b1d02866dcd3c
+Description: Control at your fingertips
+Name: Rune
+Author: iCraze
+Depiction: https://havoc.app/depiction/rune
+SileoDepiction: https://havoc.app/package/rune/depiction.json
+Icon: https://media.havoc.app/65725389d4f97796e0c52850
 
 Package: com.socuul.scinsta
 Architecture: iphoneos-arm64e
@@ -31902,6 +32661,27 @@ Author: 82Flex
 icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon.png
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/jj.json
 
+Package: com.uckermark.siriplus
+Architecture: iphoneos-arm64e
+Version: 1.4
+Section: Tweaks
+Maintainer: Uckermark
+Installed-Size: 1480
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), com.opa334.ccsupport, mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/arm64e/SiriPlus.1.4.arm64e.deb
+Size: 258304
+MD5sum: 44f589e0ae3aeba6127779c74de194fa
+SHA1: f43d51f7a88aa8ddd90f8e6ed44e900441fa189e
+SHA256: e0d640c830604f63dbb718cb54a42c1ecfc7ed730b0005efd8738cb699947271
+SHA512: 31f6d0193af17d1fcb21e6bc26d359d35c9da2449c608de141198521b9e6de4b4cd5b6e706f26706b79b27b09a3453327a6970907637860b81c794c3728b44f5
+Description: Replace Siri with ChatGPT/Gemini
+Name: SiriPlus
+Author: Uckermark
+Depiction: https://havoc.app/depiction/siriplus
+SileoDepiction: https://havoc.app/package/siriplus/depiction.json
+Icon: https://media.havoc.app/65e33489f1efdf19d02cf252
+
 Package: xyz.cypwn.sixteenmusic
 Architecture: iphoneos-arm64e
 Version: 1.6
@@ -32023,6 +32803,28 @@ Name: SmallBoard 键盘下沉
 Author: iCraze
 icon: https://TrollStoreX.Github.io/sileodepiction/SmallBoard/icon.png
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/SmallBoard/js.json
+
+Package: com.idevicelover.smartbatteryios15
+Architecture: iphoneos-arm64e
+Version: 1.6
+Section: Tweaks
+Maintainer: elias
+Installed-Size: 2412
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: ws.hbang.common
+Conflicts: com.idevicelover.smartbattery2
+Filename: ./debs/arm64e/SmartBattery.iOS.15.-.16.1.6.arm64e.deb
+Size: 694732
+MD5sum: eb84552ac281fca129b30df960d2dc5e
+SHA1: fcb8c676d0fbee70c146ceb8b038299fdd758cde
+SHA256: 9df146b26a09c37e9af31a3ccc2cfe68d8c1248e0190b0b70249bfdd878a0e9c
+SHA512: 907ed6abb2706501ce77c0c2365b7d8c10b4ade8fd4c3d3a050d89acf89994d2405833481eaf4f8236c77386c8dbb8d58d34405326ce939a4fa186a91f2f96d1
+Description: An awesome MobileSubstrate tweak!
+Name: SmartBattery iOS 15 - 16
+Author: elias
+Depiction: https://havoc.app/depiction/smartbatteryios
+SileoDepiction: https://havoc.app/package/smartbatteryios/depiction.json
+Icon: https://media.havoc.app/6380e31f7246bed7c12ae8e4
 
 Package: xyz.cypwn.smartnetwork
 Architecture: iphoneos-arm64e
@@ -32751,6 +33553,26 @@ SHA512: 9b0aaf6811ebfe5014952f5b6efc61437980bbe005c11bb99e69539f680fe81b12a78e0f
 Description: Make pip view square
 Name: SquarePiP
 Author: uz.ra
+
+Package: com.f0u4d.stalky
+Architecture: iphoneos-arm64e
+Version: 4.1.37
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6760
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.f0u4d.watusitools
+Enhances: WhatsApp
+Filename: ./debs/arm64e/Stalky.4.1.37.arm64e.deb
+Size: 1577944
+MD5sum: c94b6b9b5a5cbbb240bf4883c2a7a3d7
+SHA1: 8d2e996aa04e4ff2beff2cfbcde5ade4176fb1e2
+SHA256: 29e1cf70b26dbaf09049d7329cc0ef0bdb83e1eeb60dfced21b4ed8a8bcf30e0
+SHA512: 904aef5f1345897aa28be156967879d2f6df99708923bbd4ca1a19f5b582836e77b99b02777f40ca64fa79af2f254ad6b23615dcbfc98247218514b1ba210c65
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Name: Stalky
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: https://i.imgur.com/dCflnyf.jpeg
 
 Package: xyz.cypwn.statustime
 Architecture: iphoneos-arm64e
@@ -33823,6 +34645,27 @@ Icon: https://repo.cypwn.xyz/packages/TouchViz-Rootless/icon.png
 Name: Touch-Viz
 Author: Lessica
 
+Package: com.82flex.touchvis
+Architecture: iphoneos-arm64e
+Version: 3.8
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 3040
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/arm64e/Touch-Viz.3.8.arm64e.deb
+Size: 576080
+MD5sum: 8b1dc6e56134095438e2c83840b414d6
+SHA1: da5a0ee4ec613d236b8204e163d805a1f533d8c8
+SHA256: c677fa5def62c4c358e91625966cd42becf496fadbf2cffc45d8125f749b71b3
+SHA512: 77085561518a48110fdc2d96254cfaf5f1b3866366925625c6939ac03720505fa7c51df3b805410555e36506b11101fa2335b1d7fbeef7e2449b0f5ca9e02077
+Description: Display your touch interactions!
+Name: Touch-Viz
+Author: Lessica <82flex@gmail.com>
+Depiction: https://havoc.app/depiction/touchvis
+SileoDepiction: https://havoc.app/package/touchvis/depiction.json
+Icon: https://media.havoc.app/66b862c5328ec2048b895110
+
 Package: xyz.cypwn.touchflow
 Architecture: iphoneos-arm64e
 Version: 1.0.7
@@ -34468,24 +35311,6 @@ Name: Velvet 2
 Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
 Depiction: https://chariz.com/get/velvet-2
 
-Package: codes.aurora.ve
-Architecture: iphoneos-arm64e
-Version: 2.0
-Section: Tweaks
-Maintainer: Alexandra Aurora Göttlicher
-Installed-Size: 740
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./debs/arm64e/Vē.2.0.arm64e.deb
-Size: 67736
-MD5sum: cf714153144d5b8df33b34dc67531bf8
-SHA1: 5215cd2b15d0acc63fd327ab0f2c00d10548152a
-SHA256: 700d2bddb9aeab7f8f1119e1f7f860a691267ddb7ee39e11982b1024aba35e8f
-SHA512: 61c5d58fbdfec502c14acb721dbf4b3dc5e886173a99e408c3d44bce5584d047a21d8fc99b481695af9ae61874a55f2a6a2792dd37a339d0a07ed2ac0211bf76
-Description: Natively integrated notification logger.
-Name: Vē
-Author: Alexandra Aurora Göttlicher, 74k1_
-
 Package: com.den.vibetok
 Architecture: iphoneos-arm64e
 Version: 1.2-11+debug
@@ -34546,6 +35371,25 @@ Author: P2KDev <p2kdev@gmail.com>
 Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.videosunmute
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.videosunmute/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.videosunmute.json
+
+Package: xyz.cypwn.violyn
+Architecture: iphoneos-arm64e
+Version: 1.4.2
+Section: Applications
+Maintainer: CyPwn
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/Violyn.1.4.2.arm64e.deb
+Size: 707612
+MD5sum: e354bf147f276a1a2219c521d47d19ec
+SHA1: 41a72804dbb50faded26ec4693f009f76e4fce51
+SHA256: 2be81774f7ee5bbaa0c4ede6e1fca826de660f71ea39267d340e48545abdc8bc
+SHA512: f9ac1d5e23371d1cd0d5a1d1389156cdd0ebf65b665d3c039a37a8eb8a51871fc1e7a6fdcb76f023b2db3efe0b230872dd763a790376503c545ee40fa14cdef8
+Description: Search and Download from CyDown
+Depiction: https://repo.cypwn.xyz/depiction/2895
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2895
+Icon: https://repo.cypwn.xyz/packages/Violyn-Rootless/icon.png
+Name: Violyn
+Author: Paisseon, Zyki
 
 Package: com.level3tjg.visibleapps
 Architecture: iphoneos-arm64e
@@ -34851,6 +35695,24 @@ Description: Displays the volume percentage on the stock volume HUD.
 Name: VolumePercent
 Author: gilshahar7
 
+Package: codes.aurora.ve
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Tweaks
+Maintainer: Alexandra Aurora Göttlicher
+Installed-Size: 740
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/arm64e/Vē.2.0.arm64e.deb
+Size: 67736
+MD5sum: cf714153144d5b8df33b34dc67531bf8
+SHA1: 5215cd2b15d0acc63fd327ab0f2c00d10548152a
+SHA256: 700d2bddb9aeab7f8f1119e1f7f860a691267ddb7ee39e11982b1024aba35e8f
+SHA512: 61c5d58fbdfec502c14acb721dbf4b3dc5e886173a99e408c3d44bce5584d047a21d8fc99b481695af9ae61874a55f2a6a2792dd37a339d0a07ed2ac0211bf76
+Description: Natively integrated notification logger.
+Name: Vē
+Author: Alexandra Aurora Göttlicher, 74k1_
+
 Package: twitter.nowesr1.waignorecalls
 Architecture: iphoneos-arm64e
 Version: 1.1
@@ -35011,6 +35873,43 @@ Author: P2KDev <p2kdev@gmail.com>
 Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.waqt
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.waqt/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.waqt.json
+
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm64e
+Version: 1.2.60
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6424
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.f0u4d.watusitools
+Filename: ./debs/arm64e/Watusi.3.for.WhatsApp.1.2.60.arm64e.deb
+Size: 1914344
+MD5sum: 6befedab3fe54096ce2e77b6a5641e09
+SHA1: ae47636dcd233ac92ec19c970063099a78f04a6c
+SHA256: a7fd1c7c4415eefbe591a5c71eea2d827591ab01ea74cd49b0af0d1c7ed6b800
+SHA512: b37729c88a3cbc1e4826521d62519c32e4d0e7fe0bc65b98e5ab0393bbaf7e26325822c9234d97244a22938af555f59a1507998eabba90d7158c4fb665bbe21c
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: https://i.imgur.com/uZB1iIP.jpeg
+
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64e
+Version: 2.5.10
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0)
+Filename: ./debs/arm64e/WatusiTools.2.5.10.arm64e.deb
+Size: 4609924
+MD5sum: 488322cd87f03fabadf33d03d54bbdbc
+SHA1: 8ed61e7dcd8214893305eecf8bdbe35971c35b3a
+SHA256: 2a41c33d983b022b87ea1afd2bbfc83897bb50dbfc4b337585a777323437d91f
+SHA512: f91808d9c2a6c21e340ffe61ca96a38fa618234e6b493ab172b6be44a14ac9565a0d4ec05d1c742daf00cc55a333c39dee06419a0eb7c23dea3b91d46481e081
+Description: Library for Watusi, Regram and other tweaks
+Name: WatusiTools
+Icon: https://i.imgur.com/l9dqM3v.jpeg
+Author: Fouad Raheb <support@fouadraheb.com>
 
 Package: com.netskao.wechatnotiavatars
 Architecture: iphoneos-arm64e
@@ -37513,6 +38412,23 @@ SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2992
 Icon: https://repo.cypwn.xyz/packages/uncar-Rootless/icon.png
 Name: uncar
 Author: Elias Limneos <limneoselias@gmail.com>
+
+Package: dev.unlock.00
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: adry
+Depends: firmware (>= 15.0)
+Filename: ./debs/arm64e/unlock.apps.0.0.1.arm64e.deb
+Size: 8308
+MD5sum: e21586f2f61194fb8dd5742b4e756cb0
+SHA1: d0fd9cf300d52b0073b5bbfbecf45c8b12a98035
+SHA256: 83ac7eab4be751e88cb6b804b08b68734dd3bd52661fa9cb4af17d8b13e7cc31
+SHA512: cb8f0da3b90ac84e57d62c613b2ad9d6509e729b0b3bbca6222c9b51e9d13bcc62f7cd0681e796aca0d88ab9d61ad018e371d7807132efff5d6e5acb82b6061b
+Description: unlock premium for most apps
+Name: unlock apps
+Author: adry
+Icon: https://i.imgur.com/m2Bn0u4.jpeg
 
 Package: xyz.cypwn.upmem
 Architecture: iphoneos-arm64e
