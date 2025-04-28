@@ -4872,6 +4872,61 @@ Author: zhaonan
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.bootlogo/checkra1n/js.json
 Icon: https://invalidunit.github.io/sileodepiction/com.nan.bootlogo/checkra1n/image.png
 
+Package: com.babylon-vip.hammel
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Tweaks
+Maintainer: Haidar_Phantom
+Installed-Size: 396
+Depends: mobilesubstrate
+Filename: ./debs/arm/com.babylon-vip.hammel_0.1_iphoneos-arm.deb
+Size: 96164
+MD5sum: 44d933afa7d54b7bbeba98f6b33b97af
+SHA1: 121f2475dcf976bfbdd347033fddc09861b8c1bb
+SHA256: afa42f5e74793559dc61719765849fd98dad2055e60779d7353966b9609a4b6e
+SHA512: 4d20705c789db378a1e72769e891569bb70b97b1f071bedecf2d7eccb91dd2c3af1b6b8e123030ac407d8e9521f8a83712832c2666e5ca14ff08973caecaceaf
+Homepage:
+Description: Enable Premium Subscription
+Name: Hammel Hack | إدارة الملفات
+Author: Haidar_Phantom
+Icon: https://i.imgur.com/5SQvqwm.jpeg
+
+Package: com.f0u4d.onlinenotify
+Architecture: iphoneos-arm
+Version: 3.4.13
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 684
+Depends: mobilesubstrate, com.f0u4d.watusitools
+Filename: ./debs/arm/com.f0u4d.onlinenotify_3.4.13_iphoneos-arm.deb
+Size: 183192
+MD5sum: b416f6bb0596830a73ef7d4037d54cdf
+SHA1: 3ea446fff498b11b4727cc30247dcea98a8911d0
+SHA256: a116ca00860fabe4b277992f5159f910d70b1230bfe3a28de95471c05ffa25f8
+SHA512: aba25e4b467c2fa72bf20d2ceb0a2d51bea4a6ef037a10bea95d3ab3512247b9192fd9ac2692fe89c431198f1668119bf3a2451dafacbb211694cf60497ed7ee
+Description: Track your friends on WhatsApp Messenger!
+Name: OnlineNotify
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: https://i.imgur.com/7xF07T9.jpeg
+
+Package: com.fouadraheb.contactsync
+Architecture: iphoneos-arm
+Version: 1.1.14
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 600
+Depends: mobilesubstrate, com.f0u4d.watusitools
+Filename: ./debs/arm/com.fouadraheb.contactsync_1.1.14_iphoneos-arm.deb
+Size: 115840
+MD5sum: f94790cd5822d134c23b3803ceaa995f
+SHA1: cd74ae7b933ed6109eb125d365d6f89061725e1d
+SHA256: d54df3907bfcfd37f5a074b9275cbf45c9bae743d67537c788378ceefeffbe22
+SHA512: f805a80f1c11b1b5fb80ecdc04ded065847d0db61c0d2e307915ad3de62438ba2c55d7efa5d8712df07fbc85e45dd84e5ddd9d52ace8320717eb9ed871830a23
+Description: Sync WhatsApp Profile Pictures to your Contacts
+Name: ContactSync
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: https://i.imgur.com/hPYY9n7.jpeg
+
 Package: com.nan.cy+cpu.arm64
 Architecture: iphoneos-arm
 Version: 0.1.0
@@ -16603,6 +16658,78 @@ Name: checkra1n-Bootlogo
 Author: zhaonan
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.bootlogo/checkra1n/js.json
 Icon: https://invalidunit.github.io/sileodepiction/com.nan.bootlogo/checkra1n/image.png
+
+Package: com.babylon-vip.hammel
+Architecture: iphoneos-arm64
+Version: 0.1
+Section: Tweaks
+Maintainer: Haidar_Phantom
+Installed-Size: 396
+Depends: mobilesubstrate
+Filename: ./debs/arm64/com.babylon-vip.hammel_0.1_iphoneos-arm64.deb
+Size: 94324
+MD5sum: e98fef73373c9385f95d4ed9228ba3f5
+SHA1: 39804ab5e5016f810d2ad5805417258d507967ad
+SHA256: 13843f516cfde840c9f4bdf595264299641a59a2a50a08583553f81a7b270be7
+SHA512: e0c60d71933c42e99ebd92f4986aecb27f786bc1777be6d8097f9143d6f71a8207cc47a9232620815f5d22e237c742bdcd0ac968592e76d189bd8ef95ede3d81
+Homepage:
+Description: Enable Premium Subscription
+Name: Hammel Hack | إدارة الملفات
+Author: Haidar_Phantom
+Icon: https://i.imgur.com/5SQvqwm.jpeg
+
+Package: com.exile90.icleanerpro
+Architecture: iphoneos-arm64
+Version: 7.10.0
+Section: Utilities
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Filename: ./debs/arm64/com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
+Size: 983704
+MD5sum: 4b604fd37c2a2ee1d8c6623e6a49e1aa
+SHA1: ff52e04f16a261a3a84255a08486cc11701f1dd4
+SHA256: 258851890ce5b60b57a8d57ba5cb20992321b39a52087035a64f13adc99c2a55
+SHA512: 4acfb0ef9504bd95924c50cda40fcc731f0b33afe751ac66af4a3bf7373b57c870468bda2c31a81b5480f1ddf728d95e3ca4d13304dc46f92891d3436b6dad91
+Description: The first real iOS system cleanup and management utility
+Name: iCleaner Pro
+Author: Ivano Bilenchi <support@ib-soft.net>
+Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/Icons/iCleaner.png
+
+Package: com.f0u4d.onlinenotify
+Architecture: iphoneos-arm64
+Version: 3.4.13
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 684
+Depends: mobilesubstrate, com.f0u4d.watusitools
+Filename: ./debs/arm64/com.f0u4d.onlinenotify_3.4.13_iphoneos-arm64.deb
+Size: 184812
+MD5sum: a8f8f34f2293b0f4dea15c4b8ea78a3e
+SHA1: 82e11921ccb0d905e9927979e9920191147356ba
+SHA256: 01e41768e2699b99bb9e888b9ef080ae22447cebab510fe19172a8a51592d8ab
+SHA512: 78916003b78a295706f749b797ae3ff390d5a9ff5382cb198a6753638075ecebb92515c1bff74ba68958be52df18d8c8150d6de8faae30fac35d7198199cd782
+Description: Track your friends on WhatsApp Messenger!
+Name: OnlineNotify
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: https://i.imgur.com/7xF07T9.jpeg
+
+Package: com.fouadraheb.contactsync
+Architecture: iphoneos-arm64
+Version: 1.1.14
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 600
+Depends: mobilesubstrate, com.f0u4d.watusitools
+Filename: ./debs/arm64/com.fouadraheb.contactsync_1.1.14_iphoneos-arm64.deb
+Size: 117124
+MD5sum: d277ccc6b637368cbed56ac47d46ebf1
+SHA1: c8b566d3dcddd339abba4638a3dff104a15c2fca
+SHA256: 3a620361b6487772d082ae0d790256967246813254c7548448988b8dd637b124
+SHA512: 276abfb58467b768ed1fcd0e306c9fc5dba6d91ad76878b9e34e16616700669d41d7cb690054266f87e9d5effd728ae856607c3f76b0830a0c8e1d03e8b7ddc1
+Description: Sync WhatsApp Profile Pictures to your Contacts
+Name: ContactSync
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: https://i.imgur.com/hPYY9n7.jpeg
 
 Package: com.pantsthief.flexing
 Architecture: iphoneos-arm64
@@ -36864,6 +36991,145 @@ SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2966
 Icon: https://repo.cypwn.xyz/packages/cmdlog-Rootless/icon.png
 Name: cmdlog
 Author: korboy
+
+Package: com.babylon-vip.hammel
+Architecture: iphoneos-arm64e
+Version: 0.1
+Section: Tweaks
+Maintainer: Haidar_Phantom
+Installed-Size: 396
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/com.babylon-vip.hammel_0.1_iphoneos-arm64e.deb
+Size: 95244
+MD5sum: 16dbbb333c87604fc32e57f9dad9b456
+SHA1: e22d5e13dc6ad0d1cd03522397e15d7c5a1d5443
+SHA256: c8cc234eba965942219d7129fd32bada92b589945ebc027b4722cd7849519276
+SHA512: 79a0982bfddcd109c803620a2e233f11b5648830e32d41d669056c54cbdbf3c2c0d4afc5d0c0705e6675184ec267b342d577f3c1740c2195e47542ad622951d6
+Homepage:
+Description: Enable Premium Subscription
+Name: Hammel Hack | إدارة الملفات
+Author: Haidar_Phantom
+Icon: https://i.imgur.com/5SQvqwm.jpeg
+
+Package: com.exile90.icleanerpro
+Architecture: iphoneos-arm64e
+Version: 7.10.0
+Section: Utilities
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Filename: ./debs/arm64e/com.exile90.icleanerpro_7.10.0_iphoneos-arm64e.deb
+Size: 972072
+MD5sum: 61e75e74d6e4123d3d358099536c967b
+SHA1: fa3ec808194ae2b97f484cd33eaff7c1ef0a7689
+SHA256: 82b6350fe4a5cec055b9ce3cb2029b47d34160c17ff3e5e389a4e541a5ccabfa
+SHA512: 86ef0dd3f058b1d73ba0ffafcbeb7bddec2c135279b30548639d1e07530d50dee6e8b3de28a9e809dd7a09050e9844d69818e91e3be69ad34ea6f1ffc15a9f72
+Description: The first real iOS system cleanup and management utility
+Name: iCleaner Pro
+Author: Ivano Bilenchi <support@ib-soft.net>
+Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/Icons/iCleaner.png
+
+Package: com.f0u4d.onlinenotify
+Architecture: iphoneos-arm64e
+Version: 3.4.13
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 684
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.f0u4d.watusitools
+Filename: ./debs/arm64e/com.f0u4d.onlinenotify_3.4.13_iphoneos-arm64e.deb
+Size: 183320
+MD5sum: 0bdf631bdd5653d6a1488e08b4c567e6
+SHA1: e3ac9bb7fa4d2780b4011ba539c34df45437308c
+SHA256: 1120f779248ad0599656b9437b4a9e587e49ffb5cbcc05debca9462736c47f23
+SHA512: a385e4d3548314a8514e5b144fa96969e1ce6ee46b35bb22ef3589e62ffb04d42120fd5caf01392b3abeb4f01001b8e2eedd96eacbeb383182609fd17af08c9b
+Description: Track your friends on WhatsApp Messenger!
+Name: OnlineNotify
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: https://i.imgur.com/7xF07T9.jpeg
+
+Package: com.fouadraheb.contactsync
+Architecture: iphoneos-arm64e
+Version: 1.1.14
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 600
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.f0u4d.watusitools
+Filename: ./debs/arm64e/com.fouadraheb.contactsync_1.1.14_iphoneos-arm64e.deb
+Size: 115984
+MD5sum: 7dd15accf7f3727ea67ed69b6a43cc9e
+SHA1: 4be5fde8551e0cbf164cd255e6ce217f1c81c25f
+SHA256: c1f061bec69f9162269bafe94192e196d14f5f022016ad322335544bfa0a6bc8
+SHA512: d286b1d4dd6dd1af3285b8fe55150f243789e76ecfee7086c8bb6d846556c53c7ab7a019b9068a876356437f561e78c924279f79eb951684183b55e8286107dc
+Description: Sync WhatsApp Profile Pictures to your Contacts
+Name: ContactSync
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: https://i.imgur.com/hPYY9n7.jpeg
+
+Package: com.mikifp.griddy
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Section: Tweaks
+Maintainer: mikifp
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/com.mikifp.griddy_1.0.5_iphoneos-arm64e.deb
+Size: 20820
+MD5sum: 3d346c9dfd55b211dd81a7a471160148
+SHA1: 1cfbaeefa077c6784326d2b96f9f8885655cf18a
+SHA256: de376f23082a37dfe095ad9b46b1118ca976b4aa530832bb03b03d797edad99f
+SHA512: 22f9239b082ae3aa8bf6ec1be8efbc934db1edaa99bf2173193b490777a148d405dcc54ba5e4e54158febdf86a74f5d1fc1fd04a78d6c561f5df9514e618f24a
+Description: Layout your icons anywhere you want!
+Name: Griddy
+Author: mikifp
+Depiction: https://havoc.app/depiction/griddy
+SileoDepiction: https://havoc.app/package/griddy/depiction.json
+Icon: https://media.havoc.app/6718f4c922a19f8847897613
+
+Package: com.mtac.alpine
+Architecture: iphoneos-arm64e
+Version: 1.4
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 1112
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common
+Filename: ./debs/arm64e/com.mtac.alpine_1.4_iphoneos-arm64e.deb
+Size: 604384
+MD5sum: 3f771cc64a4df47f456d55ca79cd2324
+SHA1: cba5a66188e85922487ca26ea5d398104ac18dd5
+SHA256: f22be503a676464343bee63cdd624c8496b0b5cf8406ff89ebdb4f6fc70e5906
+SHA512: cf2a7c07eba27fd95299297a6d4db8279a964e4869cc075bfdf05c5f7d8fc17858113e552cd12b4e7bab637319cd5621ea677e0d2ad151b62dcf42f43baccb0e
+Description: tvOS alerts for iOS
+Name: Alpine
+Author: MTAC
+Depiction: https://havoc.app/depiction/alpine
+SileoDepiction: https://havoc.app/package/alpine/depiction.json
+Icon: https://media.havoc.app/64ae21880d54f9113bc13a59
+
+Package: com.p2kdev.tinge
+Architecture: iphoneos-arm64e
+Version: 1.2.2
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 436
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: ./debs/arm64e/com.p2kdev.tinge_1.2.2_iphoneos-arm64e.deb
+Size: 43084
+MD5sum: 47420ca64de2491b7571bce81a9d3414
+SHA1: 57f7badb3855970f072b22b1954ac8732579293b
+SHA256: b09d0916ceb3a72491a999a17b27fa8fdceaa94a27c06ae27d40bbf0c716599f
+SHA512: e6b441a330ddfef36ec173f0c8e4d6fcfb48f635864b9e60c62d3dfde8c1690ea9b883a66384a9e7324b2af8a2a6bc5e07dc7050636a88824d9b74b4ee3c9ec8
+Description: Color your badges with Perfection!
+Name: Tinge
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://media.havoc.app/65d915afdc4f78f77542f9d4
+Depiction: https://havoc.app/depiction/tinge
+SileoDepiction: https://havoc.app/package/tinge/depiction.json
 
 Package: com.nan.deb
 Architecture: iphoneos-arm64e
