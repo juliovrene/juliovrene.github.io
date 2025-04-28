@@ -16087,6 +16087,26 @@ Author: zhaonan
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.bootlogo/checkra1n/js.json
 Icon: https://invalidunit.github.io/sileodepiction/com.nan.bootlogo/checkra1n/image.png
 
+Package: com.pantsthief.flexing
+Architecture: iphoneos-arm64
+Version: 1.5.0
+Section: Tweaks
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 3188
+Pre-Depends: firmware (>= 8.0)
+Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
+Filename: ./debs/arm64/com.pantsthief.flexing_1.5.0_iphoneos-arm64.deb
+Size: 623444
+MD5sum: b0465c54506bd4f80d9316d3158e78fe
+SHA1: 7eab49bc466fdc297b807da20108d36262dee1fb
+SHA256: 6b611bdea420d2965126885e8ef72e462fc0734f67bb88c4e7d79bb2956b3051
+SHA512: 3ed4a3c7fac8b28af6b022c3852a0aa0ba342dc5fd8be18caabf385f383dc385c8343e41cd9e6b130a44b5516256caf68ae522c559e16ee809a70990859d4976
+Description: Open FLEX anywhere!
+Name: FLEXing
+Author: Tanner Bennett <thepantsthief@me.com>
+Depiction: https://nscake.github.io/package.html?package=com.pantsthief.flexing
+SileoDepiction: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
+
 Package: com.nan.deb
 Architecture: iphoneos-arm64
 Version: 0.2.9
@@ -16140,6 +16160,24 @@ Name: debd
 Author: zhaonan <invalidunit@icloud.com>
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.debd/js.json
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
+
+Package: dev.traurige.eneko
+Architecture: iphoneos-arm64
+Version: 1.4.2
+Section: Tweaks
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 404
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.eneko
+Filename: ./debs/arm64/dev.traurige.eneko_1.4.2_iphoneos-arm64.deb
+Size: 28520
+MD5sum: 1f726e4f654dd0b6eb024b58ea63aee6
+SHA1: 3ab62667949aebfee823894a2d81223e1040d563
+SHA256: 06c5c49e559bb055487b6e83b6ae790a268d137fb8ff9ac1d4b722f269891b0f
+SHA512: 5dc535478de1479bd6c11d47500d6158c79cb604b78ce3d0903ba782e9265bc93e2647fc18419899f789370717528ab9b145a32158bc4ef52df3c8b56783e87f
+Description: Live wallpapers for iOS
+Name: Eneko
+Author: Traurige <hello@traurige.dev>
 
 Package: com.uncore.dig3st
 Architecture: iphoneos-arm64
