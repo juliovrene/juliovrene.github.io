@@ -25537,6 +25537,24 @@ Icon: https://repo.cypwn.xyz/packages/FouadCrack/icon.png
 Name: Fouad Crack
 Author: blatant
 
+Package: com.r0.wacrack
+Architecture: iphoneos-arm64e
+Version: 2.2
+Section: Cracks
+Maintainer: No
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/arm64e/Fouad.Crack.2.2.arm64e.deb
+Size: 2180728
+MD5sum: 3ebe8f2b2e25ffe814d03887429be01f
+SHA1: 7d4fd98e83f366f8c84b548c987d9b16004ba839
+SHA256: 18f339c55dc4108ff1fd3800e192d9f74394d60c90b2f16610337c2908655af0
+SHA512: bef3429795f4e8f1e9cbe276adf6fed45d027e1f8315c3c2e34e1340a66cbb5c4efd278c6757981dc77f6093d62298f544fe041e8884ba0dfe71cf66b7d7c296
+Description: The crack works only on these versions: WatusiTools: v2.5.18 | Watusi: v1.2.69 | OnlineNotify: v3.4.15 | Stalky: v4.1.40 | ContactSync: v1.1.14
+Name: Fouad Crack
+Author: No
+Icon: https://i.postimg.cc/y8J3nFXZ/064-E12-F5-5052-4-FDB-B6-B0-29-F23-F1-D98-DF.jpg
+Header: https://i.postimg.cc/sxffmYJB/8-CA4-DD32-8-EC8-4-C0-D-B482-D91-FEEAC09-A1.jpg
+
 Package: com.foxfort.foxforttools
 Architecture: iphoneos-arm64e
 Version: 1.4.13
@@ -33895,6 +33913,28 @@ Name: Stalky
 Author: Fouad Raheb <support@fouadraheb.com>
 Icon: https://i.imgur.com/dCflnyf.jpeg
 
+Package: com.r0.stalky
+Architecture: iphoneos-arm64e
+Version: 4.1.40
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6744
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.r0.watusitools (>= 2.5.5)
+Enhances: WhatsApp
+Filename: ./debs/arm64e/Stalky.4.1.40.arm64e.deb
+Size: 1613560
+MD5sum: b848574f396e0aa62c5a582259b93592
+SHA1: b0ecc75eda19e8c5e38d9ef8bf170631eaecb3e8
+SHA256: 256a3bbb4ba9c43468a89bdd467434e201984f855b00601d427c39545e58deac
+SHA512: 36f52b820c1d4583fe4c233a720d9d363ec03a950d3e102b43fdaed345afcc102ba0ff6e01a9be82b9c7a01d433e522392dc1bc57138e4553fa7e994ff83093d
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Name: Stalky
+Author: Fouad Raheb <support@fouadraheb.com>
+Header: https://i.postimg.cc/sxffmYJB/8-CA4-DD32-8-EC8-4-C0-D-B482-D91-FEEAC09-A1.jpg
+Icon: https://i.postimg.cc/8PQg4kmM/IMG-5362.jpg
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+
 Package: xyz.cypwn.statustime
 Architecture: iphoneos-arm64e
 Version: 1.4
@@ -36214,6 +36254,27 @@ Name: Watusi 3 for WhatsApp
 Author: Fouad Raheb <support@fouadraheb.com>
 Icon: https://i.imgur.com/uZB1iIP.jpeg
 
+Package: com.r0.watusi3
+Architecture: iphoneos-arm64e
+Version: 1.2.69
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6440
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.r0.watusitools (>= 2.5.8)
+Filename: ./debs/arm64e/Watusi.3.for.WhatsApp.1.2.69.arm64e.deb
+Size: 1952556
+MD5sum: 2e0fe557b5d5f9047f8038034269694c
+SHA1: c8661d96e3e1a687d336d517c60586ee5b2c1ed3
+SHA256: b736f64922bbed19793d1a8c89314030c3678b1d8a181292eac43f737992a2e4
+SHA512: 99f504d1034f125298bd85449737da06da3cc01a7338f4c97b08d91b422834ddc7dc122161ba6cb712589080b627b35a51b748681790e6a47c5f82af9f5a9bb0
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Author: Fouad Raheb <support@fouadraheb.com>
+Header: https://i.postimg.cc/sxffmYJB/8-CA4-DD32-8-EC8-4-C0-D-B482-D91-FEEAC09-A1.jpg
+Icon: https://i.postimg.cc/wxrgR0HN/IMG-5364.jpg
+
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64e
 Version: 2.5.10
@@ -36231,6 +36292,26 @@ Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Icon: https://i.imgur.com/l9dqM3v.jpeg
 Author: Fouad Raheb <support@fouadraheb.com>
+
+Package: com.r0.watusitools
+Architecture: iphoneos-arm64e
+Version: 2.5.18
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0)
+Filename: ./debs/arm64e/WatusiTools.2.5.18.arm64e.deb
+Size: 9649368
+MD5sum: 02e0164ec1d10399a8d18f0ba3ad6e20
+SHA1: cf5893d2c490466757cefe8fc387b5e4f6c277f3
+SHA256: b5cd5d6224848265c31c134d056f6fab19fb7c0ec95f3f8c0f67139bba14a395
+SHA512: dde2cc4923af808783d4365ddee65202eb703beaec909b6495d14df7ef50a3aa73445d89d5637ad956228420cf2c116b638df5fd9495fcbcf0a1ab145c2775b5
+Description: Library for Watusi, Regram and other tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Header: https://i.postimg.cc/sxffmYJB/8-CA4-DD32-8-EC8-4-C0-D-B482-D91-FEEAC09-A1.jpg
+Icon: https://i.postimg.cc/zvhzGgy6/0-F678-EFD-2-C32-4-B5-F-B9-C8-A4957-AAA928-D.jpg
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 
 Package: com.netskao.wechatnotiavatars
 Architecture: iphoneos-arm64e
