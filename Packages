@@ -37406,6 +37406,27 @@ Icon: https://media.havoc.app/65d915afdc4f78f77542f9d4
 Depiction: https://havoc.app/depiction/tinge
 SileoDepiction: https://havoc.app/package/tinge/depiction.json
 
+Package: com.r0.onlinenotify
+Architecture: iphoneos-arm64e
+Version: 3.4.15
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 684
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.r0.watusitools (>= 2.5.0)
+Filename: ./debs/arm64e/com.r0.onlinenotify_3.4.15_iphoneos-arm64e.deb
+Size: 187920
+MD5sum: af035c219b436d981aa32b9c6820a75e
+SHA1: 12d858a2d6ace0dd2862ea4a534bb0ac9d972567
+SHA256: 0c9a5f9a7033ed774a33891e1c4ff83903018ae793e48102d4d343f0c8552e11
+SHA512: a61dd1bf8ddf1dc63da97306e8c9e5ed5827bf02493d0bc9cd8187e217c43a03ae67a0e4b7b0a08b08c499c52a93c2218eb9df686f7b4f9fc1e95843cd5d3872
+Description: Track your friends on WhatsApp Messenger!
+Name: OnlineNotify
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Header: https://i.postimg.cc/sxffmYJB/8-CA4-DD32-8-EC8-4-C0-D-B482-D91-FEEAC09-A1.jpg
+Icon: https://i.postimg.cc/43bg7D9V/IMG-5361.jpg
+
 Package: com.nan.deb
 Architecture: iphoneos-arm64e
 Version: 0.3.0
