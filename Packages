@@ -1,4 +1,38 @@
 Package: xyz.cypwn.crackfouad
+Architecture: iphoneos-arm
+Version: 2.1
+Section: Cracks
+Maintainer: CyPwn
+Installed-Size: 9880
+Depends: mobilesubstrate
+Filename: ./debs/arm/Fouad.Crack.2.1.arm.deb
+Size: 3728128
+MD5sum: 3c31cbbf3465ac9ae631cd3ae2c05ca8
+SHA1: 3dd002ff8e730ef96761d9eb18b03bd6fcf96dad
+SHA256: d52d4d7655a1efb952b31f5d7c001fadadbcb45708b70a5d5c07cca0ae1755e0
+SHA512: 229217a3108b485f38df5a5ba27302905fc906e0060f1db2de504043096de3c7c89fd389dea86ed623f43678d80df8f2645771523a87976cc61fb2e4a5f6a321
+Description: Cracked By Blatant | Compatible with up to following: WatusiTools: v2.5.18; ContactSync: v1.1.14; OnlineNotify: v3.4.15; Watusi 3: v1.2.69; Stalky: v4.1.40; Regram: B23.
+Name: Fouad Crack
+Author: blatant
+
+Package: xyz.cypwn.crackfouad
+Architecture: iphoneos-arm64
+Version: 2.1
+Section: Cracks
+Maintainer: CyPwn
+Installed-Size: 9880
+Depends: mobilesubstrate
+Filename: ./debs/arm64/Fouad.Crack.2.1.arm64.deb
+Size: 3715068
+MD5sum: 7cc379163d0c445212dee81fd0da218f
+SHA1: 9ddfe26cde275d987d3f488b1b369abcbe924c2b
+SHA256: cf9a335001b9eb2d4415ea8938ab77538c9c032eb6fbd9c9f4e087ad24aa728e
+SHA512: 7025ff59948a1ef4920c2c68033d21e46ca228488e6b37a21f8612b85a6753ae355f020f6cd023f9e69199d8a52a462267147049b154bb9ca11402b467706392
+Description: Cracked By Blatant | Compatible with up to following: WatusiTools: v2.5.18; ContactSync: v1.1.14; OnlineNotify: v3.4.15; Watusi 3: v1.2.69; Stalky: v4.1.40; Regram: B23.
+Name: Fouad Crack
+Author: blatant
+
+Package: xyz.cypwn.crackfouad
 Architecture: iphoneos-arm64e
 Version: 2.1
 Section: Cracks
