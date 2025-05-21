@@ -129,6 +129,23 @@ Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 
+Package: dev.unlock.00
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: adry
+Depends: firmware (>= 13.0)
+Filename: ./debs/arm/unlock.apps.0.0.1.arm.deb
+Size: 8452
+MD5sum: 1ee642a7cc10587e11c312a6a4e6d57e
+SHA1: 3e04d373ce802f0f47d25ed40c32da7b52ccfc9e
+SHA256: 0348cb41b2dd67558000999884c48af6e7a8172e41a2694feb691e2e01219e14
+SHA512: a7fb9f0cafff9673fc31a05aba0e36f7ff240c0c033e9272878d4d3193728050714ee92ad94bbe8c7144f6e788b3818989e9a70302906c02280d7e512a6b67ca
+Description: unlock premium for most apps
+Name: unlock apps
+Author: adry
+Icon: https://i.imgur.com/m2Bn0u4.jpeg
+
 Package: com.fouadraheb.contactsync
 Architecture: iphoneos-arm64
 Version: 1.1.14
@@ -149,6 +166,44 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
 Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
 
+Package: me.nebula.ding
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Nebula <tweak-support@itsnebula.net>
+Installed-Size: 394
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
+Filename: ./debs/arm64/Ding.1.1.0.arm64.deb
+Size: 25476
+MD5sum: 585bd5a3beb80501a10e2cbda06524ce
+SHA1: 041e17bf9d3d6a382c9b6c7921181e6288448150
+SHA256: 5cc5595a1f501d717afec8f7d2d806f33d7a9530644dce86744438d39682d53a
+SHA512: 040870de6895896f6fc49ade9df0e8e70387d886eb0e71471b0662e70bc7c421f5aa5fef029f62463467759459f2dbad350ad3d60e237d1b13ba784be84ef438
+Description: Take control of your ringer switch!
+Author: Nebula <tweak-support@itsnebula.net>
+Name: Ding
+Icon: https://img.chariz.cloud/icon/ding/icon@3x.png
+SileoDepiction: https://chariz.com/api/sileo/package/me.nebula.ding/depiction.json
+
+Package: com.netskao.filzacrack
+Architecture: iphoneos-arm64
+Version: 1.1-8
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 88
+Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
+Filename: ./debs/arm64/Filza.Crack.1.1-8.arm64.deb
+Size: 4984
+MD5sum: 99c6819ea8be79a2ecc56fb4b3f4b025
+SHA1: 6fbbf3e684e6f3eb0b504bfa9943aaa3d72999d9
+SHA256: 7d54a6a97d32185eefb6605130381a300371d809958d57667dd72fc75e631c16
+SHA512: ab928bc0e59b2c673b1bce555c9e9fe4476a0fd740215186a576ad65e4d9f10ccc0bd43da9f57bf1dcdf275a376f7b13f227a8233a7135d22c2af1379ba7e9fa
+Homepage: https://tigisoftware.com/cydia/
+Description: Filza unlock full functionality, the main program please install in the official source
+Name: Filza Crack
+Author: Netskao
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.filzacrack.json
+
 Package: apt.fouad.xyz
 Architecture: iphoneos-arm64
 Version: 2.1
@@ -165,6 +220,66 @@ SHA512: 554e08567caf7cad6af6c03fed03f30972b3dc278d8f09f20d0f41bb274b193d7bc92285
 Description: WatusiTools: v2.5.20; ContactSync: v1.1.14; OnlineNotify: v3.4.15; Watusi 3: v1.2.72; Stalky: v4.1.41; Regram: b23.
 Name: Fouad Crack
 Author: Not Fouad
+
+Package: com.mikifp.griddy
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Section: Tweaks
+Maintainer: mikifp
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/arm64/Griddy.1.0.5.arm64.deb
+Size: 19924
+MD5sum: 130b843e3f40307c28d8c75e3f763c75
+SHA1: 031ca69d86aae361663b97ed37483851e2074364
+SHA256: 8cf8a59967db90525e6cd141ee8a954786e0fd40ab91c49063a51c52a4a99e8e
+SHA512: 711f40d0381af4260ce49716a5af7a7d7d3fcde2197a5f067bbd3c179c207b445cac61a4c461c8a9332298beb6c75d757aaedc8f301338c578141acd0e2fbf20
+Description: Layout your icons anywhere you want!
+Name: Griddy
+Author: mikifp
+Depiction: https://havoc.app/depiction/griddy
+SileoDepiction: https://havoc.app/package/griddy/depiction.json
+Icon: https://media.havoc.app/6718f4c922a19f8847897613
+
+Package: com.mtac.lynxtwo
+Architecture: iphoneos-arm64
+Version: 2.5.4
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 2952
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/arm64/Lynx.2.2.5.4.arm64.deb
+Size: 680240
+MD5sum: 9deddecdda9fdb470d673e9865db080a
+SHA1: 95c6e5786b32289ff5933f26b4d4a10a0bbaddd2
+SHA256: e2af70b8791da5003b1797948189e0517c69ea712775752fa9ebf095f67bd1dc
+SHA512: 2caa8996bfc8641e25f7403224d87378d7e0b277a2acbe0782e5f68d502b9fbee8b46f8ea90bbae4bcfb78c2292265426861eb6e26251878c7e4568e6d9e8722
+Description: Ultimate iDevice Customization for iOS 14, 15 & 16
+Name: Lynx 2
+Author: MTAC
+Depiction: https://havoc.app/depiction/lynxtwo
+SileoDepiction: https://havoc.app/package/lynxtwo/depiction.json
+Icon: https://media.havoc.app/64a1d7f9351a82652447cb09
+
+Package: com.0xkuj.notificationsgroupcount
+Architecture: iphoneos-arm64
+Version: 1.0.7
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/NotificationsGroupCount.1.0.7.arm64.deb
+Size: 80016
+MD5sum: a8d2880125ac778d0e37458d802c2e83
+SHA1: ab07518b4f50dedb4306ee626effa7357c1f2d0d
+SHA256: 3aa76bfde3e3b1dd8a71b3ba35e271ec42a2af9e92d0d6eb36ed7d77a975be07
+SHA512: 1b8b1d1d0551d9e4669cf5268851d3b4fc4452af2948bf27020d1d0f19fef13d2affe179df051f5e71b349c29931cda222ffe2f1a638cf746019a3c8ae57f7f4
+Description: Count those notifications inside Apple notifications grouping!
+Name: NotificationsGroupCount
+Author: 0xkuj
+Icon: https://cdn-static.yourepo.com/images/debs/com.yourepo.0xkuj.notificationsgroupcount.png
+Depiction: https://0xkuj.yourepo.com/pack/notificationsgroupcount
+SileoDepiction: https://0xkuj.yourepo.com/sileo/depiction/notificationsgroupcount
 
 Package: com.f0u4d.onlinenotify
 Architecture: iphoneos-arm64
@@ -205,6 +320,47 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
 Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
 
+Package: com.uckermark.siriplus
+Architecture: iphoneos-arm64
+Version: 1.4
+Section: Tweaks
+Maintainer: Uckermark
+Installed-Size: 1480
+Depends: dev.theos.orion (>= 1.0.0), com.opa334.ccsupport, mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/arm64/SiriPlus.1.4.arm64.deb
+Size: 255588
+MD5sum: c4c2f7585ddb66d269ddae10767650c1
+SHA1: 1c7e14e1263eb0c5392aa73bbbc98392da4ef507
+SHA256: 389902a1e5c80bd171c7a54b3242cb77a5b99c29c2f92d7988ede25e365a2469
+SHA512: 11e464344e4077cb611edf9fbaa4a792dfee353c934f8be5639bfc0360369bd7e76b8d62942a3873135e27a612c1cb90400e15361eb678dcfb655f021ffb6b34
+Description: Replace Siri with ChatGPT/Gemini
+Name: SiriPlus
+Author: Uckermark
+Depiction: https://havoc.app/depiction/siriplus
+SileoDepiction: https://havoc.app/package/siriplus/depiction.json
+Icon: https://media.havoc.app/65e33489f1efdf19d02cf252
+
+Package: com.idevicelover.smartbatteryios15
+Architecture: iphoneos-arm64
+Version: 1.6
+Section: Tweaks
+Maintainer: elias
+Installed-Size: 2412
+Depends: ws.hbang.common
+Conflicts: com.idevicelover.smartbattery2
+Filename: ./debs/arm64/SmartBattery.iOS.15.-.16.1.6.arm64.deb
+Size: 687724
+MD5sum: edd256fb0fbb457bb75a9dfec9eb7dc4
+SHA1: e799d88bd02d67a1720dc47b311a4f8787a3d3d9
+SHA256: 407d83a1df3aee1d65e8ecc8a97eea46f7178205938d53bb8cc6f74c635aaff7
+SHA512: c4a1ff9dce45472422ddecf06dc7fdc294054bd462801374385e84a97bb794341909f61f073f6b903aa110e16360d0ef165cbc985054b6ae53d6b6300b923eda
+Description: An awesome MobileSubstrate tweak!
+Name: SmartBattery iOS 15 - 16
+Author: elias
+Depiction: https://havoc.app/depiction/smartbatteryios
+SileoDepiction: https://havoc.app/package/smartbatteryios/depiction.json
+Icon: https://media.havoc.app/6380e31f7246bed7c12ae8e4
+
 Package: com.f0u4d.stalky
 Architecture: iphoneos-arm64
 Version: 4.1.41
@@ -223,6 +379,46 @@ Description: Track & download your contacts latest profile & statuses updates on
 Name: Stalky
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+
+Package: com.p2kdev.tinge
+Architecture: iphoneos-arm64
+Version: 1.2.2
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 436
+Depends: firmware (>= 15.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: ./debs/arm64/Tinge.1.2.2.arm64.deb
+Size: 40940
+MD5sum: a8bea18c81e9658393e1ae50b6ebe742
+SHA1: 9dc03eab751255e38db9df48194c866b0bf7478f
+SHA256: 8a9854f75b61df192815e43328ea4c1db65e9357a617256eb01e0e4063fe98b4
+SHA512: 71416d84304d4192d77069e536c90ba46179f22df3178bb70c3612e1161330b544a963f94a2a339df1060c605351f5272fa72a8d9a404654af37a6355a3722ed
+Description: Color your badges with Perfection!
+Name: Tinge
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://media.havoc.app/65d915afdc4f78f77542f9d4
+Depiction: https://havoc.app/depiction/tinge
+SileoDepiction: https://havoc.app/package/tinge/depiction.json
+
+Package: com.82flex.touchvis
+Architecture: iphoneos-arm64
+Version: 3.8
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 3040
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/arm64/Touch-Viz.3.8.arm64.deb
+Size: 576020
+MD5sum: 2dd84b4fecb0d24503959e48274be9d9
+SHA1: d91404d5ad461142a15c42921fdb1d5bfe85bfd2
+SHA256: 3cdf6d837f208422a8b4252d5c31ef687a4594c4a2c6cba4b5da56ab3fd3b56c
+SHA512: 37f23da3c448893e0c02dea392e6acf382b8e312672b4aed372b44955059d8a254fb7328fe181450ce2fbab86816fb8fb946a3c3017a55f7a57cef920c71c23a
+Description: Display your touch interactions!
+Name: Touch-Viz
+Author: Lessica <82flex@gmail.com>
+Depiction: https://havoc.app/depiction/touchvis
+SileoDepiction: https://havoc.app/package/touchvis/depiction.json
+Icon: https://media.havoc.app/66b862c5328ec2048b895110
 
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm64
@@ -260,6 +456,40 @@ Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 
+Package: com.exile90.icleanerpro
+Architecture: iphoneos-arm64
+Version: 7.10.0
+Section: Utilities
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Filename: ./debs/arm64/iCleaner.Pro.7.10.0.arm64.deb
+Size: 983556
+MD5sum: 6e677bada1271b6ba1a7c0433bf4c829
+SHA1: 953399f6ac57211f278742ec0b2cb4f17d018d20
+SHA256: 1176e20d1d59593cdfffe6ba04963d9d99946220eda4edb95284725a79439a08
+SHA512: 1971f0ebba7f8ae3b2692fcf392e17fafa772b31e7a9a8ac737b7a63f2682ffca8c6bc7d533ed04b7c133b74f90600e616d3114c0ffd1cb082c9c0b92bceb7b7
+Description: The first real iOS system cleanup and management utility
+Name: iCleaner Pro
+Author: Ivano Bilenchi <support@ib-soft.net>
+Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/Icons/iCleaner.png
+
+Package: dev.unlock.00
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: adry
+Depends: firmware (>= 15.0)
+Filename: ./debs/arm64/unlock.apps.0.0.1.arm64.deb
+Size: 8476
+MD5sum: 087136b13dcf55f12151933406826203
+SHA1: 49486167595123b400a4acbd1bc5e8bebc900c5f
+SHA256: 213d3cc159516d36a0c7d7574eaf6c146f8204094a234e6de3fb87e2d2493f3a
+SHA512: ade717fc30c63c630c6246c2f91d2c56fc2ffd8699da2369d686fe0970904d6859816b8fa2fe91fac03452cf1656a51e2af211fcae4e6fc25e18289ddcb3e11d
+Description: unlock premium for most apps
+Name: unlock apps
+Author: adry
+Icon: https://i.imgur.com/m2Bn0u4.jpeg
+
 Package: com.fouadraheb.contactsync
 Architecture: iphoneos-arm64e
 Version: 1.1.14
@@ -281,6 +511,45 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
 Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
 
+Package: me.nebula.ding
+Architecture: iphoneos-arm64e
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Nebula <tweak-support@itsnebula.net>
+Installed-Size: 394
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
+Filename: ./debs/arm64e/Ding.1.1.0.arm64e.deb
+Size: 25364
+MD5sum: e2ffbf956ce1799f69ef14a4ff2f3305
+SHA1: 9102663308f518607a6a15aac60a171b74c78cfc
+SHA256: fa09e1dc4286ef7313ba5e9d90e4c38695b5f271aa16a7341a571af11c64433d
+SHA512: ee13559d09bdeed5531973858fe27df4a58be9391144543e7844994798a190743fa7731f34ed9b4badc90265d3d0a747c83e9ba462af7aa022957441ed51da52
+Description: Take control of your ringer switch!
+Author: Nebula <tweak-support@itsnebula.net>
+Name: Ding
+Icon: https://img.chariz.cloud/icon/ding/icon@3x.png
+SileoDepiction: https://chariz.com/api/sileo/package/me.nebula.ding/depiction.json
+
+Package: com.netskao.filzacrack
+Architecture: iphoneos-arm64e
+Version: 1.1-8
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 88
+Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
+Filename: ./debs/arm64e/Filza.Crack.1.1-8.arm64e.deb
+Size: 4956
+MD5sum: ef4ec30e532d7db034158904c75e34b3
+SHA1: a020e13e9325157960790aaf13a1eb12a18367fa
+SHA256: dcbc2867c4194f6c16ff6ee0e16a315ea1d693319cd43345c49e5f4d3ec29f2e
+SHA512: c349385621cf21c84c636940764cbb7b5d21f00948752bb1b90de589f7f084c64990b8d59b112963d87b8b307178db47c56d32ce0cc0b112b541df8fdb48ccaf
+Homepage: https://tigisoftware.com/cydia/
+Description: Filza unlock full functionality, the main program please install in the official source
+Name: Filza Crack
+Author: Netskao
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.filzacrack.json
+
 Package: apt.fouad.xyz
 Architecture: iphoneos-arm64e
 Version: 2.1
@@ -297,6 +566,69 @@ SHA512: 651fd4fcb4d8cb5f8eb72197d0ad80868caed513cf37177bb7d4088e6dc662a44b5fa088
 Description: WatusiTools: v2.5.20; ContactSync: v1.1.14; OnlineNotify: v3.4.15; Watusi 3: v1.2.72; Stalky: v4.1.41; Regram: b23.
 Name: Fouad Crack
 Author: Not Fouad
+
+Package: com.mikifp.griddy
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Section: Tweaks
+Maintainer: mikifp
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/Griddy.1.0.5.arm64e.deb
+Size: 20812
+MD5sum: 367fe1c8da31021958eda4eeacc4d91c
+SHA1: ace12c7e25bfcc0351294868eb13fbe53c28c488
+SHA256: 355df776e182550161d144406d14f14257e2db30927135dc03806fa5de18ac7a
+SHA512: 80801e19e995e623fc3997de3c8837c411ffabe019a86ece98c3c5d7f193868d6da846494d65242b4371b8003d7f7890f1a54fb149ff4f54ef08c965d7eff7cf
+Description: Layout your icons anywhere you want!
+Name: Griddy
+Author: mikifp
+Depiction: https://havoc.app/depiction/griddy
+SileoDepiction: https://havoc.app/package/griddy/depiction.json
+Icon: https://media.havoc.app/6718f4c922a19f8847897613
+
+Package: com.mtac.lynxtwo
+Architecture: iphoneos-arm64e
+Version: 2.5.4
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 2952
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/arm64e/Lynx.2.2.5.4.arm64e.deb
+Size: 702088
+MD5sum: d182d3eab3467a10bf2e752394f9114e
+SHA1: 7d2c9b01186e62793d7ba2b862b67fabbbbbbb70
+SHA256: 4b11aaced87d9cb66821decdd2e8c9b7036ecff0a909a0dcf77648ba966d881b
+SHA512: 9706ae21d5cc4cb181fa7478ce82d5417cd80fa39903e71fe1195a5ef67480b8944f385b77c23a32c68e1bab1ca881f9b360b29b6c0f9d359c85c73a628811b3
+Description: Ultimate iDevice Customization for iOS 14, 15 & 16
+Name: Lynx 2
+Author: MTAC
+Depiction: https://havoc.app/depiction/lynxtwo
+SileoDepiction: https://havoc.app/package/lynxtwo/depiction.json
+Icon: https://media.havoc.app/64a1d7f9351a82652447cb09
+
+Package: com.0xkuj.notificationsgroupcount
+Architecture: iphoneos-arm64e
+Version: 1.0.7
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 480
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64e/NotificationsGroupCount.1.0.7.arm64e.deb
+Size: 82224
+MD5sum: f166802c48e2cecc4f9918f9529b68ee
+SHA1: 1a97981447f230270f66e1f18d18ef86fd3b4728
+SHA256: 80a349d94a031e234c664c0daced6a67dc05dd7b27a198bbb51498abd97373bd
+SHA512: 7564256e557812a0ee3f9805f5ae66665899ef1da0f53349635e05e5dac0ed0ec00ef78153bfebccb4c3afd0a69932731e0460dd7656d125efbd1d601948bd7f
+Description: Count those notifications inside Apple notifications grouping!
+Name: NotificationsGroupCount
+Author: 0xkuj
+Icon: https://cdn-static.yourepo.com/images/debs/com.yourepo.0xkuj.notificationsgroupcount.png
+Depiction: https://0xkuj.yourepo.com/pack/notificationsgroupcount
+SileoDepiction: https://0xkuj.yourepo.com/sileo/depiction/notificationsgroupcount
 
 Package: com.f0u4d.onlinenotify
 Architecture: iphoneos-arm64e
@@ -339,6 +671,49 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
 Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
 
+Package: com.uckermark.siriplus
+Architecture: iphoneos-arm64e
+Version: 1.4
+Section: Tweaks
+Maintainer: Uckermark
+Installed-Size: 1480
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), com.opa334.ccsupport, mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/arm64e/SiriPlus.1.4.arm64e.deb
+Size: 258012
+MD5sum: 89fbc4feae361c53a511c90920e2aa3c
+SHA1: 8c36dab08e8d34db16b2b4072b948277b6fe7cbc
+SHA256: 3135978ba1b51e45bcd2fdfefaef7684854b615efa657280d951fdd33412e9db
+SHA512: 463414758c28eaa63402e08baf2daccb671bd03cfdef15d1ab6b80746d79119983599f957d5a7487415a0d610e9b8a56ed2dbfb9fa744f147a8aa8ba36e54d75
+Description: Replace Siri with ChatGPT/Gemini
+Name: SiriPlus
+Author: Uckermark
+Depiction: https://havoc.app/depiction/siriplus
+SileoDepiction: https://havoc.app/package/siriplus/depiction.json
+Icon: https://media.havoc.app/65e33489f1efdf19d02cf252
+
+Package: com.idevicelover.smartbatteryios15
+Architecture: iphoneos-arm64e
+Version: 1.6
+Section: Tweaks
+Maintainer: elias
+Installed-Size: 2412
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: ws.hbang.common
+Conflicts: com.idevicelover.smartbattery2
+Filename: ./debs/arm64e/SmartBattery.iOS.15.-.16.1.6.arm64e.deb
+Size: 694852
+MD5sum: bd283fb03b57896d3b1818ae6d1eff73
+SHA1: 39505c2572d4076baafcf3014bdd583ee5b986c9
+SHA256: 24dd84618dee37d1cee165039efff7e492f3392727057f08db4cdd93b1825445
+SHA512: a6f9b57ebc633a21932cbd374e18bd20a38e40f7bef60a919490a2ea49a5a4383aaec4a79c84a56cc648da058ba922857ac4683e50a910c1cdf8fd8ce16bdc8a
+Description: An awesome MobileSubstrate tweak!
+Name: SmartBattery iOS 15 - 16
+Author: elias
+Depiction: https://havoc.app/depiction/smartbatteryios
+SileoDepiction: https://havoc.app/package/smartbatteryios/depiction.json
+Icon: https://media.havoc.app/6380e31f7246bed7c12ae8e4
+
 Package: com.f0u4d.stalky
 Architecture: iphoneos-arm64e
 Version: 4.1.41
@@ -358,6 +733,48 @@ Description: Track & download your contacts latest profile & statuses updates on
 Name: Stalky
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+
+Package: com.p2kdev.tinge
+Architecture: iphoneos-arm64e
+Version: 1.2.2
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 436
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: ./debs/arm64e/Tinge.1.2.2.arm64e.deb
+Size: 43068
+MD5sum: d1bb018435eeb8448ff01a23439b7306
+SHA1: 9992c64501c262fd4bb54beba1e68902ffee5389
+SHA256: 13e1eac31b0086d61c53d8fc19bef08f4aa05a382bca1fec278de9806294c56c
+SHA512: 0c3001fcdcfdf4d1a18d66099dea1c2fa02282a6b9bf214f735e2e29d7d9ee887f7d1a7d0666b0cfd89af2e58cba64560cb634c7c0b68f223a7e9c51d7173de0
+Description: Color your badges with Perfection!
+Name: Tinge
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://media.havoc.app/65d915afdc4f78f77542f9d4
+Depiction: https://havoc.app/depiction/tinge
+SileoDepiction: https://havoc.app/package/tinge/depiction.json
+
+Package: com.82flex.touchvis
+Architecture: iphoneos-arm64e
+Version: 3.8
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 3040
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/arm64e/Touch-Viz.3.8.arm64e.deb
+Size: 575704
+MD5sum: b350c76ba2e90e6aba1186a8097f15b1
+SHA1: c3febd9b49362314c6894b5975d47700b1c99a3b
+SHA256: d89534e6a0179302fe9e020ca63048df7a1d9d570dde87b7528461b5050a5830
+SHA512: eaf5007385556966906e981b5b561e96e611379ff91a4467eafaba61a4dd472d34b1d6dab9f979dc5912e62c90d908e5391e37455d532633eb743232a2161146
+Description: Display your touch interactions!
+Name: Touch-Viz
+Author: Lessica <82flex@gmail.com>
+Depiction: https://havoc.app/depiction/touchvis
+SileoDepiction: https://havoc.app/package/touchvis/depiction.json
+Icon: https://media.havoc.app/66b862c5328ec2048b895110
 
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm64e
@@ -396,4 +813,61 @@ Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
+Package: xyz.cypwn.xinam1ne
+Architecture: iphoneos-arm64e
+Version: 2.6-8
+Section: Utilities
+Maintainer: CyPwn
+Provides: emt.paisseon.xinamine (= 99)
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Replaces: emt.paisseon.xinamine
+Filename: ./debs/arm64e/Xinam1ne.AIO.2.6-8.arm64e.deb
+Size: 79364
+MD5sum: 750f49a6803b5320261e985c96dc977d
+SHA1: 7da7ce7ea2d83b984bf557a912b62cf8547a135e
+SHA256: 808dbfff9893b2980e3f8449711571e248b3cf35088ca21ed7bbb61c2215bb73
+SHA512: 9582bccc96fe9f18e3a230f2a3c93b5d4a2cd6c1e9ed13eddb0865e5b4672a2b60203ae1b8aca1443ab90bb89c07ae4dfbb9c9472834cb1e519f3cbda234b346
+Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza or use the included Xinaf1re app.
+Depiction: https://repo.cypwn.xyz/depiction/2816
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2816
+Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
+Name: Xinam1ne AIO
+Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
+
+Package: com.exile90.icleanerpro
+Architecture: iphoneos-arm64e
+Version: 7.10.0
+Section: Utilities
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Filename: ./debs/arm64e/iCleaner.Pro.7.10.0.arm64e.deb
+Size: 971968
+MD5sum: f41bab359fcaf810727a5e36b58da11b
+SHA1: bb61df47ec3a152ff0b88e40cd26f908a55dc9d7
+SHA256: 03384613a7f10c404edcf74bc4410727f5ae673a33d5d29e954d2a91490bec79
+SHA512: 2fe68f4872bd6b94579873ec433c97c186d73cf400e2443bf57f9606bcbabc66cf339e75c75f98200ff90fb3b512b1f1831a2d209f2c6ac7b452bbb0e07f7492
+Description: The first real iOS system cleanup and management utility
+Name: iCleaner Pro
+Author: Ivano Bilenchi <support@ib-soft.net>
+Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/Icons/iCleaner.png
+
+Package: dev.unlock.00
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: adry
+Depends: firmware (>= 15.0)
+Filename: ./debs/arm64e/unlock.apps.0.0.1.arm64e.deb
+Size: 8304
+MD5sum: aded662aa4f63ae914c783c15b0aac25
+SHA1: dd3ef2ab79c8e3c44e063330107c37c178100846
+SHA256: 8936aa5677a928e9792e7a9767311452440b2bd259415addc0a1e96483b4af36
+SHA512: 7e56cf0f707f961abdc72b6d42de7a109fbc9365d1226829715636e7c1f657432c39e9e847879827a73d90307f6dd88346788be3c0a21a4edf554c9fcde7a1b4
+Description: unlock premium for most apps
+Name: unlock apps
+Author: adry
+Icon: https://i.imgur.com/m2Bn0u4.jpeg
 
