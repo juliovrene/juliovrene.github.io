@@ -18,22 +18,22 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
 Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
 
-Package: xyz.cypwn.crackfouad
+Package: apt.fouad.xyz
 Architecture: iphoneos-arm
 Version: 2.1
-Section: Cracks
-Maintainer: CyPwn
+Section: Development
+Maintainer: Not Fouad
 Installed-Size: 9880
 Depends: mobilesubstrate
 Filename: ./debs/arm/Fouad.Crack.2.1.arm.deb
-Size: 3717560
-MD5sum: e6b74ebecb758a44c3ef4c0c6002a11d
-SHA1: d6a3e0dea48a89e3bca0fcb7d1e17c34bc5d4038
-SHA256: f90161bff4e99f68f84cd14fd53d3de1c78e1a9eccedff39e467d0bd949da60e
-SHA512: 114ea402625cfbfe0bf9f95d3e7287ad42eacc24738ac1c8d69f03291f268dbbffba19375b6f3cb2a829f933e97a6f8191b8302e46ead8dea613652963dccdac
-Description: Cracked By Blatant | Compatible with up to following: WatusiTools: v2.5.20; ContactSync: v1.1.14; OnlineNotify: v3.4.15; Watusi 3: v1.2.72; Stalky: v4.1.41; Regram: B23.
+Size: 3716560
+MD5sum: 003c6446ff04c94322d0ba85ffa8256c
+SHA1: e7cf997dbcf89773f1b1cbb6f2c74da6e7ffa54a
+SHA256: 6a7f0b455689d1db64b1ffd16d305a92f7b5e1cb38d6ca8580d7b43b8d261028
+SHA512: 3b310c476da296dbbe7c25294df858b796aad3caaf089f31bfe4264e204064432d2320cf3f29a10b85c0a09f3b5599f4c5308a4d361a7cdd6a867ad864808d70
+Description: WatusiTools: v2.5.20; ContactSync: v1.1.14; OnlineNotify: v3.4.15; Watusi 3: v1.2.72; Stalky: v4.1.41; Regram: b23.
 Name: Fouad Crack
-Author: blatant
+Author: Not Fouad
 
 Package: com.f0u4d.onlinenotify
 Architecture: iphoneos-arm
@@ -149,22 +149,22 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
 Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
 
-Package: xyz.cypwn.crackfouad
+Package: apt.fouad.xyz
 Architecture: iphoneos-arm64
 Version: 2.1
-Section: Cracks
-Maintainer: CyPwn
+Section: Development
+Maintainer: Not Fouad
 Installed-Size: 9880
 Depends: mobilesubstrate
 Filename: ./debs/arm64/Fouad.Crack.2.1.arm64.deb
-Size: 3707524
-MD5sum: b9d7c306a7065a04ebcfbe3bf71432d8
-SHA1: 183d3b3ed54356f246ce17e4d52de4448059a9dd
-SHA256: f994e2c809bd6f2e2ae2dadc9e8f8ae6c40a0aa9a6cbc5fe8fc867c1d5a5cf87
-SHA512: 27835e62bbfd94d9cb58a9b0d70baead560fb8f6415dd97b6e83c7ff576a0253ae3e66440daaf2da82eed3018a90b443463ee04aeb31f6c9a61f86a20557974d
-Description: Cracked By Blatant | Compatible with up to following: WatusiTools: v2.5.20; ContactSync: v1.1.14; OnlineNotify: v3.4.15; Watusi 3: v1.2.72; Stalky: v4.1.41; Regram: B23.
+Size: 3724752
+MD5sum: 0853960e708008d9c268aa87f50b20b3
+SHA1: 631e40cfd9aea8eb0f3e59e510921edbf9e03e2a
+SHA256: 88d19d63ab0fac8cae6816a981cb984049ed1c3640a67faea10841268404e6a5
+SHA512: 554e08567caf7cad6af6c03fed03f30972b3dc278d8f09f20d0f41bb274b193d7bc92285480e2f5c3a28711f2b8d9f8c4178b77f81a2b1176abeaf5f79a8eb03
+Description: WatusiTools: v2.5.20; ContactSync: v1.1.14; OnlineNotify: v3.4.15; Watusi 3: v1.2.72; Stalky: v4.1.41; Regram: b23.
 Name: Fouad Crack
-Author: blatant
+Author: Not Fouad
 
 Package: com.f0u4d.onlinenotify
 Architecture: iphoneos-arm64
@@ -281,22 +281,22 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
 Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
 
-Package: xyz.cypwn.crackfouad
+Package: apt.fouad.xyz
 Architecture: iphoneos-arm64e
 Version: 2.1
-Section: Cracks
-Maintainer: CyPwn
+Section: Development
+Maintainer: Not Fouad
 Installed-Size: 9880
 Depends: mobilesubstrate
 Filename: ./debs/arm64e/Fouad.Crack.2.1.arm64e.deb
-Size: 3723312
-MD5sum: d5f1362107ed10ecd2b1000d51a0a9d8
-SHA1: 188efcbb78a1d70e96492fb5a5a4b98f339e3fcd
-SHA256: 5cf1695ba6c29ebbff51c901d29b4edcbef0058a28d836a307391f1a0d14e603
-SHA512: 5eae2f418fdcf8ab6878fea849f8719c31b600d4cda672f77d82af186ea0e2602d8ef08c5d7c89fb692c9351d529e130e27c4af4a105619b3afd6cef86d3789e
-Description: Cracked By Blatant | Compatible with up to following: WatusiTools: v2.5.20; ContactSync: v1.1.14; OnlineNotify: v3.4.15; Watusi 3: v1.2.72; Stalky: v4.1.41; Regram: B23.
+Size: 3714056
+MD5sum: 516a5c782e0f5e1994cde05955b063c6
+SHA1: eff801a9aafefba054d6a7676bd9df5486001bde
+SHA256: 36c0d3d04bc44d78f51f0699a3f465ae9423b82c0c273960b4847a22c6e13cb9
+SHA512: 651fd4fcb4d8cb5f8eb72197d0ad80868caed513cf37177bb7d4088e6dc662a44b5fa088c8870badcab6d385cae99ed8b88719ad4f958a1a7eb34ac5c9d04f46
+Description: WatusiTools: v2.5.20; ContactSync: v1.1.14; OnlineNotify: v3.4.15; Watusi 3: v1.2.72; Stalky: v4.1.41; Regram: b23.
 Name: Fouad Crack
-Author: blatant
+Author: Not Fouad
 
 Package: com.f0u4d.onlinenotify
 Architecture: iphoneos-arm64e
