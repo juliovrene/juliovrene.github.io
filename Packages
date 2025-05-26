@@ -1,3 +1,49 @@
+Package: libactivator
+Architecture: iphoneos-arm
+Version: 1.9.13~rc6
+Priority: optional
+Section: System
+Maintainer: Ryan Petrich <rpetrich+activator@gmail.com>
+Installed-Size: 5060
+Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16~rc3), com.rpetrich.rocketbootstrap (>= 1.0.9)
+Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
+Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
+Filename: ./debs/arm/Activator.1.9.13~rc6.arm.deb
+Size: 929784
+MD5sum: 2a581057e6acf1c80b790192b37471b7
+SHA1: caa2344c72e2fe75ead1403e5f0728a15672df26
+SHA256: 3796d56ca712841662bea223bcb097e5b1d9a9ae05ea02cb5d0f87de0ca0844b
+SHA512: 2ffaeb9e3aef7074104b6726ad99fe46ee2ab027c05bac566345e787cf638ceb6eb26ec7bce863bedd40b4ce5ae61e73d2d5e3944c03abd1c42da315a3df209c
+Homepage: https://rpetri.ch/cydia/activator/beta/
+Description: Centralized gestures, button and shortcut management for iOS
+Name: Activator
+Depiction: https://rpetri.ch/cydia/activator/beta/
+Author: Ryan Petrich <rpetrich+activator@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Icon: file:///Applications/Activator.app/Icon-Small-modern@2x.png
+
+Package: applist
+Architecture: iphoneos-arm
+Version: 1.5.16
+Section: System
+Maintainer: Ryan Petrich <rpetrich@gmail.com>
+Installed-Size: 780
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3) | firmware (<< 7.0)
+Conflicts: com.a3tweaks.polus (<< 2.0.7)
+Filename: ./debs/arm/AppList.1.5.16.arm.deb
+Size: 105216
+MD5sum: 75ee4181739a80ba63a63de729593c16
+SHA1: f705fa6e4e2b2fe3f785d445e9ece0dba9774318
+SHA256: 47e03070ac6cc9afbe83739c229bcf6d7375ac6ae3c34c5f9a8eaffb3bcb5f9e
+SHA512: b9640433fcd3647802ac572bf67f948f7c8a8af27e858f80e2b28123cd8a8af68542873a514913fceb64d9049f951445ffa86ebacde81b9d54e2f69001814147
+Description: Allow extensions to read the list of installed apps
+Name: AppList
+Author: Ryan Petrich <rpetrich@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+dev: rpetrich
+
 Package: com.titand3v.avatar
 Architecture: iphoneos-arm
 Version: 1.0
@@ -207,6 +253,31 @@ Name: Expanse
 Author: Hyperixa <hyp3rixa@gmail.com>
 Depiction: https://repo.hyperixa.com/depictions/expanse/index.html
 Icon: https://repo.hyperixa.com/depictions/expanse/assets/icon.png
+
+Package: com.a3tweaks.flipswitch
+Architecture: iphoneos-arm
+Version: 1.0.16~rc3
+Section: System
+Maintainer: rpetrich & a3tweaks <rpetrich+flipswitch@gmail.com>
+Installed-Size: 2408
+Provides: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Depends: mobilesubstrate (>= 0.9.5001), com.rpetrich.rocketbootstrap (>= 1.0.9) | firmware (<< 7.0)
+Conflicts: com.rpetrich.donotdisturbtoggle (<= 1.0-1), com.jerryen.rotationlockflipswitch, com.jakeashacks.realcc (<< 1.0.2)
+Replaces: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift, com.jakeashacks.realcc (<< 1.0.2)
+Filename: ./debs/arm/Flipswitch.1.0.16~rc3.arm.deb
+Size: 300632
+MD5sum: 09e22af9429c1edd7102bba11281574f
+SHA1: 654f9954f1837cd6e12161135edb02e107208769
+SHA256: 67a6f5be60ed58a3498349c208edb61a3863de88b2b48216b559c9b7765c045c
+SHA512: 847c32d78f37949b58e48c33be9802aae2706a3abe02dc87feb221a21ce90069f40faa41039164d8299d8aa8013dc19be1af0cb545c49756417072bb4b141e8d
+Homepage: https://rpetri.ch/cydia/flipswitch/beta/
+Description: Centralized toggle system for iOS
+Tag: purpose::extension, role::developer
+Name: Flipswitch
+Depiction: https://rpetri.ch/cydia/flipswitch/beta/
+Author: rpetrich <rpetrich+flipswitch@gmail.com>
+Icon: file:///Applications/Preferences.app/icon-table.png
+dev: flipswitch
 
 Package: com.titand3v.flowing
 Architecture: iphoneos-arm
@@ -624,6 +695,28 @@ Name: Resurrection
 Author: Hyperixa <hyp3rixa@gmail.com>
 Depiction: https://repo.hyperixa.com/depictions/resurrection/index.html
 Icon: https://repo.hyperixa.com/depictions/resurrection/assets/icon.png
+
+Package: com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Version: 1.0.10~beta1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Filename: ./debs/arm/RocketBootstrap.1.0.10~beta1.arm.deb
+Size: 38496
+MD5sum: d23571b20e839e097ab3e4a0ad3ad939
+SHA1: aa4818d694ac28fee4ffea8858172fb796f50397
+SHA256: 76cb3952799bb4c21cd92d111536f0e0e7c4fda07bb176022f12d68875768b26
+SHA512: df69b056c56b033773c4a3fef911df5d80fecfd916eac8c91bbfded1a1f34844a0d1e422bdb376045c68a32b7eea9135b887712dc80e5d61c4b97055e7cb72b0
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Name: RocketBootstrap
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
 
 Package: com.hyperixa.setupify
 Architecture: iphoneos-arm
@@ -2010,6 +2103,52 @@ Name: unlock apps
 Author: adry
 Icon: https://i.imgur.com/m2Bn0u4.jpeg
 
+Package: libactivator
+Architecture: iphoneos-arm64e
+Version: 1.9.13~rc6
+Priority: optional
+Section: System
+Maintainer: Ryan Petrich <rpetrich+activator@gmail.com>
+Installed-Size: 5060
+Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16~rc3), com.rpetrich.rocketbootstrap (>= 1.0.9)
+Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
+Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
+Filename: ./debs/arm64e/Activator.1.9.13~rc6.arm64e.deb
+Size: 938772
+MD5sum: eaccf8af71430f248cf1bc860d5a4779
+SHA1: 33008aa128b9a71b3bb80f353534ed38f7fd6b3b
+SHA256: 970fd8d74aae84645c338134d85d3f6f932151691643457a5178a0cad7f6965f
+SHA512: fc9ed201d4cb19c5b1e9095be182460f7e5d8333a5e32851980c01a3f403a3322ce3bdd68811a5de44830a4d131a328df4e406deff3291ac08ac9d384af4d782
+Homepage: https://rpetri.ch/cydia/activator/beta/
+Description: Centralized gestures, button and shortcut management for iOS
+Name: Activator
+Depiction: https://rpetri.ch/cydia/activator/beta/
+Author: Ryan Petrich <rpetrich+activator@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Icon: file:///Applications/Activator.app/Icon-Small-modern@2x.png
+
+Package: applist
+Architecture: iphoneos-arm64e
+Version: 1.5.16
+Section: System
+Maintainer: Ryan Petrich <rpetrich@gmail.com>
+Installed-Size: 780
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3) | firmware (<< 7.0)
+Conflicts: com.a3tweaks.polus (<< 2.0.7)
+Filename: ./debs/arm64e/AppList.1.5.16.arm64e.deb
+Size: 107220
+MD5sum: 2c58e955633355e01eaf5dc981793024
+SHA1: 9edd24edac82f2ddb66d4e343f9be4824d09845c
+SHA256: 5167d23bddef570ecd51092e7f98545cdcc1c67ce690bac4eabe0dd94550ffa8
+SHA512: 46dd2ab27c9b1aef016533c6ba9d5620695d546a527caa20fc48b94a205567b56d1663847e4bf0f1351684ae38baf1b773b4f32fe00bcd4321ce6d3b3f14fdce
+Description: Allow extensions to read the list of installed apps
+Name: AppList
+Author: Ryan Petrich <rpetrich@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+dev: rpetrich
+
 Package: com.hyperixa.avatar
 Architecture: iphoneos-arm64e
 Version: 2.2
@@ -2221,6 +2360,31 @@ Description: Filza unlock full functionality, the main program please install in
 Name: Filza Crack
 Author: Netskao
 SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.filzacrack.json
+
+Package: com.a3tweaks.flipswitch
+Architecture: iphoneos-arm64e
+Version: 1.0.16~rc3
+Section: System
+Maintainer: rpetrich & a3tweaks <rpetrich+flipswitch@gmail.com>
+Installed-Size: 2408
+Provides: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Depends: mobilesubstrate (>= 0.9.5001), com.rpetrich.rocketbootstrap (>= 1.0.9) | firmware (<< 7.0)
+Conflicts: com.rpetrich.donotdisturbtoggle (<= 1.0-1), com.jerryen.rotationlockflipswitch, com.jakeashacks.realcc (<< 1.0.2)
+Replaces: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift, com.jakeashacks.realcc (<< 1.0.2)
+Filename: ./debs/arm64e/Flipswitch.1.0.16~rc3.arm64e.deb
+Size: 304928
+MD5sum: 1ec90269571ec25308eeed96324db091
+SHA1: 08fe503d980c93d10477a05de8acde32090e7999
+SHA256: b1cbd1051385399725531381a827d29c4c32d5fdfa405248b3fc182383d442ad
+SHA512: aa107ad5a84b2701db6e1adda6b9f2f0cc1819101c03aeb029e69e6ca18d9f2c90c14893136ecf8b104a3307014870f978f58d8bf1e9feaa0e554f8e28e2ef88
+Homepage: https://rpetri.ch/cydia/flipswitch/beta/
+Description: Centralized toggle system for iOS
+Tag: purpose::extension, role::developer
+Name: Flipswitch
+Depiction: https://rpetri.ch/cydia/flipswitch/beta/
+Author: rpetrich <rpetrich+flipswitch@gmail.com>
+Icon: file:///Applications/Preferences.app/icon-table.png
+dev: flipswitch
 
 Package: com.titand3v.flowing
 Architecture: iphoneos-arm64e
@@ -2627,6 +2791,28 @@ Name: Resurrection
 Author: Hyperixa <hyp3rixa@gmail.com>
 Depiction: https://repo.hyperixa.com/depictions/resurrection/index.html
 Icon: https://repo.hyperixa.com/depictions/resurrection/assets/icon.png
+
+Package: com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm64e
+Version: 1.0.10~beta1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Filename: ./debs/arm64e/RocketBootstrap.1.0.10~beta1.arm64e.deb
+Size: 39592
+MD5sum: df16dc3181d97d4619cb8de15bf7adcb
+SHA1: 5118b7f83b4faad54b9ce02af8eacd0840f0bcdc
+SHA256: 9c6de88383b7e4b563e52966dac8f6163a8aa7f8b999ecbd4e3ed94914874722
+SHA512: ace3ebe37ab62f3817fee07a7df6c41cfa5ff2b5883b488e9b7cabbaeb046c1d71d591b6f2a51f67c15efb69efa8621c079563ed14fb1663ff6864da566dc72c
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Name: RocketBootstrap
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
 
 Package: com.hyperixa.setupify
 Architecture: iphoneos-arm64e
