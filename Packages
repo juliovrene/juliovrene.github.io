@@ -1198,6 +1198,40 @@ Description: AutoCAD Premium for Free.
 Name: AutoCAD Hack
 Author: pxcex
 
+Package: com.pxcex.autoscroll
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: pxcex <ipxcex@icloud.com>
+Depends: mobilesubstrate
+Filename: ./debs/arm64/com.pxcex.autoscroll_1.0.0_iphoneos-arm.deb
+Size: 4728
+MD5sum: b6cba6e068693aed2147317471998bda
+SHA1: 4392f65d4b0aeef2e2d2620ccb7a376d01f68834
+SHA256: f89dde018e5243b254762ec2d7bc1082136eceb500a78387859307df4748ffc2
+SHA512: 9df8be65612dbd0ffe3201b25b006d66e4113566ce360625faa8644cf6a132c377131feedbee4a8ab183a07bce9cb1e82fbf88dc233f6442617e07c339249dac
+Description: Auto Scroll Mode
+Name: AutoScroll
+Icon: https://i.imgur.com/Pl4rjbu.jpeg
+Author: pxcex <ipxcex@icloud.com>
+
+Package: com.pxcex.autoscroll
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: pxcex <ipxcex@icloud.com>
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debs/arm64/com.pxcex.autoscroll_1.0.0_iphoneos-arm64.deb
+Size: 4060
+MD5sum: ea44c2287d48ac20abb22fad2ce744b5
+SHA1: 0758d40d7d87e318699e0360946d9d8d513830f2
+SHA256: ba0766f82c2c3dcb6dde8b93186802b67b285316b84974dbc1b0a7ab0322d5f8
+SHA512: 42fedb9ad1483f579edc2edbdea7160169b803ff26c7ed0ebbdcfe5a4cb76eb77e6034a2834a486f148df43ea0345a9e9e6c0d4efcfd18a029723d918210d0a3
+Description: Auto Scroll Mode
+Name: AutoScroll
+Icon: https://i.imgur.com/Pl4rjbu.jpeg
+Author: pxcex <ipxcex@icloud.com>
+
 Package: com.pxcex.bannercopied
 Architecture: iphoneos-arm
 Version: 0.0.2
