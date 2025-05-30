@@ -1,3 +1,978 @@
+Package: com.titand3v.avatar
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: TitanD3v <titand3veloper@gmail.com>
+Installed-Size: 13352
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/arm64/Avatar.1.0.arm64.deb
+Size: 10949336
+MD5sum: 19be47fdc4e88e02beff6cf428d847b0
+SHA1: 17f7dafeb7e4d3845b53f89f6f8e66c259ef9470
+SHA256: 60922ebf16656ba74bf4d566ddf46055295020947d9dc512c2b4733506f27870
+SHA512: 887f40fef0cfb16bb5453bc209bb5bf42f3ff2f44e334e33c346734d755ea596b193a704fd01c034598c20a69ad5f90dcf3a1d83135a18be0eb8476ee61d34ae
+Description: Avatar studio for Memoji and Animoji
+Name: Avatar
+Author: TitanD3v <titand3veloper@gmail.com>
+Depiction: https://titand3v.github.io/depictions/avatar/index.html
+Icon: https://titand3v.github.io/depictions/avatar/assets/icon.png
+
+Package: com.hyperixa.avatar
+Architecture: iphoneos-arm64
+Version: 2.2
+Section: Tweaks
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 13420
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, firmware (>= 14.0)
+Filename: ./debs/arm64/Avatar.2.2.arm64.deb
+Size: 10960948
+MD5sum: b35c443a2bdb7d4af2596fbb072b2235
+SHA1: b7c646d26ccc1f4737b049aae79a871d5fa033e1
+SHA256: 39362d29cd5b6281835502fcab8a76565c2075eb60b4bc059d2e9eb6326e36f3
+SHA512: c8a512264d497faa2ce582624b15b3cd01504a2d23dd1b3a6a2b60f8dec3f2a7101814755bc3acffef4a5318a4a4aab114b3f2ac8f192da8593ca6af7f9c840e
+Description: Avatar studio for Memoji and Animoji
+Name: Avatar
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/avatar/index.html
+Icon: https://repo.hyperixa.com/depictions/avatar/assets/icon.png
+
+Package: com.hyperixa.bounds
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 2544
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa
+Filename: ./debs/arm64/Bounds.1.2.arm64.deb
+Size: 1931848
+MD5sum: 2e4920b922108a381f7b893d6b5ac1c1
+SHA1: b9299ca2293594e774ef58e2e94d9dad80f5e419
+SHA256: 671a7877bd835cb2a90e676df2e176179024ca7c344d6694b240b6a6f65d8eae
+SHA512: 72253f1a1088e6ee0cae7ce1db31c4a3b761a536df7e7c7be061bcad6a18dbf18800c873ec8f78c32595e6f417af56d8eb34f0a01fa2da2154f8e2cd4dccc532
+Description: Cropped screen recording area
+Name: Bounds
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/bounds/index.html
+Icon: https://repo.hyperixa.com/depictions/bounds/assets/icon.png
+
+Package: com.titand3v.breezy
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: TitanD3v <titand3veloper@gmail.com>
+Installed-Size: 536
+Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal
+Filename: ./debs/arm64/Breezy.1.0.arm64.deb
+Size: 188848
+MD5sum: 4183deeff0fe4c8b37ce2f6211cdac62
+SHA1: f512451e89724475cd21b6159f70c4e2ad0b856c
+SHA256: d40ae55139983fe936b2bf6126944e4510f0817ed7ce10ff5438ca651fdbea41
+SHA512: 9d61288c2a2f2139500972814b9feb61f30ac9e72218c9778863e28e84a9a8b71ce9c440b2902317092c41da4232ddf7ca1c34fdde3a264015d1fd5aff870bd6
+Description: Fake notifications
+Name: Breezy
+Author: TitanD3v <titand3veloper@gmail.com>
+Depiction: https://titand3v.github.io/depictions/breezy/index.html
+Icon: https://titand3v.github.io/depictions/breezy/assets/icon.png
+
+Package: com.titand3v.colourmydock
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Tweaks
+Maintainer: TitanD3v <titand3veloper@gmail.com>
+Installed-Size: 728
+Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal
+Filename: ./debs/arm64/ColourMyDock.2.0.arm64.deb
+Size: 214676
+MD5sum: f7a79430d0df1139589c87094c4b0cb3
+SHA1: ce0fcde9bad8b96760ae98de6b7680ec832ce3ad
+SHA256: 2902f7e77a9197dc658c857b9c4ebd94dabcbd9a3ba96dce41103e83af5d3135
+SHA512: c8b27dd338c2f4508921eb755bd3f216bf86bd075738868f92e929543df206810e2b317e1c88bbe021fc8dd162f9ec770f517e64868650fbc85c0f4ca5dc65f4
+Description: Colour your dock
+Name: ColourMyDock
+Author: TitanD3v <titand3veloper@gmail.com>
+Depiction: https://titand3v.github.io/depictions/colourmydock/index.html
+Icon: https://titand3v.github.io/depictions/colourmydock/icon.png
+
+Package: com.hyperixa.commandify
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 624
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, firmware (>= 14.0)
+Filename: ./debs/arm64/Commandify.1.2.arm64.deb
+Size: 263140
+MD5sum: 38ec201dfa89ef748aef843a76e5d2f9
+SHA1: 05125a575f8eda96b2457d0af964669ce9649130
+SHA256: 4bef0a8b1d05b91cb494eb2a4d2e7a878f177b5323c4afd6c057abe443a9afca
+SHA512: 28c9aba59102000a0f0993783508afb86e04c5f8bb940b1d980c6fe954fbeb0ab127ec726b0d1956e7d1166195f003e9fdb061166065dea8e966b6fa68ecdd06
+Description: Commandify unleashes Siri’s full potential and capability
+Name: Commandify
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/commandify/index.html
+Icon: https://repo.hyperixa.com/depictions/commandify/assets/icon.png
+
+Package: com.fouadraheb.contactsync
+Architecture: iphoneos-arm64
+Version: 1.1.14
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 600
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.0)
+Filename: ./debs/arm64/ContactSync.1.1.14.arm64.deb
+Size: 117376
+MD5sum: 2903da76574e84f30063070b2ba1c4a7
+SHA1: adff22dd7ba7f7991ee31b60e9d2f2b9872c535a
+SHA256: d69341ab2f7a00c5bfaf8c93b05ed73d7013c7e007100d3aec1520d5c3bf3f0f
+SHA512: 779c98400bfb48098f27bb3115da64afa1011314ec1964c352b3d07feedb70782daa8c014fb4fa120ec6f3ae10a945c4351612eee3170ba6fc981b6c365f5cfc
+Description: Sync WhatsApp Profile Pictures to your Contacts
+Name: ContactSync
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
+
+Package: com.titand3v.digitnetic
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: TitanD3v <titand3veloper@gmail.com>
+Installed-Size: 2016
+Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal, libactivator
+Filename: ./debs/arm64/Digitnetic.1.1.arm64.deb
+Size: 1390724
+MD5sum: 5a3822f0fa464fbf255b8ec4686fc394
+SHA1: 9e5d03b961ce303dd7bc0a704cb41cdda075e146
+SHA256: 78500abc65bfb6abc88a1db5e683f6a2d4c2e714ac06f24067646a05e1ecbf83
+SHA512: edcf682e8650ae19df4338755815654772e5f0888246280369fc820d822c45eff4a8bdc97aca434674013315bbe835cb93053fd8dbb900e48e7be64844bcdd13
+Description: Floating phone keypad and calculator
+Name: Digitnetic
+Author: TitanD3v <titand3veloper@gmail.com>
+Depiction: https://titand3v.github.io/depictions/digitnetic/index.html
+Icon: https://titand3v.github.io/depictions/digitnetic/assets/icon.png
+
+Package: com.hyperixa.digitnetic
+Architecture: iphoneos-arm64
+Version: 2.2
+Section: Tweaks
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 1592
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, libactivator, firmware (>= 14.0)
+Filename: ./debs/arm64/Digitnetic.2.2.arm64.deb
+Size: 1116892
+MD5sum: b0a1fb6a795225794f15aba00bde8d2c
+SHA1: a59d860b5b328d3caf5048a7a55d36ff31032069
+SHA256: 4ae52ae9e81c3b3013086ec589c0f0458fd65427fabfbc179904d124341ca3c1
+SHA512: dcbebbc50717fa68eb498948ac04a7be32fb334eb2fe5d43112af49895575f04503764f731e63d1a4efd561fdda53e41890b9fc88dbf781afa1797f8b99fd7fc
+Description: Floating phone keypad and calculator
+Name: Digitnetic
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/digitnetic/index.html
+Icon: https://repo.hyperixa.com/depictions/digitnetic/assets/icon.png
+
+Package: me.nebula.ding
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Nebula <tweak-support@itsnebula.net>
+Installed-Size: 394
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
+Filename: ./debs/arm64/Ding.1.1.0.arm64.deb
+Size: 25476
+MD5sum: 585bd5a3beb80501a10e2cbda06524ce
+SHA1: 041e17bf9d3d6a382c9b6c7921181e6288448150
+SHA256: 5cc5595a1f501d717afec8f7d2d806f33d7a9530644dce86744438d39682d53a
+SHA512: 040870de6895896f6fc49ade9df0e8e70387d886eb0e71471b0662e70bc7c421f5aa5fef029f62463467759459f2dbad350ad3d60e237d1b13ba784be84ef438
+Description: Take control of your ringer switch!
+Author: Nebula <tweak-support@itsnebula.net>
+Name: Ding
+Icon: https://img.chariz.cloud/icon/ding/icon@3x.png
+SileoDepiction: https://chariz.com/api/sileo/package/me.nebula.ding/depiction.json
+
+Package: com.hyperixa.echo
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Tweaks
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 2216
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa
+Filename: ./debs/arm64/Echo.1.3.arm64.deb
+Size: 1846288
+MD5sum: a712b1344c4a90e268a8070509736448
+SHA1: 2d4887d54c9057292d763d247955a7f561725f51
+SHA256: 69430e5ba7ba8f9b1872aa00d93da92bb7632e3ab5c0d947328f7ad67552c955
+SHA512: dd9e9362cc07c77cf85796bc50f2882edf3f96d590b728689c57e21b83337e10b7c3e218715abb17860b393ae8336f05431945dce464b6019d23960a0421822b
+Description: An iOS 16 lockscreen music player
+Name: Echo
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/echo/index.html
+Icon: https://repo.hyperixa.com/depictions/echo/assets/icon.png
+
+Package: com.hyperixa.expanse
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 880
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, firmware (>= 14.0)
+Filename: ./debs/arm64/Expanse.1.2.arm64.deb
+Size: 506628
+MD5sum: efd6b4a2c833c338831b7fe9f60562c1
+SHA1: 1dec67a70851937650fc30eb215de87443f6cb95
+SHA256: 096a001c392ddf8809034da7250efe43c355a9cec2c4eac27ed564770925894f
+SHA512: 1f1df27bc2810edc79e4330f9db8e711aea99b9c539ad508c53bdedc17449c38167a17417202ee301b8d43326d18ab32df8dd0cbadd71032c3f287f995de3fd9
+Description: SpringBoard wallpaper for individual pages
+Name: Expanse
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/expanse/index.html
+Icon: https://repo.hyperixa.com/depictions/expanse/assets/icon.png
+
+Package: com.netskao.filzacrack
+Architecture: iphoneos-arm64
+Version: 1.1-8
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 88
+Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
+Filename: ./debs/arm64/Filza.Crack.1.1-8.arm64.deb
+Size: 4984
+MD5sum: 99c6819ea8be79a2ecc56fb4b3f4b025
+SHA1: 6fbbf3e684e6f3eb0b504bfa9943aaa3d72999d9
+SHA256: 7d54a6a97d32185eefb6605130381a300371d809958d57667dd72fc75e631c16
+SHA512: ab928bc0e59b2c673b1bce555c9e9fe4476a0fd740215186a576ad65e4d9f10ccc0bd43da9f57bf1dcdf275a376f7b13f227a8233a7135d22c2af1379ba7e9fa
+Homepage: https://tigisoftware.com/cydia/
+Description: Filza unlock full functionality, the main program please install in the official source
+Name: Filza Crack
+Author: Netskao
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.filzacrack.json
+
+Package: com.titand3v.flowing
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: TitanD3v <titand3veloper@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal
+Filename: ./debs/arm64/Flowing.1.0.arm64.deb
+Size: 3724
+MD5sum: 967e238cd46766f0c703097a60b110c7
+SHA1: 9bb83955833c610cc564f88a974d60bd6665ad16
+SHA256: 34d2fd0bac95ff331204eb4ffad90313ea65751ecd67601f30d65c63d8c697b7
+SHA512: c1831f9aa5d1baf418efe3a3551b601d007ac959e4334dc64d957cb80f02937bd2cdce5b9018dffe635d77c25f4609025e5d271eb2a0eb41bff9dac13eadd170
+Description: Disable paging scrolling on SpringBoard
+Name: Flowing
+Author: TitanD3v <titand3veloper@gmail.com>
+Depiction: https://titand3v.github.io/depictions/flowing/index.html
+Icon: https://titand3v.github.io/depictions/nova/flowing/icon.png
+
+Package: apt.fouad.xyz
+Architecture: iphoneos-arm64
+Version: 2.1
+Section: Development
+Maintainer: Not Fouad
+Installed-Size: 9880
+Depends: mobilesubstrate
+Filename: ./debs/arm64/Fouad.Crack.2.1.arm64.deb
+Size: 3724752
+MD5sum: 0853960e708008d9c268aa87f50b20b3
+SHA1: 631e40cfd9aea8eb0f3e59e510921edbf9e03e2a
+SHA256: 88d19d63ab0fac8cae6816a981cb984049ed1c3640a67faea10841268404e6a5
+SHA512: 554e08567caf7cad6af6c03fed03f30972b3dc278d8f09f20d0f41bb274b193d7bc92285480e2f5c3a28711f2b8d9f8c4178b77f81a2b1176abeaf5f79a8eb03
+Description: WatusiTools: v2.5.20; ContactSync: v1.1.14; OnlineNotify: v3.4.15; Watusi 3: v1.2.72; Stalky: v4.1.41; Regram: b23.
+Name: Fouad Crack
+Author: Not Fouad
+
+Package: com.mikifp.griddy
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Section: Tweaks
+Maintainer: mikifp
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/arm64/Griddy.1.0.5.arm64.deb
+Size: 19924
+MD5sum: 130b843e3f40307c28d8c75e3f763c75
+SHA1: 031ca69d86aae361663b97ed37483851e2074364
+SHA256: 8cf8a59967db90525e6cd141ee8a954786e0fd40ab91c49063a51c52a4a99e8e
+SHA512: 711f40d0381af4260ce49716a5af7a7d7d3fcde2197a5f067bbd3c179c207b445cac61a4c461c8a9332298beb6c75d757aaedc8f301338c578141acd0e2fbf20
+Description: Layout your icons anywhere you want!
+Name: Griddy
+Author: mikifp
+Depiction: https://havoc.app/depiction/griddy
+SileoDepiction: https://havoc.app/package/griddy/depiction.json
+Icon: https://media.havoc.app/6718f4c922a19f8847897613
+
+Package: com.hyperixa.helix
+Architecture: iphoneos-arm64
+Version: 1.5
+Section: Tweaks
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 26976
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa
+Filename: ./debs/arm64/Helix.1.5.arm64.deb
+Size: 21155704
+MD5sum: de7cfa3a4b2244a30954f6b6992dd9ab
+SHA1: 4d53a4ca92953692aed203b0b0ae396c38daef17
+SHA256: 2d0e687bc1def0d1a8e28c5642dcb6b2eb243629ffb503453ed8f91512eaf187
+SHA512: 8ce058e2c49eaafc90f62ccaa24ec30aba70a1bfc485139ec8c2510be0c3dce9aa6000608d5ccd43de2407663c5f40b489555ef184a951207d3b58fb67e8968e
+Description: iOS 16 Lockscreen
+Name: Helix
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/helix/index.html
+Icon: https://repo.hyperixa.com/depictions/helix/assets/icon.png
+
+Package: com.hyperixa.hola
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 884
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa
+Filename: ./debs/arm64/Hola.1.2.arm64.deb
+Size: 440752
+MD5sum: 7870c180aaac23288552d3ee3efdbc4b
+SHA1: ee0a56f8caf852681468666499929d0818e67023
+SHA256: 2faf98d64f86b47ab38e4e92b982067aa291e25e7687e746f10e718ef3a61d16
+SHA512: 54398fc2a6067a8eb709f3eecd50882cc96f92af2cf4a9eb563cd4c34094417c801c84ee650cdd10861cece6622e11ade0a0e61791c49adedd0139b5e317c771
+Description: Shows iOS 15 hello greeting feature when unlocking your device
+Name: Hola
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/hola/index.html
+Icon: https://repo.hyperixa.com/depictions/hola/assets/icon.png
+
+Package: com.hyperixa.hyperixa
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 4404
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, firmware (>= 14.0)
+Filename: ./debs/arm64/Hyperixa.1.1.arm64.deb
+Size: 2738200
+MD5sum: 26e95c314130fa56c58c1858c62c2d9d
+SHA1: cf1a198b3e3f9760dc69e4b795a50c8247a2f702
+SHA256: f2fc415e7ef8c0470ca825c0e80d604fd848d9bb477ce72ae6b4ac07c02182f8
+SHA512: b003cfd8bb2ba0f3847dc110724eb73a7454ed8d6881d58d90721f532150f6cc90b527318f1a2d9119fddf24ba322d949bc886d100112d541662a2b32de2bf40
+Description: Hyperixa app to manage Hyperixa's tweaks
+Name: Hyperixa
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/hyperixa/index.html
+Icon: https://repo.hyperixa.com/depictions/hyperixa/assets/icon.png
+
+Package: com.hyperixa.hyperixakit
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: System
+Maintainer: Hyperixa
+Installed-Size: 1480
+Filename: ./debs/arm64/HyperixaKit.1.1.arm64.deb
+Size: 253888
+MD5sum: 94ba68fb24542ae5bc8d9579c96f68cd
+SHA1: d9523dbfdb6ab63ffd2452b05bff6f7283654b96
+SHA256: b9c07ade520311d1b93f1677390f82ae9c5446c27f2ac773291a97325e8ce1b2
+SHA512: 332c81864b440e91a89dfbe04dc34a9604d18991da6f93041599a8c159417776b2f0b9a9414dd544a5c50a1bae0b4a7012dca18d75a28524b346bbc5731b9cc0
+Description: Framework for Hyperixa tweaks
+Tag: role::developer
+Name: HyperixaKit
+Author: Hyperixa
+Depiction: https://repo.hyperixa.com/depictions/hyperixakit/index.html
+Icon: https://repo.hyperixa.com/depictions/hyperixakit/assets/icon.png
+
+Package: com.hyperixa.insta
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Tweaks
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 1672
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, firmware (>= 14.0)
+Filename: ./debs/arm64/Insta.1.3.arm64.deb
+Size: 719260
+MD5sum: 2e5257bfe1dd99d2e7d60c920c2d9ed1
+SHA1: fd9d9c4b3d965ed1db7f6d916bc2d29042e9aa33
+SHA256: e05022815da9ae66667a892678ca61393f862b058367a823431b27e6f4848b99
+SHA512: 7e90c4ee8767a2f5247a9e0bcb0e4ba85373361f1619d149677f76f4ddb243d6ea751f174028dfe45c0559678777c4565b863d33e7c29b3883e104d6763f97c5
+Description: Fake chat and call for individual users on Instagram
+Name: Insta
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/insta/index.html
+Icon: https://repo.hyperixa.com/depictions/insta/assets/icon.png
+
+Package: com.hyperixa.logger
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Tweaks
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 4664
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa
+Filename: ./debs/arm64/Logger.1.3.arm64.deb
+Size: 1610152
+MD5sum: f1e465f5eb4bea03bffb04b280eb40be
+SHA1: 944b81fad8c7bedef38e5ae6cf4a8fca5c4472cc
+SHA256: 6a63726bf684c293f58be2ccc33c705aa5adc263957b765ea5a43692b362d4ee
+SHA512: d5f92f2d184035acb8f44a4ec4f9525a35500501f93b9b107e0ca8753739f3532073d94f747ab8d9300344b4d40399a9b6c9c7a7d560d850a60ad20b43c2e8f0
+Description: Log keystroke and other useful information
+Name: Logger
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/logger/index.html
+Icon: https://repo.hyperixa.com/depictions/logger/assets/icon.png
+
+Package: com.hyperixa.logify
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 848
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, firmware (>= 14.0)
+Filename: ./debs/arm64/Logify.1.2.arm64.deb
+Size: 447144
+MD5sum: 7bfdf27a19cb051c739f0e75332587d3
+SHA1: b698a68b44c00390435291bde76eeb4ec8ad366a
+SHA256: 27461b74a9db30bcced6f232e2ba0e6cd41975e8204638947354d5a89dd5c355
+SHA512: 2d162b5661adee5562e85bf29e51758dfb67f619138fdc1323bb1fe0ba694e6d73e0ca00adce4d70e29eac4124f5b5fd313d1ea81cc63e9bd20fd190f0d21aa3
+Description: Add a fake call history for the Phone app
+Name: Logify
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/logify/index.html
+Icon: https://repo.hyperixa.com/depictions/logify/assets/icon.png
+
+Package: com.titand3v.luv
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: TitanD3v <titand3veloper@gmail.com>
+Installed-Size: 712
+Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal
+Filename: ./debs/arm64/Luv.1.1.arm64.deb
+Size: 291828
+MD5sum: 4b209c89257ded6bc9a8fd85de530b09
+SHA1: 4a3ca100f6f3af02d017d5e44a538cafca0cdd06
+SHA256: 625a054a10b22fdb217d44be4d388b0cf3af7e5230afe967be78ba539befa9f5
+SHA512: 0283c5ff56afb5dd242b40665d49abd2989822033c2be73924a2c4f7f7a30eca2ba231ea576673df6a71fd6a333db813e86e4c85380b7ba67febd0412a06ed0b
+Description: TitanD3v Tweaks
+Name: Luv
+Author: TitanD3v <titand3veloper@gmail.com>
+Depiction: https://titand3v.github.io/depictions/luv/index.html
+Icon: https://titand3v.github.io/depictions/luv/assets/icon.png
+
+Package: com.mtac.lynxtwo
+Architecture: iphoneos-arm64
+Version: 2.5.4
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 2952
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/arm64/Lynx.2.2.5.4.arm64.deb
+Size: 680240
+MD5sum: 9deddecdda9fdb470d673e9865db080a
+SHA1: 95c6e5786b32289ff5933f26b4d4a10a0bbaddd2
+SHA256: e2af70b8791da5003b1797948189e0517c69ea712775752fa9ebf095f67bd1dc
+SHA512: 2caa8996bfc8641e25f7403224d87378d7e0b277a2acbe0782e5f68d502b9fbee8b46f8ea90bbae4bcfb78c2292265426861eb6e26251878c7e4568e6d9e8722
+Description: Ultimate iDevice Customization for iOS 14, 15 & 16
+Name: Lynx 2
+Author: MTAC
+Depiction: https://havoc.app/depiction/lynxtwo
+SileoDepiction: https://havoc.app/package/lynxtwo/depiction.json
+Icon: https://media.havoc.app/64a1d7f9351a82652447cb09
+
+Package: com.0xkuj.notificationsgroupcount
+Architecture: iphoneos-arm64
+Version: 1.0.7
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/NotificationsGroupCount.1.0.7.arm64.deb
+Size: 80016
+MD5sum: a8d2880125ac778d0e37458d802c2e83
+SHA1: ab07518b4f50dedb4306ee626effa7357c1f2d0d
+SHA256: 3aa76bfde3e3b1dd8a71b3ba35e271ec42a2af9e92d0d6eb36ed7d77a975be07
+SHA512: 1b8b1d1d0551d9e4669cf5268851d3b4fc4452af2948bf27020d1d0f19fef13d2affe179df051f5e71b349c29931cda222ffe2f1a638cf746019a3c8ae57f7f4
+Description: Count those notifications inside Apple notifications grouping!
+Name: NotificationsGroupCount
+Author: 0xkuj
+Icon: https://cdn-static.yourepo.com/images/debs/com.yourepo.0xkuj.notificationsgroupcount.png
+Depiction: https://0xkuj.yourepo.com/pack/notificationsgroupcount
+SileoDepiction: https://0xkuj.yourepo.com/sileo/depiction/notificationsgroupcount
+
+Package: com.titand3v.nova
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Tweaks
+Maintainer: TitanD3v <titand3veloper@gmail.com>
+Installed-Size: 1724
+Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Filename: ./debs/arm64/Nova.1.3.arm64.deb
+Size: 860564
+MD5sum: 8c84d4cff454cf343c7d9b842f322ba1
+SHA1: 4b8cbebdca8245c75737a2dd2f97ec360487602e
+SHA256: 9bbe06e0f310cfdecc3001b98398045f7b6d1ea0b6b1a98d021efe522fb5c013
+SHA512: 5726bf3ad7c3e52df36e62af0a4912f576f3ed44dc4a47f39e3efdb540f2ad45825f9c9a07568d957bd67ac50a59f534b486ebbb75ee6806042edaae34673425
+Description: Schedule messages for Message app
+Name: Nova
+Author: TitanD3v <titand3veloper@gmail.com>
+Depiction: https://titand3v.github.io/depictions/nova/index.html
+Icon: https://titand3v.github.io/depictions/nova/assets/icon.png
+
+Package: com.hyperixa.nova
+Architecture: iphoneos-arm64
+Version: 2.2
+Section: Tweaks
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 1272
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, firmware (>= 14.0), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Filename: ./debs/arm64/Nova.2.2.arm64.deb
+Size: 645104
+MD5sum: 4ad63262d743498e7932516f3b3d6583
+SHA1: ad5543abbc6cfaa59bbd4d71dbea1d123142447a
+SHA256: 05494fb462ea207168787e472b8dd88ad5186c1ce0eddc14c823b26f808122df
+SHA512: c6f1888e05888ebbf21f29c643be7e148a49e349aca7ba20ddc59f93430d29ded71f9449e7a4e890abfac5ef30d8ba05995bbdd21c27f4eafaf1eb15fe6bdda8
+Description: Schedule messages for Message app
+Name: Nova
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/nova/index.html
+Icon: https://repo.hyperixa.com/depictions/nova/assets/icon.png
+
+Package: com.f0u4d.onlinenotify
+Architecture: iphoneos-arm64
+Version: 3.4.15
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 684
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.14)
+Filename: ./debs/arm64/OnlineNotify.3.4.15.arm64.deb
+Size: 185480
+MD5sum: 5c50613f6e00715f9c05cf118a502438
+SHA1: 5f40a71e0596b516d55fa6e768d6e148a3cf5784
+SHA256: dfa7f51fece787ac77f3c135642132cbeca9dd23dcc5946ab543032bf5b0e112
+SHA512: f8959822b9754b59b0c8e55bb841f1d94f08bef0557431b98ed380823a631d9f235aec5e2e588efa40c0b2b3cf5dd2a610c1800a008111b7c4167c2964826548
+Description: Track your friends on WhatsApp Messenger!
+Name: OnlineNotify
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
+
+Package: com.titand3v.palette
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: TitanD3v <titand3veloper@gmail.com>
+Installed-Size: 3948
+Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal
+Filename: ./debs/arm64/Palette.1.0.arm64.deb
+Size: 934440
+MD5sum: 677de6051473b7222fef79e17bf56a2a
+SHA1: 4a9d1288fe6acd6ed55ff06d82aabd72d0b13354
+SHA256: ab3d9b85b8d46e491c884913b7e2d7ca80d3cd6100cf50989f02e9d21e6ddbd1
+SHA512: 1a4a00d2ff89b526cbbfd810f57bc09714020a0a85f330396202efce3e7487086db952ff0e3c1417781eba8b098c007e18fe284493d071a2a0889db5272237c8
+Description: Add colours to your colelction
+Name: Palette
+Author: TitanD3v <titand3veloper@gmail.com>
+Depiction: https://titand3v.github.io/depictions/palette/index.html
+Icon: https://titand3v.github.io/depictions/palette/assets/icon.png
+
+Package: com.titand3v.paradise
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: TitanD3v <titand3veloper@gmail.com>
+Installed-Size: 11572
+Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal, firmware (>= 14.0)
+Filename: ./debs/arm64/Paradise.1.1.arm64.deb
+Size: 9244404
+MD5sum: dcb1106000069d427992ac145531c586
+SHA1: 695ffd8138b223fae1426e740ab603c61e70ba14
+SHA256: 1bc1a4f35b8cef28f8fe56637a03c16ead434af8afbcd3a779ab5485fb1f09fb
+SHA512: c755a3ef16b145717f28ffca21220fc4bc4502f8566c0211dafe36047a735ba531427da9ffd5b5a53116afad79f755dd7364752e2b6e803055d7d47e825c2c73
+Description: Customise springboard apps
+Name: Paradise
+Author: TitanD3v <titand3veloper@gmail.com>
+Depiction: https://titand3v.github.io/depictions/paradise/index.html
+Icon: https://titand3v.github.io/depictions/paradise/assets/icon.png
+
+Package: com.hyperixa.paradise
+Architecture: iphoneos-arm64
+Version: 2.2
+Section: Tweaks
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 9944
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, firmware (>= 14.0)
+Filename: ./debs/arm64/Paradise.2.2.arm64.deb
+Size: 7958780
+MD5sum: 64d22a3a8572ce0217a3cd38660e8a6f
+SHA1: 3bbaa6d20a9a91c0c65037485ca43716218be166
+SHA256: 79c139746a20aa5d9218e3626a98fd6cd2f8bf50257b9a9b6b3dc235730faf9a
+SHA512: 46c094e222e9ba55e233bba30843f4f829a2d05c2a2008518bbeb1e6c2b163b98df19df2074925d1d677cc8d5abfaefaa3eb128dd2dcb353cfe89b084d8e302b
+Description: Customise springboard apps
+Name: Paradise
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/paradise/index.html
+Icon: https://repo.hyperixa.com/depictions/paradise/assets/icon.png
+
+Package: com.titand3v.phoenix
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: TitanD3v <titand3veloper@gmail.com>
+Installed-Size: 2868
+Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal
+Filename: ./debs/arm64/Phoenix.1.0.arm64.deb
+Size: 1982472
+MD5sum: f00652aeb82f3ec368c2b8626f5f1ddc
+SHA1: 0af39817c6e703770d416388aa51d30dce168836
+SHA256: cce77c736d4299e35a1f38f9284bfe63f19a3aff5ba645cc66e83e4718eca50e
+SHA512: fe454ad21913d22e8eab5a9cb8518d4e20a5e2143052fae5d649fa4bf13b4009c01985db10851a2604a9b562e38b5f04eb8ebdf57a9e862a1c40c6f814356c60
+Description: A redesign of the contact list for the Phone app
+Name: Phoenix
+Author: TitanD3v <titand3veloper@gmail.com>
+Depiction: https://titand3v.github.io/depictions/phoenix/index.html
+Icon: https://titand3v.github.io/depictions/phoenix/assets/icon.png
+
+Package: com.titand3v.phoenix
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: TitanD3v <titand3veloper@gmail.com>
+Installed-Size: 2968
+Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal (>= 1.8)
+Filename: ./debs/arm64/Phoenix.1.1.arm64.deb
+Size: 2008380
+MD5sum: f4e4232e016db9bfae73a68b8e9adb3f
+SHA1: ecadd6d1a67ddf940edc5f1a1ec4ceda15585fc9
+SHA256: d805e2ef639ef10a12b1df72b8914d767cdda627ba650fbf0b2caa4ba7c5c6a4
+SHA512: c60641e6e2d91d43c72c8e204a38ab3becd67439210779d60d62ac5ee0da0a36ed00da33a72eb419d5c5d2519d8bd5dc43edecd89e0203066c7cee8bc252759a
+Description: A redesign of the contact list for the Phone app
+Name: Phoenix
+Author: TitanD3v <titand3veloper@gmail.com>
+Depiction: https://titand3v.github.io/depictions/phoenix/index.html
+Icon: https://titand3v.github.io/depictions/phoenix/assets/icon.png
+
+Package: com.hyperixa.phoenix
+Architecture: iphoneos-arm64
+Version: 2.3
+Section: Tweaks
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 1292
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, firmware (>= 14.0)
+Filename: ./debs/arm64/Phoenix.2.3.arm64.deb
+Size: 558264
+MD5sum: aea0ef85ed05a090afa3af3b0ba7a0c6
+SHA1: 3989ae7b3369e3ffa4cb3f05ce05ed2a2837be47
+SHA256: 544167e32ed5c37283464581127ceb1d4b7b868d312c47aa5e722c862ce1668f
+SHA512: 717eba5c82841f80fb2e7d316473464857e3798f753d6f515c200d1e4bfc67b5575c4dae47620e1046a0169ab34d3585ea46d070aaeab8fc413eb2698684e8d9
+Description: A redesign of the contact list for the Phone app
+Name: Phoenix
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/phoenix/index.html
+Icon: https://repo.hyperixa.com/depictions/phoenix/assets/icon.png
+
+Package: com.hyperixa.pixel
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 11440
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa
+Filename: ./debs/arm64/Pixel.1.2.arm64.deb
+Size: 9096952
+MD5sum: 34b37a80cca49a395b0362201bbf6942
+SHA1: 227f9d1fd22940bd351b5536979001fc40983403
+SHA256: cad1593a31e507f300630f711e7e6629ebc34e209a7bdfd68cb8550346d98a05
+SHA512: 219482dacb8681aa4eac192c18e4e7a85772f18e5656f6422bdbbd5635045b5ca811165143eb73c3e360dc1eba6fa5bdba48a8774fbe0d4fe6d47b9f2f1833b1
+Description: Built-in camera for the Photos app
+Name: Pixel
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/pixel/index.html
+Icon: https://repo.hyperixa.com/depictions/pixel/assets/icon.png
+
+Package: com.fouadraheb.regram
+Architecture: iphoneos-arm64
+Version: 1.0.b23
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 10956
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/Regram.for.Instagram.1.0.b23.arm64.deb
+Size: 3024936
+MD5sum: 621b0d53d0226b500ab609a97b868399
+SHA1: d2fdc95df4c0f50a4d8b02d66c29d52e17c90bcc
+SHA256: 755e7b72426e9b07943554d0a4073fe797726cd1c9e43e8d0cbdf7a4b709c50e
+SHA512: 03e487861bc02817d2513aca53b176394d2e86a3ecf753a7903308f20e27c234b6c47250a6cce095e3bccb74b199e16488551809f250d6cfcc47108a309a09b2
+Description: The all-in-one tweak for Instagram
+Name: Regram for Instagram
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
+
+Package: com.hyperixa.resurrection
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Tweaks
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 1480
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, firmware (>= 14.0)
+Filename: ./debs/arm64/Resurrection.1.3.arm64.deb
+Size: 692536
+MD5sum: e25aeefdeeca625efdf00c9f9b0a596e
+SHA1: d7d7ed3687d325189ed21bd28f3cb4384c3ffbe3
+SHA256: 8c294b0e7d12a42066ee2ae759ae87af402c439531cb6a3d1ba1546a99e9a94e
+SHA512: 0a0d825e964c808ab934c5a234258d1a5e0081b2ca26127b587cfe5dd9a85a322c460278c6fb525071a55d1a9437206866efcc817cf89a8a0eb54849fa0e5552
+Description: A completely redesigned dialer for the Phone app
+Name: Resurrection
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/resurrection/index.html
+Icon: https://repo.hyperixa.com/depictions/resurrection/assets/icon.png
+
+Package: com.hyperixa.setupify
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Tweaks
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 2656
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, firmware (>= 14.0)
+Filename: ./debs/arm64/Setupify.1.3.arm64.deb
+Size: 993908
+MD5sum: 3c7cf8e96e547a5479183dc477dba589
+SHA1: d56fe8dd32932c2de33158b3d28de8e89675676c
+SHA256: 90719874e398bca24402b09669aae4a8b328a9072a3fccbaf2e122bb97e960d4
+SHA512: aa6608cf55736cb6ebca50bcb841e52cf61a1c6cbe1cabbf8b2bb32f35c0bad5b9b9ca4d3291fa43aa95710f4f37d2196d2852e49b9d91f37621ab25127e139b
+Description: Create multiple setups for tweak preferences and restore setups
+Name: Setupify
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/setupify/index.html
+Icon: https://repo.hyperixa.com/depictions/setupify/assets/icon.png
+
+Package: com.uckermark.siriplus
+Architecture: iphoneos-arm64
+Version: 1.4
+Section: Tweaks
+Maintainer: Uckermark
+Installed-Size: 1480
+Depends: dev.theos.orion (>= 1.0.0), com.opa334.ccsupport, mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/arm64/SiriPlus.1.4.arm64.deb
+Size: 255588
+MD5sum: c4c2f7585ddb66d269ddae10767650c1
+SHA1: 1c7e14e1263eb0c5392aa73bbbc98392da4ef507
+SHA256: 389902a1e5c80bd171c7a54b3242cb77a5b99c29c2f92d7988ede25e365a2469
+SHA512: 11e464344e4077cb611edf9fbaa4a792dfee353c934f8be5639bfc0360369bd7e76b8d62942a3873135e27a612c1cb90400e15361eb678dcfb655f021ffb6b34
+Description: Replace Siri with ChatGPT/Gemini
+Name: SiriPlus
+Author: Uckermark
+Depiction: https://havoc.app/depiction/siriplus
+SileoDepiction: https://havoc.app/package/siriplus/depiction.json
+Icon: https://media.havoc.app/65e33489f1efdf19d02cf252
+
+Package: com.idevicelover.smartbatteryios15
+Architecture: iphoneos-arm64
+Version: 1.6
+Section: Tweaks
+Maintainer: elias
+Installed-Size: 2412
+Depends: ws.hbang.common
+Conflicts: com.idevicelover.smartbattery2
+Filename: ./debs/arm64/SmartBattery.iOS.15.-.16.1.6.arm64.deb
+Size: 687724
+MD5sum: edd256fb0fbb457bb75a9dfec9eb7dc4
+SHA1: e799d88bd02d67a1720dc47b311a4f8787a3d3d9
+SHA256: 407d83a1df3aee1d65e8ecc8a97eea46f7178205938d53bb8cc6f74c635aaff7
+SHA512: c4a1ff9dce45472422ddecf06dc7fdc294054bd462801374385e84a97bb794341909f61f073f6b903aa110e16360d0ef165cbc985054b6ae53d6b6300b923eda
+Description: An awesome MobileSubstrate tweak!
+Name: SmartBattery iOS 15 - 16
+Author: elias
+Depiction: https://havoc.app/depiction/smartbatteryios
+SileoDepiction: https://havoc.app/package/smartbatteryios/depiction.json
+Icon: https://media.havoc.app/6380e31f7246bed7c12ae8e4
+
+Package: com.titand3v.speedy
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: TitanD3v <titand3veloper@gmail.com>
+Installed-Size: 268
+Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal, firmware (>= 14.0)
+Filename: ./debs/arm64/Speedy.1.0.arm64.deb
+Size: 53328
+MD5sum: fe3b6b96d4c8815175bbb3d46fdb4c70
+SHA1: 6e680d8577740aa3f3cdcd8075234617102163d9
+SHA256: 223b53539d66e4481a8ebb268c6fc60bc6271963cd2b762861883c60b3fcdbad
+SHA512: 4baeecdca827280330e9ce90d3e61b0fed9402debbc06c5dba3f1afed527116d596aff5d3592ecb0edc890747d19410f035804218b2fbe330bd5ef0b8dc7f6fd
+Description: Batch uninstall applications on SpringBoard via 3D Touch Menu
+Name: Speedy
+Author: TitanD3v <titand3veloper@gmail.com>
+Depiction: https://titand3v.github.io/depictions/speedy/index.html
+Icon: https://titand3v.github.io/depictions/speedy/assets/icon.png
+
+Package: com.f0u4d.stalky
+Architecture: iphoneos-arm64
+Version: 4.1.41
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6744
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.20)
+Enhances: WhatsApp
+Filename: ./debs/arm64/Stalky.4.1.41.arm64.deb
+Size: 1606996
+MD5sum: 7ab95dbce235ea37b5d2936f9be423a1
+SHA1: 0b98a7f351a73f3099ee03d3f54873502441fa23
+SHA256: f69ce691136e9d0148f9df5bb841fcbcd89fe2f92b9d439129677c92746f4e81
+SHA512: 7a44431f562fcda9a17431b4a947b6edd217fab46271abdbd9acad8f481b346e9d968c5ca64654e096e932cd8d52c77848e4bca5bcf3d748c12640b333920a3e
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Name: Stalky
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+
+Package: com.titand3v.substia
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: TitanD3v <titand3veloper@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal
+Filename: ./debs/arm64/Substia.1.0.arm64.deb
+Size: 10732
+MD5sum: 16c0adb4d4eaf7aad002b548f56b250b
+SHA1: a2c5474cd05c30b086c8add15c56ca88fc3908b8
+SHA256: 1d979354dcfd907da0c79d3ffd42c31c2fbacecf5a1e27e3f8125f1780cf0404
+SHA512: 695d5eac4fc4ba432c27a1d708dd1d13847e11cd2317fa8ddb5a150052f07d8b7e575dcb51211708fa8f97fd28a718e4a142aafa0d6777736258172b51fe21bf
+Description: Text replacement
+Name: Substia
+Author: TitanD3v <titand3veloper@gmail.com>
+Depiction: https://titand3v.github.io/depictions/substia/index.html
+Icon: https://titand3v.github.io/depictions/substia/assets/icon.png
+
+Package: com.titand3v.surge
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: TitanD3v <titand3veloper@gmail.com>
+Installed-Size: 2476
+Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal
+Filename: ./debs/arm64/Surge.1.1.arm64.deb
+Size: 1966564
+MD5sum: bc215cfef7b19010c16f862bbf399e15
+SHA1: cac232a6300b0757cb9a6b1ca43a88e678ebf01b
+SHA256: c67e9a0874b721649f9b1079912e65473983db60afbf2d5c113b34b4e4c42d88
+SHA512: ac35377c7c2ac74d855d081b561300f9a7803e5ca383e75fb2c1a5fe96ec2f05b7e554e841503492876c8ff78faa021b833b1ae3992450b3eefabf52947af0e8
+Description: Low Power alert
+Name: Surge
+Author: TitanD3v <titand3veloper@gmail.com>
+Depiction: https://titand3v.github.io/depictions/surge/index.html
+Icon: https://titand3v.github.io/depictions/surge/assets/icon.png
+
+Package: com.hyperixa.surge
+Architecture: iphoneos-arm64
+Version: 2.2
+Section: Tweaks
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 1356
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, firmware (>= 14.0)
+Filename: ./debs/arm64/Surge.2.2.arm64.deb
+Size: 947112
+MD5sum: b9fae42db55af16fc277d733a7991fd0
+SHA1: f9a168b905ba6ca003145aa757d865305d540064
+SHA256: bbcf524f33ff7281e6ece23bf871c0863809672b820154d0bb46fc46c5a208d9
+SHA512: b196391f0862e22c21497e54b2755828ca610724acc9143202f47f920880e26d731f972b33fc6d168363a05f494faceee0e38de4628b576d48ec10eb1bd3e658
+Description: Low Power alert
+Name: Surge
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/surge/index.html
+Icon: https://repo.hyperixa.com/depictions/surge/assets/icon.png
+
+Package: com.p2kdev.tinge
+Architecture: iphoneos-arm64
+Version: 1.2.2
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 436
+Depends: firmware (>= 15.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: ./debs/arm64/Tinge.1.2.2.arm64.deb
+Size: 40940
+MD5sum: a8bea18c81e9658393e1ae50b6ebe742
+SHA1: 9dc03eab751255e38db9df48194c866b0bf7478f
+SHA256: 8a9854f75b61df192815e43328ea4c1db65e9357a617256eb01e0e4063fe98b4
+SHA512: 71416d84304d4192d77069e536c90ba46179f22df3178bb70c3612e1161330b544a963f94a2a339df1060c605351f5272fa72a8d9a404654af37a6355a3722ed
+Description: Color your badges with Perfection!
+Name: Tinge
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://media.havoc.app/65d915afdc4f78f77542f9d4
+Depiction: https://havoc.app/depiction/tinge
+SileoDepiction: https://havoc.app/package/tinge/depiction.json
+
+Package: com.82flex.touchvis
+Architecture: iphoneos-arm64
+Version: 3.8
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 3040
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/arm64/Touch-Viz.3.8.arm64.deb
+Size: 576020
+MD5sum: 2dd84b4fecb0d24503959e48274be9d9
+SHA1: d91404d5ad461142a15c42921fdb1d5bfe85bfd2
+SHA256: 3cdf6d837f208422a8b4252d5c31ef687a4594c4a2c6cba4b5da56ab3fd3b56c
+SHA512: 37f23da3c448893e0c02dea392e6acf382b8e312672b4aed372b44955059d8a254fb7328fe181450ce2fbab86816fb8fb946a3c3017a55f7a57cef920c71c23a
+Description: Display your touch interactions!
+Name: Touch-Viz
+Author: Lessica <82flex@gmail.com>
+Depiction: https://havoc.app/depiction/touchvis
+SileoDepiction: https://havoc.app/package/touchvis/depiction.json
+Icon: https://media.havoc.app/66b862c5328ec2048b895110
+
+Package: com.titand3v.unique
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: TitanD3v <titand3veloper@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal
+Filename: ./debs/arm64/Unique.1.0.arm64.deb
+Size: 4708
+MD5sum: 92a5bab1804e31dd1d313b7881a9b59f
+SHA1: 49d90d604ae088a157739f3d5b87a92f855fd871
+SHA256: 832b5e486153cf2863da280dedb4a26f6ce925883ea0663ac0f7f28450f4116a
+SHA512: 31a90ecaa454fe878f22703d9e7f760f46df30caaa0de0d9d277bb1f7ec63e26673ba3b6d90ac61ac60ebe9a717d28d21d8fb5405b726137c69d33facf1cff66
+Description: Swipe up on keyboard to paste your device's UDID
+Name: Unique
+Author: TitanD3v <titand3veloper@gmail.com>
+Depiction: https://titand3v.github.io/depictions/unique/index.html
+Icon: https://titand3v.github.io/depictions/unique/assets/icon.png
+
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm64
+Version: 1.2.72
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6456
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.20)
+Filename: ./debs/arm64/Watusi.3.for.WhatsApp.1.2.72.arm64.deb
+Size: 1941172
+MD5sum: 3c80a26f2ec74e04ce5483b70b7b2844
+SHA1: 7e6860c930d1bfc6201026c2225062fb560eaa6d
+SHA256: 6e0e70dc1b477cb06b644c3cc52aea7b5e0bd11438436219f674a4e8574c4fe6
+SHA512: 3f6b2cec43b4d379dcf41b09f24d01ff1098bcf4521e81bddcda32250f939f81606b3c2bca392b8bb0747e34c087a32109ced7b7dc9c486acd9606cc56295da1
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64
+Version: 2.5.20
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 12.0)
+Filename: ./debs/arm64/WatusiTools.2.5.20.arm64.deb
+Size: 4822460
+MD5sum: 4884a1bc59e6a09192a0f474e39f5ad2
+SHA1: af37a63ce023318f6d46806f063688f8b5a84497
+SHA256: 0e217ffcd8767ed7f7c85487cf95ffa70f50bc9b8cdf05763f2712d53b57bddd
+SHA512: e5895a9b5496480af28e75e887af379c73859b6002b1c28227af9c4f029853861ca290385872a8c4f4047f70cbd6108d0b388b8530f9092c0b67362979942d72
+Description: Library for Watusi, Regram and other tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
 Package: com.flexibits.fantastical2.iphone
 Architecture: iphoneos-arm
 Version: 0.0.2
@@ -15598,4 +16573,133 @@ SHA512: 419a9d85d5695f858d2acd9d9c910acc86dd3a6b8fda779203b5f71a8e52d0d0f7599697
 Name: Magi+ Hack
 Magi+: Magic Video Editor VIP!
 Author: pxcex
+
+Package: com.exile90.icleanerpro
+Architecture: iphoneos-arm64
+Version: 7.10.0
+Section: Utilities
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Filename: ./debs/arm64/iCleaner.Pro.7.10.0.arm64.deb
+Size: 983556
+MD5sum: 6e677bada1271b6ba1a7c0433bf4c829
+SHA1: 953399f6ac57211f278742ec0b2cb4f17d018d20
+SHA256: 1176e20d1d59593cdfffe6ba04963d9d99946220eda4edb95284725a79439a08
+SHA512: 1971f0ebba7f8ae3b2692fcf392e17fafa772b31e7a9a8ac737b7a63f2682ffca8c6bc7d533ed04b7c133b74f90600e616d3114c0ffd1cb082c9c0b92bceb7b7
+Description: The first real iOS system cleanup and management utility
+Name: iCleaner Pro
+Author: Ivano Bilenchi <support@ib-soft.net>
+Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/Icons/iCleaner.png
+
+Package: com.hyperixa.iconnect
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 2852
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, com.rpetrich.rocketbootstrap (>= 1.0.2), firmware (>= 14.0)
+Filename: ./debs/arm64/iConnect.1.2.arm64.deb
+Size: 2337824
+MD5sum: 49328fdd76a2f19f52ddbc5f69c00d26
+SHA1: 4d7d4f1f8c75e93fbdb0897531a0117d444b0a54
+SHA256: a7877afa114026bebc71b202e844dacb26201c8835a56743288c8a0dd1535c68
+SHA512: 0e179d52c1d5a0062f98f02d1dd7c68c6cdd2752c7ffa76e4c07f86a6521d77a17e55a6dddce742ed171170cfddc7158d1676458338bf396848719a92e92829d
+Description: Swiftly message your friends and family
+Name: iConnect
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/iconnect/index.html
+Icon: https://repo.hyperixa.com/depictions/iconnect/assets/icon.png
+
+Package: com.titand3v.idevices
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: TitanD3v <titand3veloper@gmail.com>
+Installed-Size: 3120
+Depends: mobilesubstrate, applist, com.titand3v.libtitand3vuniversal (>= 1.9)
+Filename: ./debs/arm64/iDevices.1.0.arm64.deb
+Size: 2096768
+MD5sum: 592e101f2cec92eb8092b5544a033a06
+SHA1: 3cd403fe56f67c78e61e5e1c9cb9f492920f19be
+SHA256: aeea56dd84a5a287f8008f410072635752ec66c769013c02ca3c06ebe21a633a
+SHA512: 5bf3fd4fba047c1e114a0789a1a251d1094c1be4ffb048277a59dbe01136cb0a0cb573600116f23cec8aad81d43a1be386e655bcfdb459a0bce5e900d6b74146
+Description: TitanD3v Tweaks
+Name: iDevices
+Author: TitanD3v <titand3veloper@gmail.com>
+Depiction: https://titand3v.github.io/depictions/idevices/index.html
+Icon: https://titand3v.github.io/depictions/idevices/assets/icon.png
+
+Package: com.titand3v.idevices
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: TitanD3v <titand3veloper@gmail.com>
+Installed-Size: 3120
+Depends: mobilesubstrate, applist, com.titand3v.libtitand3vuniversal (>= 1.9)
+Filename: ./debs/arm64/iDevices.1.1.arm64.deb
+Size: 2097372
+MD5sum: 340e1cc6ef459eb109893be3b6f271fc
+SHA1: 4337d7b985cf622c30158580abef3199a67bfd65
+SHA256: 8510144de768c14aa7163568f50b0bb7a42b0ab25a1404b1dae6db7ab3698160
+SHA512: bf32ff2a418790209aa000e8d5aef4d1850c3cfd08c11d96707ee26962aba0eb7a6e0be139a318ff25820bdb8de33cff6b48903553a1f0616fcbe6f980ebae97
+Description: TitanD3v Tweaks
+Name: iDevices
+Author: TitanD3v <titand3veloper@gmail.com>
+Depiction: https://titand3v.github.io/depictions/idevices/index.html
+Icon: https://titand3v.github.io/depictions/idevices/assets/icon.png
+
+Package: com.hyperixa.idevices
+Architecture: iphoneos-arm64
+Version: 2.2
+Section: Tweaks
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Installed-Size: 1512
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, com.hyperixa.hyperixa, applist, firmware (>= 14.0)
+Filename: ./debs/arm64/iDevices.2.2.arm64.deb
+Size: 689868
+MD5sum: c52711905e855a4351eb36c0bbe0f6c4
+SHA1: 0edd7ec3e440eb9dbb0f8d5906570691f4ff9541
+SHA256: 2c1ffa56dcb242585ca584da57a9117585b71b47c979b47d0071061d4a7735f2
+SHA512: c62c3ffd78c379c99443a959f0c9e2c6e6e38bd55da28cc5615ac13658560522fc30916d900d007720e1990de07c30866be53b844bc172daabf9d00ab70f03e6
+Description: More information about your devices
+Name: iDevices
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/idevices/index.html
+Icon: https://repo.hyperixa.com/depictions/idevices/assets/icon.png
+
+Package: com.titand3v.libtitand3vuniversal
+Architecture: iphoneos-arm64
+Version: 1.9
+Section: System
+Maintainer: TitanD3v
+Installed-Size: 13120
+Filename: ./debs/arm64/libTitanD3vUniversal.1.9.arm64.deb
+Size: 10089748
+MD5sum: 3d89ad868c1012896837109d8c54e457
+SHA1: 720b7f836dd69f694de10f8189d20674cdfc3c90
+SHA256: 4f2175130fef17af25b585c8b64004f3f837408033943fd3a5af058c4bf332dd
+SHA512: d769f5d82def89574d507c597e6b8ceca46c7fa0888d6e4706d074459742423a5e97467252b7639c599c85ab51245d8f56293104134715d7b8208788bcee3d48
+Description: TitanD3v universal library!
+Tag: role::developer
+Name: libTitanD3vUniversal
+Author: TitanD3v
+Depiction: https://titand3v.github.io/depictions/titand3vlib/index.html
+Icon: https://titand3v.github.io/depictions/titand3vlib/assets/icon.png
+
+Package: dev.unlock.00
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: adry
+Depends: firmware (>= 15.0)
+Filename: ./debs/arm64/unlock.apps.0.0.1.arm64.deb
+Size: 8476
+MD5sum: 087136b13dcf55f12151933406826203
+SHA1: 49486167595123b400a4acbd1bc5e8bebc900c5f
+SHA256: 213d3cc159516d36a0c7d7574eaf6c146f8204094a234e6de3fb87e2d2493f3a
+SHA512: ade717fc30c63c630c6246c2f91d2c56fc2ffd8699da2369d686fe0970904d6859816b8fa2fe91fac03452cf1656a51e2af211fcae4e6fc25e18289ddcb3e11d
+Description: unlock premium for most apps
+Name: unlock apps
+Author: adry
+Icon: https://i.imgur.com/m2Bn0u4.jpeg
 
