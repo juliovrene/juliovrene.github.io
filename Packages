@@ -1232,6 +1232,24 @@ Name: AutoScroll
 Icon: https://i.imgur.com/Pl4rjbu.jpeg
 Author: pxcex <ipxcex@icloud.com>
 
+Package: com.pxcex.autoscroll
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: pxcex <ipxcex@icloud.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debs/arm64/com.pxcex.autoscroll_1.0.0_iphoneos-arm64e-1.deb
+Size: 5244
+MD5sum: 7da16d835796291f47ae8bd009da3868
+SHA1: 1d1bb8d66df7cc11ae56780c7285d5f5f4bee017
+SHA256: 1e85111e5fa0ec496a4df81424f89301da1569d6b953b4a51ad045fad00330d4
+SHA512: 09ff11fdd986823bd3e0eada38f659ac10bc1965311925586766011d01c6d09a13ab4542f24370c9a6f6980bad7e89af8dc97f384f6067f5fda963633de15d46
+Description: Auto Scroll Mode
+Name: AutoScroll
+Icon: https://i.imgur.com/Pl4rjbu.jpeg
+Author: pxcex <ipxcex@icloud.com>
+
 Package: com.pxcex.bannercopied
 Architecture: iphoneos-arm
 Version: 0.0.2
