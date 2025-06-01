@@ -1,7 +1,7 @@
-Origin: repo.me
-Label: repo.me
-Codename: repo.me
-Description: repo.me
+Origin: my repo
+Label: my repo
+Codename: my repo
+Description: my repo
 Components: main
 Suite: stable
 Version: 1.0
