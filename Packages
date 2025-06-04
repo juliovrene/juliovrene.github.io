@@ -20746,3 +20746,36 @@ Name: unlock apps
 Author: adry
 Icon: https://i.imgur.com/m2Bn0u4.jpeg
 
+Package: xyz.cypwn.startupoptimizations
+Architecture: iphoneos-arm64
+Version: 2.3.5
+Section: System
+Maintainer: Porter, Korboy
+Depends: firmware (>> 14.0), mobilesubstrate, preferenceloader, bash
+Filename: ./debs/xyz.cypwn.startupoptimizations_2.3.5_iphoneos-arm64.deb
+Size: 1616
+MD5sum: b6ef670a3f2b1cca12147b8734f1d483
+SHA1: 5d998c10f752bc4f6f8b8e6703edbf6f9ea6f1e3
+SHA256: 5649cd3e9ffff182494227a6201230fce9e51f8415ae8d2b821e98fb3ad15452
+SHA512: 6c7e49d7e0c30adb4ed00b1cd62f2160828b52947a7f344243fd2f83e4ada990669a36692f20914bf497f4f2be471f4812aa7487b894cfcd2204a4313af6397d
+Description: Tweaks low-level system parameters to enhance performance after jailbreak. Improves multitasking, memory handling, and system responsiveness.
+Name: StartupOptimizations
+Author: LF
+
+Package: xyz.cypwn.startupoptimizations
+Architecture: iphoneos-arm64e
+Version: 2.3.5
+Section: System
+Maintainer: Porter, Korboy
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>> 14.0), mobilesubstrate, preferenceloader, bash
+Filename: ./debs/xyz.cypwn.startupoptimizations_2.3.5_iphoneos-arm64e (3).deb
+Size: 1592
+MD5sum: 151408c0bac3e6ef106363bd021addd2
+SHA1: 7dca03c2947b7259b5db53c4c7cd511126c291eb
+SHA256: ba5d7bf7637592f851a03c4bedaaba3f5e23c03ba9be19427f3c15c2192ed8e4
+SHA512: 22cc6ba1b7b984637ae6efc1d6b6e597ff29619ee7e5f9d068db5d88608a178ed387a1559b788b3e097d8c09a495f25eca7a882f84c15e06d4548706f25ae38c
+Description: Tweaks low-level system parameters to enhance performance after jailbreak. Improves multitasking, memory handling, and system responsiveness.
+Name: StartupOptimizations
+Author: LF
+

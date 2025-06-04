@@ -1,8 +1,0 @@
-Origin: my repo
-Label: my repo
-Codename: my repo
-Description: my repo
-Components: main
-Suite: stable
-Version: 1.0
-Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
