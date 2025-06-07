@@ -2833,6 +2833,230 @@ Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
 Name: Xinam1ne AIO
 Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
 
+Package: com.azmilaila.bazaart
+Architecture: iphoneos-arm
+Version: 7.4.3+
+Section: Tweaks
+Maintainer: Lailaazmi
+Installed-Size: 404
+Depends: mobilesubstrate
+Filename: ./debs/com.azmilaila.bazaart.deb
+Size: 67250
+MD5sum: 7c72e3f70040ade18370fa2f8968f124
+SHA1: d7d77e751be125d9f4a2db2ba88f4c4d2dfe6536
+SHA256: 586089052fab34ac4721639e56be29f140bdf2a6031f13a02344590cc18060ab
+SHA512: 966d9697b4567cfa9985f3f4318a0ae93fc5721a6726ecba68c374f4813c622f83b07ce94241e5ddad456a00d841e99e9a0d2eb0f9f24d51f812b3d9f84c03e3
+Description: 
+  • Unlocked All Features.
+  • No ads, No Watermark 
+  • Save HD Picture & More 
+  • Enjoy Premium Lifetime
+Tag: purpose::extension, compatible_max::ios15
+Name: Bazaart® Vip
+Author: Lailaazmi
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.bazaart.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.bazaart/icon.png
+
+Package: com.azmilaila.bazaart
+Architecture: iphoneos-arm64
+Version: 7.4.3+
+Section: Tweaks
+Maintainer: Lailaazmi
+Installed-Size: 404
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debs/com.azmilaila.bazaart_7.4.3+_iphoneos-arm64.deb
+Size: 65756
+MD5sum: 7bffd409401123fa89d948574ca3523c
+SHA1: 8e1e61a5dd168563cf8bf4713b7fe830aa2a965c
+SHA256: b167e3a948319cfb86937c4ea1947f7e80e9a3cc68945127d15d4bb8744eb715
+SHA512: 8f2c8f54111ecaf8380446f50acd4c544fe22817b6172b34f7558cde4c3877fb2b0e85f34fa64c0f22ac41a57cecb1c9407fc4070ad96428854f3890b5988ca9
+Description: 
+  • Unlocked All Features.
+  • No ads, No Watermark 
+  • Save HD Picture & More 
+  • Enjoy Premium Lifetime
+Tag: purpose::extension, compatible_max::ios15
+Name: Bazaart® Vip
+Author: Lailaazmi
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.bazaart.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.bazaart/icon.png
+
+Package: com.azmilaila.istore
+Architecture: iphoneos-arm
+Version: 5.5
+Section: Tweaks
+Maintainer: Lailaazmi
+Installed-Size: 1460
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.azmilaila.istore.deb
+Size: 786966
+MD5sum: 1adc6d073d36e6046ce7b5777830e9ae
+SHA1: 6bf772fafe942cdcee1b862b73295bf36f30617d
+SHA256: 33d9293c03157a91b5fa1ff8d7e52722b4e8c570ea945a8225004b4a5710eb5e
+SHA512: 5e0966980a228f81120c1db7f4a1ffc234551ede709151b17e3e64a70a74604095b4b9a7e4abb7a0ef5e1f56fb1ae4c4db3b5f19071696977f25f0d2fa52cc71
+Description: 
+  • Making In-app Purchases
+  • Works on ios 4 - 15 and up
+Name: iStore »
+Author: Lailaazmi
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.istore.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.istore/icon.png
+
+Package: com.azmilaila.istore
+Architecture: iphoneos-arm64
+Version: 5.5
+Section: Tweaks
+Maintainer: Lailaazmi
+Installed-Size: 1460
+Depends: mobilesubstrate, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debs/com.azmilaila.istore_5.5_iphoneos-arm64.deb
+Size: 777828
+MD5sum: 8b8685501762044bc6c3a58219304af5
+SHA1: 62219bfda7eefa7e803418f4eeda86697111a3df
+SHA256: e18da41414d1f27291b2851afcc87443232e0404269aed24a4a66aa2f511f5a8
+SHA512: 669921c695f86eec8cc6ec6b8aea78d7a348e8efd44323bcb9e9a636a788d3fd448edbf5d5b225bb8c7e71406c38ef485c2b65efa8800ccb9ceeb38e19cbbdf7
+Description: 
+  • Making In-app Purchases
+  • Works on ios 4 - 15 and up
+Name: iStore »
+Author: Lailaazmi
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.istore.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.istore/icon.png
+
+Package: com.azmilaila.meitu
+Architecture: iphoneos-arm
+Version: 9.7.0
+Section: Tweaks
+Maintainer: Laila Azmi <Lailaazmi@my.com>
+Installed-Size: 900
+Depends: mobilesubstrate
+Filename: ./debs/com.azmilaila.meitu.deb
+Size: 162018
+MD5sum: eec66a94b4174fe3d1f020173afbde68
+SHA1: 59ad602e92d6e45a6b884300929d1c478e4fd26a
+SHA256: b47f1c6ab2ec2fcae7dbb488791c58fc37e97d72b07514461125b914a46e955b
+SHA512: 5fced09d7150e584365b1d59ba92ce9ed0e916ec4eedc1209e7b523a2007a9340367d6720a76aab733db3c4549a768bc14c26f2128911d6499f606b96b9bd9ed
+Description: 
+  • Unlocked All Features
+  • Remove Ads & Banners
+  • Premium & Vip Access
+  • Enjoy Premium Lifetime
+Name: Meitu® Vip
+Author: Laila Azmi <Lailaazmi@my.com>
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.meitu.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.meitu/icon.png
+
+Package: com.azmilaila.meitu
+Architecture: iphoneos-arm64
+Version: 9.7.0
+Section: Tweaks
+Maintainer: Laila Azmi <Lailaazmi@my.com>
+Installed-Size: 900
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debs/com.azmilaila.meitu_9.7.0_iphoneos-arm64.deb
+Size: 84184
+MD5sum: 83342995f5887378323c04c113a888fa
+SHA1: 645b2f9b25f408a44f44271535fb5ea7719e818e
+SHA256: 1188b875110025e111f7b386fb07d13771bba42d3b66d75ae50b2738d7246f07
+SHA512: 2d585fd499427611ac3453d32972e61c3195a6995489534715af440367f763096feb8e0bdbf0144fefcb72ff744bb03671b4678463da244ec34caf7877092d02
+Description: 
+  • Unlocked All Features
+  • Remove Ads & Banners
+  • Premium & Vip Access
+  • Enjoy Premium Lifetime
+Name: Meitu® Vip
+Author: Laila Azmi <Lailaazmi@my.com>
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.meitu.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.meitu/icon.png
+
+Package: com.azmilaila.videoshow
+Architecture: iphoneos-arm
+Version: 5.8.0
+Section: Tweaks
+Maintainer: Laila Azmi <Lailaazmi@my.com>
+Installed-Size: 788
+Depends: mobilesubstrate
+Filename: ./debs/com.azmilaila.videoshow.deb
+Size: 147092
+MD5sum: 033c62d20ad1c4a3e921bf05e24fb40f
+SHA1: b21ad7ae027cefc5380b69df4efd19a3e67a7c1c
+SHA256: c734f8c918565f5d190a877da4c9e4c0026f7ec9535f61e86b21e56cf2620621
+SHA512: 6dce08a2fed323ec610a53fcbc38f3c862566735e04a22d10df336ea39810f48fd9c8a50ff5d25017af183207d008fde583b3f8a9e2c68d61b7c070799296eb5
+Description: 
+ • Unlocked All Features.
+ • Remove Ads & Watermark
+ • Save HD Video 4K ---
+ • Enjoy Premium Lifetime
+Name: VideoShow® Vip
+Author: Laila Azmi <Lailaazmi@my.com>
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.videoshow.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.videoshow/icon.png
+
+Package: com.azmilaila.videoshow
+Architecture: iphoneos-arm64
+Version: 5.8.0
+Section: Tweaks
+Maintainer: Laila Azmi <Lailaazmi@my.com>
+Installed-Size: 788
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debs/com.azmilaila.videoshow_5.8.0_iphoneos-arm64.deb
+Size: 76304
+MD5sum: 7e80a7a96949f2ecdc2e5918628e179d
+SHA1: 9a68bda37e169c62ed02106747baa924db6b0bce
+SHA256: 6116505f59f3e58b84aa832fef6a6bec32177a69049c7a1455cc060de85a7809
+SHA512: 4cdb1454caeaddda75ea2cef123129ea540907c1e62b9d64ce7d6e4001abf49b43f9da7b2cfd79eaf6bda384a6b6bbb261ab9b36c952224b873fe69a6c81be61
+Description: 
+ • Unlocked All Features.
+ • Remove Ads & Watermark
+ • Save HD Video 4K ---
+ • Enjoy Premium Lifetime
+Name: VideoShow® Vip
+Author: Laila Azmi <Lailaazmi@my.com>
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.videoshow.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.videoshow/icon.png
+
+Package: com.azmilaila.vivavideo
+Architecture: iphoneos-arm
+Version: 8.11.8
+Section: Tweaks
+Maintainer: Laila Azmi <Lailaazmi@my.com>
+Installed-Size: 404
+Depends: mobilesubstrate
+Filename: ./debs/com.azmilaila.vivavideo.deb
+Size: 70308
+MD5sum: 9eda900be39bcaa6ff4148a4c17d16d9
+SHA1: 0df70001bc17a1d209a596079306037ed8db7f49
+SHA256: 299128454f14a88cafbb8c27976d2ffceeda788c984553b35b4e6871c06cbc79
+SHA512: b339b6f1b5b1be18a1cdf0dd46756d5a56e531659ca0b11f0a5652900c0052c12892c77ef47ea32ee665e7b2489d546d6f70d2876152452468ee9c36ce37c6ce
+Description: 
+  • Unlocked All Features.
+  • Enjoy Premium Lifetime
+Name: VivaVideo® Vip
+Author: Laila Azmi <Lailaazmi@my.com>
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.vivavideo.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.vivavideo/icon.png
+
+Package: com.azmilaila.vivavideo
+Architecture: iphoneos-arm64
+Version: 8.11.8
+Section: Tweaks
+Maintainer: Laila Azmi <Lailaazmi@my.com>
+Installed-Size: 404
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debs/com.azmilaila.vivavideo_8.11.8_iphoneos-arm64.deb
+Size: 68900
+MD5sum: f47ff9b97a2103481e0ed32c2243f196
+SHA1: 82eb99eb4126a4471738cedc4d2c5f0be8811df4
+SHA256: b0f62eb6cf5e71c5b4c67659c4887ace7e8ec2aa48159bea3596647444ca2e6e
+SHA512: da8f96f3737690ae536c587194e0130c7cd0e290bd2d2897b816f47a6aa201710e7481732804157c5aeb3d61a336a65373b6230dbe99bf3d71d0ab336a8570d1
+Description: 
+  • Unlocked All Features.
+  • Enjoy Premium Lifetime
+Name: VivaVideo® Vip
+Author: Laila Azmi <Lailaazmi@my.com>
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.vivavideo.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.vivavideo/icon.png
+
 Package: com.blatant.aicoversongsmusicgeneratorpatch
 Architecture: iphoneos-arm
 Version: 1.3.3.7
